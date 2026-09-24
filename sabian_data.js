@@ -3156,7 +3156,13 @@ const sabianData = [
     "hermetic": "Plüton enerjisi",
     "stage": "Nigredo",
     "sign": "Akrep",
-    "id": "akrep-1"
+    "id": "akrep-1",
+    "guide": {
+      "meaning": "Savaş alanında yıkılmış bedenlerin arasında bir asker doğrulur; kılıcı kırılmış olsa da gözlerinde yenilmez bir diriliş ateşi yanmaktadır. Plüton ve Mars'ın ortak gücüdür. Simyada Nigredo (Siyah Aşama: egonun, eski formların ölümü ve çürümesi) evresinden çıkan ruhun ölümden sonraki ilk nefesidir. Kabala'da Geburah'ın (Kudret, Arındırıcı Güç ve Yıkım) küllerinden Tiferet'e (Kalp ve Yeniden Doğuş Merkezi) sıçrayışını simgeler.",
+      "daily_use": "Hayatınızda dibe vurduğunuzu, bir dönemin bittiğini veya yenildiğinizi hissettiğiniz anlarda içsel direncinizi hatırlayın. Eski formunuz ölmüş olabilir ama ruhunuz ölümsüzdür; ayağa kalkın ve enkazdan yepyeni, daha güçlü bir versiyonunuzu inşa edin.",
+      "shadow": "Yenilgiyi kabullenemeyip intikam hırsıyla beslenmek, geçmişin travmalarına ve kinine takılı kalarak geleceğe zehir taşımak.",
+      "affirmation": "Yıkılan her formun ardından daha güçlü, daha bilinçli ve yenilmez bir ruh olarak küllerimden doğuyorum."
+    }
   },
   {
     "degree": 2,
@@ -3165,7 +3171,13 @@ const sabianData = [
     "hermetic": "Mars–Kundalini",
     "stage": "Albedo",
     "sign": "Akrep",
-    "id": "akrep-2"
+    "id": "akrep-2",
+    "guide": {
+      "meaning": "Karasal kışın soğuğunda yerin derinliklerinde uyuyan kadim yılan, ilkbaharın ilk ılık rüzgarıyla toprağın çatlaklarından uyanır. Kundalini enerjisi ve omurganın dibindeki saklı gücün uyanışıdır. Simyada Nigredo'dan Albedo'ya (Beyaz Aşama: arınma ve uyanış) geçişi simgeler. Kabala'da Yesod (Bilinçdışı ve İçgüdüsel Temel) sefirasında depolanan hayati enerjinin omurga boyunca yükselişidir.",
+      "daily_use": "Uzun süredir ertelediğiniz veya uykuda olan yeteneklerinizi, projelerinizi ve tutkularınızı uyandırın. İçsel sezgilerinize güvenin; doğru zaman geldiğinde enerjinizi harekete geçirmekten korkmayın.",
+      "shadow": "Uyanan vahşi arzuları ve öfkeyi kontrol edememek, saldırgan veya zehirleyici tepkilerle çevreyi yaralamak.",
+      "affirmation": "İçimdeki hayat enerjisi ve kadim bilgelik uyanıyor. Sezgilerimi ve tutkumu yüce amaçlar için yönlendiriyorum."
+    }
   },
   {
     "degree": 3,
@@ -3174,7 +3186,13 @@ const sabianData = [
     "hermetic": "Binah–Yesod hattı",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-3"
+    "id": "akrep-3",
+    "guide": {
+      "meaning": "Loş bir tapınakta toplanan gizli kardeşlik üyeleri, aralarına katılan adaya kutsal yemini ettirir; göz bağları çözülür ve meşalelerin ışığı görünür. Hermetik inisiyasyon ve sır saklama disiplinidir. Kabala'da Binah (Büyük Anne, Kozmik Anlayış ve Sırların Rahmi) sefirasının derin sessizliğini temsil eder.",
+      "daily_use": "Hayatınızda herkese açılmak zorunda değilsiniz; kutsal hedeflerinizi, projelerinizi ve derin niyetlerinizi sadece güvenilir yol arkadaşlarıyla paylaşın. Sadakat, sırdaşlık ve ortak bir ülkü etrafında derin bağlar kurun.",
+      "shadow": "Kibirli bir seçkincilik taslamak, başkalarını dışlayıcı gizli komplolara ve şüpheciliğe kapılmak.",
+      "affirmation": "Ruhumun kutsal sırlarını koruyor, güvenilir ve derin bağlarla hakikatin ışığında yürüyorum."
+    }
   },
   {
     "degree": 4,
@@ -3183,7 +3201,13 @@ const sabianData = [
     "hermetic": "Plüton–Satürn",
     "stage": "Nigredo",
     "sign": "Akrep",
-    "id": "akrep-4"
+    "id": "akrep-4",
+    "guide": {
+      "meaning": "Dağın doruklarındaki karanlık bir mağaranın serinliğinde oturan ermiş, zihnin tüm dalgalarını dindirmiş, mutlak sessizlikte içsel ışığı izlemektedir. Hermetik 'İçe Dönüş' (Solitudo Hermetica) ve simyasal meditasyondur. Kabala'da Tiferet'ten (Bilinç ve Öz Benlik) Keter'e (Saf İlahi Birlik ve Taç) yönelen mistik tefekkür halidir.",
+      "daily_use": "Dış dünyanın gürültüsünden, sosyal medyadan ve dedikodulardan bir süreliğine tamamen soyutlanın. Sessizlik içinde kendi gölgenizle ve içsel bilgeliğinizle buluşun; aradığınız tüm cevaplar içsel sessizliğinizdedir.",
+      "shadow": "İnsanlardan ve hayattan tamamen koparak dünyadan kaçmak, asosyal ve donuk bir ruh haline bürünmek.",
+      "affirmation": "Sessizliğin derinliğinde huzuru ve Tanrısal ışığı buluyorum. İçsel mağaram benim en kutsal mabedimdir."
+    }
   },
   {
     "degree": 5,
@@ -3192,7 +3216,13 @@ const sabianData = [
     "hermetic": "Simyasal ateş",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-5"
+    "id": "akrep-5",
+    "guide": {
+      "meaning": "Yakıcı bir alev sütunu gecenin karanlığını yarar; alevlerin ortasında efsanevi Anka kuşu (Feniks) kanatlarını çırparak göğe doğru yükselir. Plütonik mutasyon ve Rubedo (Kızıl Aşama: nihai simyasal dönüşüm) sembolüdür. Solve et Coagula (Çöz ve Pıhtılaştır) prensibinin en saf örneğidir; yok olan bedenin yerini parlayan ruh alır.",
+      "daily_use": "Korkularınızı, bağımlılıklarınızı ve eski alışkanlıklarınızı simyasal ateşin içine atın. Değişimden korkmayın; bugün yanan şey, yarın sizin en parlak zaferinizin yakıtı olacaktır.",
+      "shadow": "Kendini veya çevresindekileri sürekli kriz ve kaos ortamlarına sürükleyerek drama bağımlılığı geliştirmek.",
+      "affirmation": "Korkularımın alevinde arınıyor, her zorluktan sonra daha görkemli bir bilinçle kanatlanıp yükseliyorum."
+    }
   },
   {
     "degree": 6,
@@ -3201,7 +3231,13 @@ const sabianData = [
     "hermetic": "Yesod–Plüton",
     "stage": "Nigredo",
     "sign": "Akrep",
-    "id": "akrep-6"
+    "id": "akrep-6",
+    "guide": {
+      "meaning": "Koyu bir sisin ve kör karanlığın ortasında aniden iki altın sarısı göz parlar; bu gözler karanlığın ötesindeki gizli hakikati olduğu gibi görmektedir. Sezginin röntgen ışını gibi çalışan gücüdür. Kabala'da Yesod (Bilinçdışı Sezgiler) ile Binah'ın (Gizli Hakikatleri Sezen Akıl) derinleşmesidir.",
+      "daily_use": "İnsanların söylediklerine değil, hissettirdiklerine ve gözlerinin arkasındaki niyete odaklanın. Kendi karanlık yönlerinizi ve başkalarının maskelerini net bir farkındalıkla görün, ancak yargılamadan sadece görün.",
+      "shadow": "Aşırı paranoya, herkesin altında bir kötülük veya gizli ajanda arayarak kuşku içinde yaşamak.",
+      "affirmation": "Karanlıkta bile hakikati gören berrak bir sezgiye sahibim. İllüzyonlar kaybolur, gerçeğin ışığı parlar."
+    }
   },
   {
     "degree": 7,
@@ -3210,7 +3246,13 @@ const sabianData = [
     "hermetic": "Neptün–Plüton birleşimi",
     "stage": "Albedo",
     "sign": "Akrep",
-    "id": "akrep-7"
+    "id": "akrep-7",
+    "guide": {
+      "meaning": "Mumlu loş bir odada oturan medyum, görünmeyen alemlerle köprü kurar; geçmişin ruhları ve ata bilgeliği odanın havasında fısıldar. Hermetik 'Yukarıda olan neyse aşağıda olan da odur' ilkesinin ruhsal alem ile fiziksel alem arasındaki haberleşmesidir. Kabala'da Malkut (Fiziksel Boyut) ile Yesod (Astral Boyut) arasındaki tülün kalkmasıdır.",
+      "daily_use": "Geçmişten gelen dersleri ve atalarınızın deneyimlerini onurlandırın. Rüyalarınıza ve içsel fısıltılarınıza kulak verin; geçmişte çözülmemiş duygusal düğümleri affederek serbest bırakın.",
+      "shadow": "Geçmişe veya ölümlere saplanıp kalmak, gerçek dünyadan koparak ruhsal yanılsamalara esir olmak.",
+      "affirmation": "Geçmişin yüklerini sevgiyle bırakıyor, atalarımın bilgeliğini onurlandırarak şimdiki anda güçleniyorum."
+    }
   },
   {
     "degree": 8,
@@ -3219,7 +3261,13 @@ const sabianData = [
     "hermetic": "Geburah disiplini",
     "stage": "Nigredo",
     "sign": "Akrep",
-    "id": "akrep-8"
+    "id": "akrep-8",
+    "guide": {
+      "meaning": "Yüksek taş duvarların ardında, kadife yapraklı siyah güller ay ışığında mistik bir koku saçar; her bir gül derin bir acının bilgeliğe dönüşmüş halidir. Simyasal Nigredo'nun güzelliğidir. Acının ve hüznün bastırılmayıp kutsal bir sanata ve olgunluğa dönüştürülmesini anlatır.",
+      "daily_use": "Hayatınızdaki hüzünleri veya kayıpları utançla saklamak yerine, onları karakterinizi derinleştiren ve sizi olgunlaştıran birer mücevher gibi görün. Zorluklardan şefkat ve derin bir zarafet üretin.",
+      "shadow": "Melankoliye, kedere ve karanlık duygulara bağımlılık geliştirip neşeyi hayatından tamamen kovmak.",
+      "affirmation": "Yaşadığım tüm zorluklar beni derinleştiren birer bilgeliğe dönüşüyor. Ruhum karanlıkta bile zarafetle açar."
+    }
   },
   {
     "degree": 9,
@@ -3228,7 +3276,13 @@ const sabianData = [
     "hermetic": "Simyasal dönüşüm",
     "stage": "Albedo",
     "sign": "Akrep",
-    "id": "akrep-9"
+    "id": "akrep-9",
+    "guide": {
+      "meaning": "Tapınağın kutsal ateş sunağında duran rahibe, alevlerin üzerinden atlayarak ve tütsü dumanlarıyla tüm nefsani kirlerinden temizlenir. Simyada Calcinatio (Ateşle Yakarak Arındırma) işlemidir. Kabala'da Geburah'ın (Kutsal Ateş ve Disiplin) egonun kaba tortularını yakıp kül etmesidir.",
+      "daily_use": "Zihninizi meşgul eden takıntıları, kıskançlıkları ve değersizlik hislerini ateşin enerjisiyle yakın ve temizleyin. Hayatınızda sadeleşmeye gidin; gereksiz yükleri bir daha dönmemek üzere geride bırakın.",
+      "shadow": "Aşırı cezalandırıcı ve acımasız bir özeleştiri yapmak, kendini suçluluk duygularıyla tüketmek.",
+      "affirmation": "İlahi ateş zihnimi, bedenimi ve duygularımı arındırıyor. Saf ve lekesiz bir niyetle yeniden parlıyorum."
+    }
   },
   {
     "degree": 10,
@@ -3237,7 +3291,13 @@ const sabianData = [
     "hermetic": "Satürn aynası",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-10"
+    "id": "akrep-10",
+    "guide": {
+      "meaning": "Simsiyah, pürüzsüz bir volkanik obsidyen aynaya bakan kadın, kendi yüzünün ardındaki ata ruhlarını ve kolektif gölgeyi net bir şekilde izler. Carl Jung'un 'Gölge ile Yüzleşme' prensibinin Hermetik simgesidir. Albedo aşamasında bilinçdışının aynasında kendi bastırılmış yönlerini tanımasıdır.",
+      "daily_use": "Kendi kusurlarınızla, kıskançlıklarınızla ve korkularınızla cesurca yüzleşin. Başkalarında sizi rahatsız eden özelliklerin aslında kendi içinizde bastırdığınız parçalar olduğunu fark edin ve onları kucaklayın.",
+      "shadow": "Kendi karanlığını başkalarına yansıtıp onları suçlamak veya aynada gördüğü gölgelerden dehşete düşerek geri çekilmek.",
+      "affirmation": "Tüm karanlık ve aydınlık yönlerimi cesaretle kucaklıyorum. Kendimi bütünüyle tanıdıkça özgürleşiyorum."
+    }
   },
   {
     "degree": 11,
@@ -3246,7 +3306,13 @@ const sabianData = [
     "hermetic": "Plüton",
     "stage": "Nigredo",
     "sign": "Akrep",
-    "id": "akrep-11"
+    "id": "akrep-11",
+    "guide": {
+      "meaning": "Yerin yedi kat altındaki antik bir yeraltı tapınağında inisiye, labirentleri geçerek kutsal lahdin önünde diz çöker; eski kimliğinin ölümünü kabul eder. Antik Mısır ve Eleusis gizemlerinin yeraltı inişi (Katabasis) ritüelidir. Kabala'da Malkut'un (Yeryüzü) en derin köklerinden ilahi kıvılcımı bulup çıkarma sanatıdır.",
+      "daily_use": "Zorlukların ve krizlerin birer inisiyasyon sınavı olduğunu bilin. Hayat sizi zor bir sınava soktuğunda kaçmayın; bu sınav sizin ruhsal kaslarınızı güçlendirmek ve sizi bir üst mertebeye taşımak içindir.",
+      "shadow": "Karanlık girdaplarda kaybolup rehbersiz kalmak, krizleri bir gelişim aracı yerine felaket olarak görmek.",
+      "affirmation": "Hayatın sınavlarından güçlenerek ve olgunlaşarak geçiyorum. En derin karanlıkta bile ilahi rehberlik benimledir."
+    }
   },
   {
     "degree": 12,
@@ -3255,7 +3321,13 @@ const sabianData = [
     "hermetic": "Mars–Plüton",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-12"
+    "id": "akrep-12",
+    "guide": {
+      "meaning": "Kül yığınının tam kalbinden altın rengi minik bir kuş fırlar; nefesiyle külleri savurarak devasa alev kanatlarıyla gökyüzüne doğru hızla tırmanır. Rubedo (Kızıl Aşama: Ruhsal Zafer) evresinin zirvesidir. Küller geçmişin tortusudur; kuş ise ebedi bilincin kendisidir.",
+      "daily_use": "Maddi veya manevi bir yıkımın ardından 'bitti' denilen yerden başlayın. Eski planlarınız çökmüş olabilir, ancak önünüzde sınırsız bir potansiyel var; geçmişin yasını tutmayı bırakıp kanatlarınızı açın.",
+      "shadow": "Eski yıkımın enkazında ağlayıp kalmak, mucizelere ve yeniden dirilişe olan inancını yitirmek.",
+      "affirmation": "Bitti denilen yerden yeniden başlarım. Küllerim bana sadece daha yüksekten uçmak için güç verir."
+    }
   },
   {
     "degree": 13,
@@ -3264,7 +3336,13 @@ const sabianData = [
     "hermetic": "Ay–Plüton",
     "stage": "Albedo",
     "sign": "Akrep",
-    "id": "akrep-13"
+    "id": "akrep-13",
+    "guide": {
+      "meaning": "Gözleri ipek bir bağla kapatılmış bir kadın, gece esen rüzgarın fısıltılarını ve kalbinin vuruşlarını dinleyerek adımlarını kusursuz bir güvenle atar. Hermetik Sezgi ve Gözsüz Görüş (Visio Interna) prensibidir. Kabala'da Chokmah (İlahi Sezgi ve Hikmet) ile Yesod'un (Astral Algı) birleşimidir.",
+      "daily_use": "Gözlerinizle gördüğünüz maddesel göstergelere veya insanların aldatıcı sözlerine değil, içinizdeki altıncı hisse ve sezginize kulak verin. Mantığın tıkandığı yerde kalbinizin rehberliğine güvenin.",
+      "shadow": "Gerçekleri görmezden gelmek, körü körüne tehlikeli adımlar atmak, gerçeklikten kopuk hülyalara kapılmak.",
+      "affirmation": "Gözlerimi dış yanılsamalara kapatıp içsel bilgeliğimin sesini dinliyorum. Kalbimin sezgisi bana en doğru yolu gösterir."
+    }
   },
   {
     "degree": 14,
@@ -3273,7 +3351,13 @@ const sabianData = [
     "hermetic": "Geburah–Binah",
     "stage": "Nigredo",
     "sign": "Akrep",
-    "id": "akrep-14"
+    "id": "akrep-14",
+    "guide": {
+      "meaning": "Siyah bazalttan inşa edilmiş, duvarlarında altın kakmalı akrep kabartmaları bulunan görkemli bir mabet; burası korkuların güce, zehrin panzehire dönüştürüldüğü yerdir. Hermetik Şifa: 'Zehir ile panzehir aynı kaynaktan çıkar.' Kabala'da Geburah'ın (Kudret ve Zehir) Tiferet'te (Şifa ve İlaç) dengelenmesidir.",
+      "daily_use": "Hayatınızda canınızı yakan, sizi öfkelendiren duyguları inceleyin. O öfkenin altında yatan enerjiyi yıkım için değil, sınırlarınızı korumak ve hedeflerinize odaklanmak için bir itici güç olarak kullanın.",
+      "shadow": "Zehirli diliyle çevresine sokmalar yapmak, kindar ve öç alıcı bir karaktere bürünmek.",
+      "affirmation": "İçimdeki tüm zehirleri panzehire ve şifaya dönüştürüyorum. Gücüm yıkmak için değil, arındırmak ve korumak içindir."
+    }
   },
   {
     "degree": 15,
@@ -3282,7 +3366,13 @@ const sabianData = [
     "hermetic": "Venüs–Mars",
     "stage": "Albedo",
     "sign": "Akrep",
-    "id": "akrep-15"
+    "id": "akrep-15",
+    "guide": {
+      "meaning": "Koyu kırmızı, kadife yapraklı bir gül, keskin ve sivri dikenlerin arasından tüm ihtişamıyla göğe doğru yükselir; dikenler çiçeğin kutsal güzelliğini koruyan bekçilerdir. Aşk ve Tutkunun sınırlarla korunmasıdır. Kabala'da Chesed (Sonsuz Sevgi ve Gül) ile Geburah'ın (Keskin Sınırlar ve Diken) kusursuz evliliğidir.",
+      "daily_use": "Sevgiyi, cömertliği ve şefkati yaşarken sınırlarınızı korumaktan çekinmeyin. Sağlıklı sınırlar (dikenler), sizin kalbinizin saflığını (gülü) kötü niyetlerden ve istismardan korur.",
+      "shadow": "Dikenlerini gereksiz yere her yana batırarak sevgiyi ve insanları kendinden uzaklaştırmak; ulaşılamaz olmak.",
+      "affirmation": "Kalbim sevgiyle doludur, sınırlarım ise net ve koruyucudur. Değerimi biliyor ve koruyorum."
+    }
   },
   {
     "degree": 16,
@@ -3291,7 +3381,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-16"
+    "id": "akrep-16",
+    "guide": {
+      "meaning": "Yoğun, gri bir sis denizinin ortasında aniden beliren altın sarısı bir fener ışığı, yolunu kaybetmiş gemilere güvenli limanı gösterir. Simyada Albedo aşamasında zihnin karmaşasının ortasında uyanan ilahi rehberlik ışığıdır. Kabala'da Tiferet'in (Güneş ve Rehberlik) karanlık suları aydınlatmasıdır.",
+      "daily_use": "Hayatınızda belirsizlik ve kafa karışıklığı yaşadığınızda panik yapmayın. Küçük de olsa önünüzdeki ilk adımı aydınlatan o minik ışığa odaklanın; sis zamanla dağılacak ve yol netleşecektir.",
+      "shadow": "Sisin içinde korkuya kapılıp dümeni tamamen bırakmak, ümitsizliğe teslim olmak.",
+      "affirmation": "Sisler ve belirsizlikler içinde bile yolumu aydınlatan ilahi ışığı görüyorum. Güvenle ilerliyorum."
+    }
   },
   {
     "degree": 17,
@@ -3300,7 +3396,13 @@ const sabianData = [
     "hermetic": "Solve et Coagula",
     "stage": "Nigredo",
     "sign": "Akrep",
-    "id": "akrep-17"
+    "id": "akrep-17",
+    "guide": {
+      "meaning": "Eski, yıpranmış ve kurumuş derisini taşların arasına sürtünerek üzerinden sıyıran yılan, altındaki zümrüt parlaklığındaki taze derisiyle yeniden doğar. Hermetik Metamorfoz ve Ecdysis (Kabuk Değiştirme) sırrıdır. Eski inançların, unvanların ve alışkanlıkların terk edilmesidir.",
+      "daily_use": "Size artık dar gelen, gelişiminizi engelleyen eski düşünce kalıplarını ve kimlikleri üzerinizden atın. 'Ben hep böyleydim' demek yerine, değişimin tazeliğine ve yenilenmeye kucak açın.",
+      "shadow": "Geçmiş kimliğine, statüsüne veya takıntılarına ölümüne yapışıp kabuğun içinde çürümek.",
+      "affirmation": "Bana artık hizmet etmeyen tüm eski kalıpları sevgiyle bırakıyorum. Ruhum her gün yenilenir ve tazelenir."
+    }
   },
   {
     "degree": 18,
@@ -3309,7 +3411,13 @@ const sabianData = [
     "hermetic": "Plüton enerjisi",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-18"
+    "id": "akrep-18",
+    "guide": {
+      "meaning": "Yanan devasa bir ateş halkasının tam merkezinde duran inisiye, alevlere dokunmadan ama onların ısısını tüm varlığında hissederek kendinden geçercesine dans eder. İrade ile tutkunun mutlak kontrolüdür. Simyada ateşin yakıcı değil, dönüştürücü gücüyle birleşmeyi simgeler.",
+      "daily_use": "Krizlerin, stresli durumların ve hararetli tartışmaların ortasında paniklemeden merkezde kalın. Ateşin sizi yakmasına izin vermeyin; durumun enerjisini yaratıcı bir çözüme dönüştürün.",
+      "shadow": "Ateşle pervasızca oynayıp kendini veya başkalarını yakmak, tehlikeli risklere körü körüne atılmak.",
+      "affirmation": "Kaosun ve ateşin ortasında bile merkezimdeyim. Tutkumu ve irademi bilgelikle yönetiyorum."
+    }
   },
   {
     "degree": 19,
@@ -3318,7 +3426,13 @@ const sabianData = [
     "hermetic": "Binah–Yesod",
     "stage": "Albedo",
     "sign": "Akrep",
-    "id": "akrep-19"
+    "id": "akrep-19",
+    "guide": {
+      "meaning": "Karasal gecede zifiri karanlık bir gölün durgun yüzeyine gökyüzündeki tek bir kutup yıldızı yansır; derin su ile sonsuz gök tek bir noktada birleşir. Hermetik 'Aşağıda olan yukarıda olan gibidir' ilkesidir. Kabala'da Malkut (Yeryüzü Suları) ile Keter'in (İlahi Yıldız) aynalanmasıdır.",
+      "daily_use": "Zihninizi ve duygularınızı dinginleştirdiğinizde, evrenin en yüksek hakikatleri kalbinizde berrakça yankılanır. Telaşı bırakın; durgun bir zihin hakikatin en kusursuz aynasıdır.",
+      "shadow": "Durgunluk adı altında eylemsizliğe ve depresif bir atalete saplanmak.",
+      "affirmation": "Zihnim dingin bir göl gibi sakindir. Ruhumun derinliklerinde ilahi ışığın yansımasını görüyorum."
+    }
   },
   {
     "degree": 20,
@@ -3327,7 +3441,13 @@ const sabianData = [
     "hermetic": "Satürn–Plüton",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-20"
+    "id": "akrep-20",
+    "guide": {
+      "meaning": "Zifiri karanlık, ışık geçirmeyen bir aynanın tam merkezinden aniden saf beyaz bir ışık patlar ve tüm odayı aydınlatır. Simyada 'Lux in Tenebris' (Karanlıktaki Işık) sırrıdır. En derin krizlerin ve acıların tam kalbinde en büyük kurtuluşun saklı olduğunu gösterir.",
+      "daily_use": "Hayatınızın en zorlu, en umutsuz görünen anlarında ışığın doğmak üzere olduğunu bilin. Karanlığı düşman değil, ışığın doğumunu müjdeleyen kutsal rahim olarak görün ve sabırla bekleyin.",
+      "shadow": "Karanlığa o kadar alışmak ki aniden gelen ışığı ve çözümü reddetmek, şikayet etmekten beslenmek.",
+      "affirmation": "En koyu karanlığın kalbinde bile sönmeyen bir ışık saklıdır. İçimdeki ışık tüm gölgeleri aydınlatır."
+    }
   },
   {
     "degree": 21,
@@ -3336,7 +3456,13 @@ const sabianData = [
     "hermetic": "Plüton",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-21"
+    "id": "akrep-21",
+    "guide": {
+      "meaning": "Toprağa sarılmış siyah bir yılanın altından saf altın bir külçe ve göğe doğru fışkıran bir ışık sütunu yükselir. Simyada yılan 'Prima Materia'dır (ham madde/düşük benlik); onun koruduğu hazine ise 'Felsefe Taşı'dır. Kabala'da Yesod'daki arzuların saflaştırılarak Tiferet'in altınına dönüşmesidir.",
+      "daily_use": "En çok utandığınız, korktuğunuz veya bastırdığınız yeteneklerinizi araştırın. O 'yılanın' koruduğu hazineyi bulun; gölgenizi kabul ettiğinizde hayatınızın en büyük zenginliğini keşfedeceksiniz.",
+      "shadow": "Hazineye ulaşmak yerine yılana takılıp kalmak, kendi zaaflarını putlaştırıp değişime direnmek.",
+      "affirmation": "Gölge sandığım her zaafın altında ilahi bir hazine saklıdır. Karanlığımı altın bilince dönüştürüyorum."
+    }
   },
   {
     "degree": 22,
@@ -3345,7 +3471,13 @@ const sabianData = [
     "hermetic": "Mars–Plüton",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-22"
+    "id": "akrep-22",
+    "guide": {
+      "meaning": "Kızgın bir lav ve ateş denizinin üzerinde ayakları yanmadan yürüyen ve dans eden ışıklı bir figür görünür; madde artık onun iradesine boyun eğmiştir. Simyasal Coagula (Pıhtılaştırma/Maddileştirme) aşamasında ruhun madde üzerindeki mutlak egemenliğidir.",
+      "daily_use": "Zorlu çevre koşullarına veya toksik ortamlara rağmen zarafetinizi ve dengenizi koruyun. Başkalarının öfke seli sizi batırmasın; yüksek bir frekansta kalarak krizlerin üstünde süzülün.",
+      "shadow": "Manevi bir kibirle dünyaya ve insanlara tepeden bakmak, 'bana hiçbir şey olmaz' diyerek sınırları çiğnemek.",
+      "affirmation": "Dünyanın alevleri beni yakamaz. Ruhumun ışığı ve yüksek bilincimle her zorluğun üstünde zarafetle yürürüm."
+    }
   },
   {
     "degree": 23,
@@ -3354,7 +3486,13 @@ const sabianData = [
     "hermetic": "Rubedo aşaması",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-23"
+    "id": "akrep-23",
+    "guide": {
+      "meaning": "Dağın tepesindeki mermer sütunlu mabet, altın tüylü Feniks kuşuna adanmıştır; mabedin tavanı açıktır ve doğrudan gökyüzündeki Güneş'e bakar. Kalıcı dönüşümün ve ölümsüz ruh bilincinin anıtıdır. Kabala'da Tiferet'in (Güneş Mabedi) zaferidir.",
+      "daily_use": "Hayatınızda geçici zaferlerin değil, kalıcı ve ruhsal değerlerin peşinden koşun. Başarılarınızı bencilce sahiplenmek yerine, onları başkalarına ilham verecek bir ışık mabedine dönüştürün.",
+      "shadow": "Kendi başarısını putlaştırmak, sürekli onay ve hayranlık beklemek.",
+      "affirmation": "Dönüşümüm kalıcı ve kutsaldır. Ruhumun tapınağında sadece hakikat, sevgi ve ışık ikamet eder."
+    }
   },
   {
     "degree": 24,
@@ -3363,7 +3501,13 @@ const sabianData = [
     "hermetic": "Saturn–Plüton",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-24"
+    "id": "akrep-24",
+    "guide": {
+      "meaning": "Antik bir meşe ağacının altında oturan bilge adam, karşısında beliren karanlık gölgesinin gözlerinin içine bakar; kılıcını kınına sokar ve gölgesine bir fincan çay uzatır. Gölge ile dostluk ve barış ritüelidir. Hermetik Bütünleşme prensibidir; savaşmak yerine anlamayı seçmektir.",
+      "daily_use": "Kendi öfkenizle, korkularınızla ve zayıflıklarınızla savaşmayı bırakın. Onlara bir misafir gibi yaklaşın: 'Bana ne öğretmeye geldin?' diye sorun. Kabul edilen her gölge, güce dönüşür.",
+      "shadow": "Gölgeyle dost olmak yerine onun kontrolüne girmek, kötülüğü ve bencilce davranışları rasyonalize etmek.",
+      "affirmation": "İçimdeki tüm parçalarla barış içindeyim. Korkularımla yüzleşiyor, onları sevgiyle bütünlüğe davet ediyorum."
+    }
   },
   {
     "degree": 25,
@@ -3372,7 +3516,13 @@ const sabianData = [
     "hermetic": "Binah",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-25"
+    "id": "akrep-25",
+    "guide": {
+      "meaning": "Devasa bir dağın yamacına oyulmuş simsiyah, pürüzsüz obsidyen bir kapı; üzerinde hiçbir kilit veya tokmak yoktur, sadece sessiz ve saf bir kalp yaklaştığında kendiliğinden açılır. Hermetik Eşik Bekçisi (Dwellers on the Threshold) sırrıdır. Kabala'da Da'at (Gizli Bilgi ve Uçurum) kapısını temsil eder.",
+      "daily_use": "Zorla kapıları açmaya çalışmaktan, manipülasyonla veya baskıyla sonuç almaya çalışmaktan vazgeçin. Doğru kapılar sadece saf bir niyet, sabır ve dürüstlükle açılır; niyetinizi saflaştırın.",
+      "shadow": "Gizli kapıları hileyle veya zorbalıkla açmaya çalışmak, kaldıramayacağı ruhsal sırların peşine düşmek.",
+      "affirmation": "Niyetim saf ve temizdir. Önümdeki tüm engeller kendiliğinden çekilir, hakikatin kapıları bana açılır."
+    }
   },
   {
     "degree": 26,
@@ -3381,7 +3531,13 @@ const sabianData = [
     "hermetic": "Geburah",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-26"
+    "id": "akrep-26",
+    "guide": {
+      "meaning": "Uçsuz bucaksız bir gecenin ve dipsiz bir vadinin tam kalbinde, tek bir rüzgarda bile sönmeyen parlak ve sarsılmaz bir mavi alev yanar. Hermetik 'Sönmeyen Kıvılcım' (Scintilla Divina) ilkesidir. Kabala'da Keter'in (İlahi Öz) karanlıkta parlayan ebedi nurudur.",
+      "daily_use": "Herkes umudunu kestiğinde, dünya karamsarlığa gömüldüğünde bile siz içinizdeki o kutsal inancı koruyun. Çevrenize umut ve kararlılık aşılayın; tek bir sarsılmaz duruş koca bir topluluğu aydınlatabilir.",
+      "shadow": "Kendi inancını tek hakikat sanıp başkalarına dayatmak, fanatizme sürüklenmek.",
+      "affirmation": "İçimdeki kutsal ateş sönmez ve sarsılmazdır. Dünyanın karanlığında umudun ve direncin ışığıyım."
+    }
   },
   {
     "degree": 27,
@@ -3390,7 +3546,13 @@ const sabianData = [
     "hermetic": "Plüton",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-27"
+    "id": "akrep-27",
+    "guide": {
+      "meaning": "Yerde sürünen yılanın sırtından kartal kanatları filizlenir; sürünmeyi bırakıp gökyüzünün sonsuz maviliğine doğru hızla yükselir. Hermetik Uroboros ve Kundalini'nin taç çakraya (Keter) ulaşmasıdır. Yeryüzü arzularının (yılan) göksel bilgeliğe (kartal) dönüşmesidir.",
+      "daily_use": "Maddi kaygılara ve dar bakış açılarına hapsolup kalmayın. Olaylara 'kuş bakışı' geniş bir perspektiften bakın; yerdeki küçük detaylara takılmak yerine büyük resmi görün.",
+      "shadow": "Yere basmayı unutup gerçeklikten kopmak, bedenini ve dünyevi sorumluluklarını inkar etmek.",
+      "affirmation": "Arzularım bilgeliğe, içgüdülerim yüksek vizyona dönüşüyor. Kanatlanıyor ve büyük resmi görüyorum."
+    }
   },
   {
     "degree": 28,
@@ -3399,7 +3561,13 @@ const sabianData = [
     "hermetic": "Geburah–Tiferet",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-28"
+    "id": "akrep-28",
+    "guide": {
+      "meaning": "Kızgın kömürlerin ortasında yatan ancak yanmak yerine gittikçe parlayan ve kırmızı bir yakuta dönüşen sihirli bir taş görünür. Simyasal Lapis Philosophorum (Felsefe Taşı) sembolüdür. Zorlukların ve acıların insan ruhunu bir cevhere dönüştürme mucizesidir.",
+      "daily_use": "Yaşadığınız zorlukların sizi eritip yok etmesine izin vermeyin; o baskıyı ve ısıyı bir elmas veya yakut gibi parlamak için kullanın. Karakterinizi sağlamlaştırın; zor zamanlar büyük insanlar yaratır.",
+      "shadow": "Duygusuzlaşıp taşlaşmak, acı çekmemek için kalbini tamamen sevgiye ve şefkate kapatmak.",
+      "affirmation": "Zorluklar beni tüketmez, parlatır. Ateşin içinde pişen ve parlayan değerli bir mücevherim."
+    }
   },
   {
     "degree": 29,
@@ -3408,7 +3576,13 @@ const sabianData = [
     "hermetic": "Binah–Yesod",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-29"
+    "id": "akrep-29",
+    "guide": {
+      "meaning": "Gece açan kadife siyah bir gülün taç yaprağının üzerindeki tek bir çiy damlasında, tüm evrenin yıldızları ve gökadaları mükemmel bir netlikle parıldar. Hermetik 'Mikrokozmos ve Makrokozmos'un tam birliğidir. Kabala'da Malkut'un (En küçük zerre) içinde Keter'in (Tüm evren) saklı olmasıdır.",
+      "daily_use": "En küçük günlük detayda bile evrenin mucizesini görün. Basit bir teşekkür, bir tebessüm veya derin bir nefes tüm hayatınızı değiştirecek kozmik bir güç taşır; anın kutsallığını fark edin.",
+      "shadow": "Detaylarda boğulup büyük anlamı kaçırmak veya mistik hayallere kapılıp pratik hayatı ihmal etmek.",
+      "affirmation": "Küçük bir zerrenin içinde tüm evrenin bilgeliğini taşıyorum. Varlığım kutsal ve bütündür."
+    }
   },
   {
     "degree": 30,
@@ -3417,7 +3591,13 @@ const sabianData = [
     "hermetic": "Keter",
     "stage": "Rubedo",
     "sign": "Akrep",
-    "id": "akrep-30"
+    "id": "akrep-30",
+    "guide": {
+      "meaning": "Kendi kuyruğunu ısıran devasa kozmik ejderha (Uroboros), ışık saçan altın bir halkaya dönüşür; zaman ve mekanın ötesinde döngü tamamlanır ve yeni bir evren başlar. Zodyak'ın en derin dönüşüm derecesidir. Simyasal 'Magnum Opus'un (Büyük Eser) Akrep kapısındaki taçlanmasıdır.",
+      "daily_use": "Hayatınızdaki büyük bir dönemi onurlandırarak kapatın. Geçmişi affedin, döngüyü sevgiyle tamamlayın ve önünüzdeki taptaze başlangıca bilgece adım atın. Her son, muazzam bir başlangıçtır.",
+      "shadow": "Biten döngülere takılıp kalmak, sona ermiş durumları zorla sürdürmeye çalışarak enerji kaybetmek.",
+      "affirmation": "Eski döngüyü şükranla kapatıyor, yeniye kucak açıyorum. Ben başlangıcın ve sonun ötesindeki ebedi bilincim."
+    }
   },
   {
     "degree": 1,
@@ -4500,3 +4680,7 @@ const sabianData = [
     "id": "balik-30"
   }
 ];
+
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = sabianData;
+}
