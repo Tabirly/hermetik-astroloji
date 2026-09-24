@@ -1806,7 +1806,13 @@ const sabianData = [
     "hermetic": "Güneş bilinci",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-1"
+    "id": "aslan-1",
+    "guide": {
+      "meaning": "Karmaşık ve kararsız bir kalabalığın arasından tek bir figür öne çıkar; bağırmasına gerek yoktur, yaydığı doğal otorite ve duruşu herkesin dikkatini çeker. Güneş bilinci (Öz Güç, Asalet ve Kendine Güven) devrededir. Rubedo (Kızıl Aşama: ruhsal altının açığa çıkışı) aşamasıdır. Dışsal unvanlarla değil, içsel ışığıyla parlayan gerçek lider arketipidir.",
+      "daily_use": "Kendi hayatınızın merkezine geçin. Başkalarının onayını beklemeyi veya kalabalığa uyup görünmez olmayı bırakın. Kendi kararlarınızın sorumluluğunu asaletle üstlenin; özgüveniniz başkalarına da ilham ve güven verecektir.",
+      "shadow": "Kibir, başkalarını tebaa gibi görüp küçümsemek veya alkış bağımlılığı yüzünden sahte bir gösteriş budalasına dönüşmek.",
+      "affirmation": "Ben kendi hayatımın egemen lideriyim. İçimdeki ilahi güneş ışıldıyor; gücümü sevgi, adalet ve vakarla taşıyorum."
+    }
   },
   {
     "degree": 2,
@@ -1815,7 +1821,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-2"
+    "id": "aslan-2",
+    "guide": {
+      "meaning": "Denizin fırtınalı dalgaları üzerinde süzülen devasa bir mücevher, suyun tuzuna ve karanlığına rağmen pırıl pırıl parıldar. Tiferet (Kabala Yaşam Ağacı'nda 6. Sefira: Kalp, Öz Benlik ve Bilinç Güneşi) merkezindedir. Rubedo evresinde ruhun, dış dünyanın tüm kaosuna ve duygusal dalgalanmalarına rağmen zedelenmeyen parlak öz cevheridir.",
+      "daily_use": "Çevrenizdeki krizler, kaos veya duygusal çalkantılar sizin öz değerinizi eksiltemez. Dış koşullar ne kadar sert olursa olsun içinizdeki asaleti ve parlaklığı koruyun; siz dalgalardan daha kudretli bir cevher taşıyorsunuz.",
+      "shadow": "Kendi değerini dış dünyadaki geçici takdirlerle ölçmek, duygusal dalgalanmalarda değerini unutup paniğe kapılmak.",
+      "affirmation": "İçimdeki ruhsal mücevher dokunulmazdır. Hayatın dalgaları beni batıramaz; ışığım her fırtınada parlar."
+    }
   },
   {
     "degree": 3,
@@ -1824,7 +1836,13 @@ const sabianData = [
     "hermetic": "Güneş–Merkür",
     "stage": "Albedo",
     "sign": "Aslan",
-    "id": "aslan-3"
+    "id": "aslan-3",
+    "guide": {
+      "meaning": "Palyaço makyajının ve rengarenk kostümünün ardında bilge bir gözlemci vardır; acıyı, hüznü ve hayatın saçmalıklarını kahkahaya dönüştürerek seyirciyi şifalandırır. Güneş (Bilinç) ile Merkür'ün (Zihinsel Mizah ve Çeviklik) birliğidir. Albedo aşamasında egoyu çok ciddiye almama, hayatın oyunsu doğasını kavrama sanatıdır.",
+      "daily_use": "Kendinizi ve hayatı aşırı ciddiye alıp drama üretmeyin. Zorluklara mizahla, neşeyle ve esneklikle yaklaşın; kahkaha egonun en büyük ilacıdır. İnsanları neşelendirin, ortamın kasvetini bir tebessümle dağıtın.",
+      "shadow": "Gerçek acılarını ve kırgınlıklarını sürekli sahte bir maske arkasına saklamak, duygusal olarak samimiyetsizleşmek.",
+      "affirmation": "Hayatın ilahi oyununu neşeyle oynuyorum. Mizahım ve kahkaham hem beni hem çevremi özgürleştirir."
+    }
   },
   {
     "degree": 4,
@@ -1833,7 +1851,13 @@ const sabianData = [
     "hermetic": "Güneş’in taçlanması",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-4"
+    "id": "aslan-4",
+    "guide": {
+      "meaning": "Kral tahtına oturur ve başına som altından işlenmiş ağır tacı koyar; bu taç bir ayrıcalık değil, halkın ve ilahi adaletin getirdiği kutsal bir sorumluluktur. Güneş'in taçlanması (Kendi Hükümdarlığını İlan Etme) arketipidir. Rubedo evresinde bireyin kendi yetenekleri ve potansiyeli üzerinde tam hakimiyet kurmasıdır.",
+      "daily_use": "Kendi potansiyelinizi küçümsemeyin. Alanınızda yetkinleşin, işinizin efendisi olun ve sorumluluk almaktan korkmayın. Hak ettiğiniz başarıyı ve saygıyı tevazu ve asaletle kabul edin.",
+      "shadow": "Tiranlaşmak, eleştiriye kapalı bir diktatör gibi davranmak, tahtını kaybetme korkusuyla herkese şüpheyle yaklaşmak.",
+      "affirmation": "Hayatımın tacını onurla takıyorum. Hükümranlığım adalet, bilgelik ve cömertlik üzerine kuruludur."
+    }
   },
   {
     "degree": 5,
@@ -1842,7 +1866,13 @@ const sabianData = [
     "hermetic": "Güneş–Ay sentezi",
     "stage": "Albedo",
     "sign": "Aslan",
-    "id": "aslan-5"
+    "id": "aslan-5",
+    "guide": {
+      "meaning": "Küçük bir çocuk gözlerini kırpmadan gökyüzündeki parlak Güneş'e bakar; aralarında ne korku ne de ayrılık vardır. Güneş (Bilinç) ile Ay'ın (Bilinçdışı Saflık) kusursuz sentezidir. Albedo aşamasında egosal hesapların olmadığı, varoluşun kaynağıyla doğrudan göz göze gelinen masumiyet anıdır.",
+      "daily_use": "Karmaşık zihinsel oyunları bırakın; hayata doğrudan, dürüst ve aracısız bir niyetle bakın. Ne hissettiğinizi açıkça ortaya koyun; saflık ve içtenlik dünyadaki en etkileyici güçtür.",
+      "shadow": "Aşırı körleşmek, gerçek tehlikeleri görmezden gelerek kendini düşüncesizce ateşin içine atmak.",
+      "affirmation": "Güneş gibi saf, berrak ve dolaysızım. Varlığımı ilahi ışıkla korkusuzca hizalıyorum."
+    }
   },
   {
     "degree": 6,
@@ -1851,7 +1881,13 @@ const sabianData = [
     "hermetic": "Geburah enerjisi",
     "stage": "Nigredo",
     "sign": "Aslan",
-    "id": "aslan-6"
+    "id": "aslan-6",
+    "guide": {
+      "meaning": "Yetişkin bir erkek aslan, yakaladığı avın veya yavrularının önünde durur; tek bir kükremesiyle yaklaşmak isteyen sırtlanları kaçırır. Kabala'da Geburah (5. Sefira: Kudret, Güç, Sınır Çizme ve Adalet) enerjisidir. Nigredo aşamasında gerektiğinde dişlerini gösterme ve kutsal olanı koruma kudretidir.",
+      "daily_use": "Emeğinizi, ailenizi, projelerinizi ve sınırlarınızı kararlılıkla savunun. Haksızlığa karşı sessiz kalmayın; gerektiğinde net bir 'hayır' deyin ve sınırlarınızı çiğnetmeyin. Gücünüzü adil ve koruyucu bir amaç için kullanın.",
+      "shadow": "Vahşileşmek, sebepsiz saldırganlık, başkalarının rızkına göz dikmek veya gücünü zayıflar üzerinde zorbalıkla denemek.",
+      "affirmation": "Sınırlarımı ve sevdiklerimi aslan gibi cesaretle koruyorum. Gücüm adil, soylu ve sarsılmazdır."
+    }
   },
   {
     "degree": 7,
@@ -1860,7 +1896,13 @@ const sabianData = [
     "hermetic": "Tiferet–Netzach",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-7"
+    "id": "aslan-7",
+    "guide": {
+      "meaning": "Kutsal mermer tapınakta oturan rahip, elindeki liri çalarak göksel ilahiler söyler; tapınaktaki herkesin kalbi ilahi bir sevinçle dolar. Kabala'da Tiferet (Kalp Güneşi) ile Netzach (7. Sefira: İlahi İlham, Zafer ve Venüsyen Müzik) kavuşumudur. Rubedo aşamasında ruhsal sevincin sanatsal bir coşkuya dönüşmesidir.",
+      "daily_use": "Ruhunuzu sanatla, müzikle ve estetikle besleyin. İnancınızı kasvetli bir zorunluluk değil, neşeli bir kutlama olarak yaşayın. Çalıştığınız ortama güzellik ve ritim katın; neşe en yüksek frekanstır.",
+      "shadow": "Sadece alkışlanmak için sanat yapmak, manevi duyguları yapay bir gösteriye alet etmek.",
+      "affirmation": "Kalbim ilahi neşenin enstrümanıdır. Varlığımla dünyaya aşk, armoni ve neşe saçıyorum."
+    }
   },
   {
     "degree": 8,
@@ -1869,7 +1911,13 @@ const sabianData = [
     "hermetic": "Solar ışık",
     "stage": "Albedo",
     "sign": "Aslan",
-    "id": "aslan-8"
+    "id": "aslan-8",
+    "guide": {
+      "meaning": "Ufuktan yükselen devasa Güneş'in ilk altın ışıklarıyla birlikte tüm halk uyanır; karanlık kabuslar biter, tarlalar ve şehirler canlanır. Solar ışık (Güneşin Uyandırıcı Kudreti) devrededir. Albedo aşamasında kolektif bir bilinç uyanışı ve tembellikten eyleme geçiştir.",
+      "daily_use": "Ertelemeyi ve ataleti bırakın. Yeni bir gün, yeni bir fırsat doğmuştur; erkenden kalkın, güne niyetle başlayın ve eyleme geçin. Kendi uyanışınızla çevrenizdeki insanlara da ilham ve enerji verin.",
+      "shadow": "Işığa karşı direnip yorganı başına çekerek tembelliğe devam etmek veya uyanır uyanmaz telaş ve öfkeye kapılmak.",
+      "affirmation": "Yeni bir bilinçle uyanıyorum. Hayatın ışığı içimde parlıyor; günümü bereket ve şevkle kucaklıyorum."
+    }
   },
   {
     "degree": 9,
@@ -1878,7 +1926,13 @@ const sabianData = [
     "hermetic": "Mars–Güneş",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-9"
+    "id": "aslan-9",
+    "guide": {
+      "meaning": "Kızgın kömürlerin ve alevlerin üzerinde yürüyen adamın ayakları yanmaz; çünkü iradesi ateşin sıcaklığından daha güçlüdür. Mars'ın (Savaşçı Ateşi) Güneş ile (Korkusuz İrade) birleşimidir. Rubedo aşamasında zihinsel korkuların aşıldığı, inancın fiziksel yasaları büktüğü cesaret zirvesidir.",
+      "daily_use": "Sizi korkutan, gözünüzü korkutan zorlukların üzerine yürüyün. Korku zihnin bir illüzyonudur; inancınızı ve odaklanmanızı korursanız en zorlu engellerin bile size zarar veremeden geçip gittiğini görürsünüz.",
+      "shadow": "Gereksiz yere canını tehlikeye atacak sorumsuzluklar yapmak, gösteriş için tehlikeli maceralara atılmak.",
+      "affirmation": "Korkularımın ateşinden cesaretle geçiyorum. İçimdeki inanç her türlü zorluğu aşacak kudrettedir."
+    }
   },
   {
     "degree": 10,
@@ -1887,7 +1941,13 @@ const sabianData = [
     "hermetic": "Keter bağlantısı",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-10"
+    "id": "aslan-10",
+    "guide": {
+      "meaning": "Açık gökyüzünden yeryüzüne inen parlak bir ışık sütunu, doğrudan bireyin tepe çakrasına ve kalbine bağlanır. Kabala'da Keter (1. Sefira: Taç ve Saf Kozmik Kaynak) bağlantısıdır. Rubedo aşamasında bireyin evrensel ilahi akılla doğrudan temas kurması, yüksek misyonunun farkına varmasıdır.",
+      "daily_use": "Hayatınızın daha büyük, kutsal bir amaca hizmet ettiğini hatırlayın. Küçük hesapları bırakın; evrenle doğrudan bağ kurun. Meditasyon yapın ve size bahşedilen ilahi ışığın hayatınızdaki görevini keşfedin.",
+      "shadow": "Megalomanlık, kendini peygamber ya da üstün insan sanarak kibre kapılmak (manik hezeyan).",
+      "affirmation": "Ben evrensel ışık kaynağına doğrudan bağlıyım. İlahi farkındalık bilincimi ve yolumu aydınlatır."
+    }
   },
   {
     "degree": 11,
@@ -1896,7 +1956,13 @@ const sabianData = [
     "hermetic": "Güneş merkezlenmesi",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-11"
+    "id": "aslan-11",
+    "guide": {
+      "meaning": "Omuzlarında asil bir pelerin ve başında taç taşıyan lider, halkının önünde dimdik durur. Güneş merkezlenmesi (Kendi Merkezinde Sarsılmaz Kalma) arketipidir. Rubedo aşamasında dış dünyanın tüm fırtınalarına rağmen sarsılmayan bir karizma ve otoritedir.",
+      "daily_use": "Kendi değerinizin ve merkezinin farkında olun. Başkalarının fikirleriyle bir o yana bir bu yana savrulmayın; omurganızı dik tutun, fikirlerinizin arkasında durun ve asil bir duruş sergileyin.",
+      "shadow": "Zorba ve dayatmacı bir tavır takınmak, başkalarının fikirlerini küçümseyip sadece kendi dediğini dayatmak.",
+      "affirmation": "Kendi merkezimde sarsılmaz bir kararlılıkla duruyorum. Işığım ve asaletim güven saçar."
+    }
   },
   {
     "degree": 12,
@@ -1905,7 +1971,13 @@ const sabianData = [
     "hermetic": "Merkür–Güneş",
     "stage": "Albedo",
     "sign": "Aslan",
-    "id": "aslan-12"
+    "id": "aslan-12",
+    "guide": {
+      "meaning": "Spot ışıkları altında sahneye çıkan aktör, canlandırdığı role tüm ruhunu ve bedenini verir; seyirciyi büyüler. Merkür (İfade ve İletişim Zekası) ile Güneş'in (Yaratıcı Karizma) birleşimidir. Albedo aşamasında kendini en estetik ve dramatik şekilde ifade edebilme dehasıdır.",
+      "daily_use": "Sahneye çıkmaktan, konuşmaktan, fikrinizi veya sanatınızı sunmaktan korkmayın. Çekingenliği bir kenara bırakın; kendinizi tutkuyla, mimiklerinizle, sesinizle ve tüm varlığınızla ortaya koyun.",
+      "shadow": "Sürekli bir rol oynayarak gerçek benliğini kaybetmek, yapay ve samimiyetsiz bir drama kraliçesine/kralına dönüşmek.",
+      "affirmation": "Hayat sahnesinde kendimi özgürce, tutkuyla ve zarafetle ifade ediyorum. Işığım doğaldır ve etkileyicidir."
+    }
   },
   {
     "degree": 13,
@@ -1914,7 +1986,13 @@ const sabianData = [
     "hermetic": "Keter geçidi",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-13"
+    "id": "aslan-13",
+    "guide": {
+      "meaning": "Devasa altın bir portal iki yana açılır; bilge kişi bu kapıdan içeri adım atarak aydınlanmış üstatların meclisine katılır. Kabala'da Keter (Taç Kapısı) geçididir. Rubedo aşamasında dünyevi sınavları tamamlayan ruhun bilgelik boyutuna kabul edilişidir.",
+      "daily_use": "Hayatınızda yeni ve daha yüksek bir seviyeye geçiş yapıyorsunuz. Eski küçük dünyanızı geride bırakma olgunluğunu gösterin; yeni anlayışlara, yeni vizyonlara ve yüksek bilgelik kapılarına adım atın.",
+      "shadow": "Eskiye bağımlılık yüzünden altın kapının eşiğinde tereddüt etmek, geçmişin konforuna takılıp kalmak.",
+      "affirmation": "Altın kapıdan güvenle ve hürmetle geçiyorum. Yüksek bilgeliğe ve aydınlanmaya hazırım."
+    }
   },
   {
     "degree": 14,
@@ -1923,7 +2001,13 @@ const sabianData = [
     "hermetic": "Tiferet–Venüs",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-14"
+    "id": "aslan-14",
+    "guide": {
+      "meaning": "Doğada bulunan pembe bir kuvars parçası, kusursuz bir kalp formundadır. Tiferet (Kabala'da Kalp ve Ruhsal Denge) ile Venüs'ün (Sevgi ve Şefkat) ebedi izdivacıdır. Rubedo aşamasında taş gibi katı maddelerin bile sevginin sıcaklığıyla yumuşayıp şifa kaynağına dönüşmesidir.",
+      "daily_use": "Önce kendinizi koşulsuz sevin. Kendi kusurlarınızı yargılamayı bırakın; kalbinizi taşlaştıran kırgınlıkları sevginin simyasıyla eritin. Öz-sevgi olmadan başkalarını gerçekten sevmek mümkün değildir.",
+      "shadow": "Kalp katılığını 'güçlü olmak' zannetmek, sevgiyi zayıflık sayarak duygularını taşlaştırmak.",
+      "affirmation": "Kalbim sevginin kutsal mabedidir. Kendimi ve varoluşu koşulsuz bir aşkla kucaklıyorum."
+    }
   },
   {
     "degree": 15,
@@ -1932,7 +2016,13 @@ const sabianData = [
     "hermetic": "Netzach ışığı",
     "stage": "Albedo",
     "sign": "Aslan",
-    "id": "aslan-15"
+    "id": "aslan-15",
+    "guide": {
+      "meaning": "Şafak vaktinde ağacın en yüksek dalına konan kuş, göğsünü şişirerek saf bir sevinçle öter. Kabala'da Netzach (7. Sefira: Doğal Sevinç, Zafer ve İlahi Coşku) ışımasıdır. Albedo aşamasında hiçbir dış nedene bağlı olmadan, sadece var olmanın getirdiği saf neşedir.",
+      "daily_use": "Mutlu olmak için dışsal koşulların mükemmel olmasını beklemeyin. Kuş gibi, sadece hayatta olduğunuz, nefes aldığınız için sevinin; içinizdeki şarkıyı özgürce söyleyin, yaşama sevinci en güçlü mıknatıstır.",
+      "shadow": "Sürekli eksiklere odaklanarak hayatın şarkısını susturmak, şikayet etmeyi alışkanlık haline getirmek.",
+      "affirmation": "İçimdeki neşe şarkısını özgürce söylüyorum. Varoluşun saf sevinciyle her an yenileniyorum."
+    }
   },
   {
     "degree": 16,
@@ -1941,7 +2031,13 @@ const sabianData = [
     "hermetic": "Güneş–Tiferet",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-16"
+    "id": "aslan-16",
+    "guide": {
+      "meaning": "Güneş ufukta devasa bir alev topu gibi yükselirken, kumsalda ve tepelerde toplanan binlerce insan huşuyla onu izler. Güneş ile Tiferet'in (Güneş Bilinci) tam rezonansıdır. Rubedo aşamasında insanın içindeki ulu gücün evrendeki Güneş'le kardeş olduğunu fark etmesidir.",
+      "daily_use": "Günün doğuşunu izleyin, doğanın uyanışına tanıklık edin. Kendi içinizdeki büyük potansiyeli selamlayın; siz sıradan bir varlık değilsiniz, evrenin bilincini taşıyan kutsal bir ışıksınız.",
+      "shadow": "Sadece başkalarının başarısını uzaktan izleyip kendi hayatında pasif bir seyirci olarak kalmak.",
+      "affirmation": "Güneşin doğuşuyla içimdeki kudret uyanıyor. Evrenin yüceliğiyle bir ve bütünüm."
+    }
   },
   {
     "degree": 17,
@@ -1950,7 +2046,13 @@ const sabianData = [
     "hermetic": "Geburah–Netzach",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-17"
+    "id": "aslan-17",
+    "guide": {
+      "meaning": "Küçük bir çocuk devasa erkek aslanın yelesine sarılmış, onunla gülerek oynamaktadır; aslan çocuğa şefkatle başını eğer. Kabala'da Geburah (Vahşi Güç) ile Netzach (Saf Masumiyet ve Sevgi) dengesidir. Rubedo aşamasında sevginin ve masumiyetin en vahşi güçleri bile dize getirmesidir.",
+      "daily_use": "Öfkeyi öfkeyle, kaba kuvveti şiddetle yenmeye çalışmayın. En sert insanlara ve durumlara masumiyetle, sakinlikle ve sevgiyle yaklaşın; sevgi karşısında hiçbir ego direnemez.",
+      "shadow": "Tehlikenin ciddiyetini kavramayıp aşırı naif davranmak, gerçek tehditlere karşı kendini koruyamamak.",
+      "affirmation": "Korkusuzluğum sevgimden beslenir. En büyük güçleri bile şefkatim ve masumiyetimle dengeliyorum."
+    }
   },
   {
     "degree": 18,
@@ -1959,7 +2061,13 @@ const sabianData = [
     "hermetic": "Güneş–Ay",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-18"
+    "id": "aslan-18",
+    "guide": {
+      "meaning": "Karanlık yolda ilerleyen kadın elinde alev alev yanan bir meşale tutar; rüzgar esse de meşale sönmez. Güneş (Ateş ve İrade) ile Ay'ın (Gecenin Sezgisi) birleşimidir. Rubedo aşamasında dişil bilgeliğin karanlık geceleri meşalesiyle aydınlatma kudretidir.",
+      "daily_use": "Çevrenizdekiler umutsuzluğa veya karamsarlığa düştüğünde meşaleyi siz taşıyın. Pozitif vizyonunuzla, cesaretinizle ve netliğinizle karanlığı aydınlatın; umut ışığı olun.",
+      "shadow": "Meşaleyi başkalarına doğrultup onları yakmak, aydınlatmak yerine kör etmek.",
+      "affirmation": "Karanlık yollarda sönmeyen bir meşale taşıyorum. Bilincimin ateşi her engeli aydınlatır."
+    }
   },
   {
     "degree": 19,
@@ -1968,7 +2076,13 @@ const sabianData = [
     "hermetic": "Güneş yayılımı",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-19"
+    "id": "aslan-19",
+    "guide": {
+      "meaning": "Sarayın balkonuna çıkan kral, meydandaki halkı iki elini açarak sevgiyle ve tevazuyla selamlar; halk alkışlar. Güneş yayılımı (Işığın ve Zenginliğin Cömertçe Paylaşılması) arketipidir. Rubedo evresinde gerçek büyüklüğün tevazu ve cömertlikle taçlanmasıdır.",
+      "daily_use": "Başarılarınızı yalnız başınıza kutlamayın; başarınızda payı olan herkese teşekkür edin, sevginizi ve takdirinizi cömertçe paylaşın. Büyüdükçe alçalın; gerçek kral halkına hizmet edendir.",
+      "shadow": "Alkış delisi olmak, halkın sevgisini sahte vaatlerle sömürmek ve kibir sarhoşluğuna düşmek.",
+      "affirmation": "Büyüdükçe tevazum artar. Başarılarımı ve sevgimi tüm kalbimle paylaşıyorum."
+    }
   },
   {
     "degree": 20,
@@ -1977,7 +2091,13 @@ const sabianData = [
     "hermetic": "Rubedo taçlanması",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-20"
+    "id": "aslan-20",
+    "guide": {
+      "meaning": "Altın tüyleri parıldayan Zümrüdüanka (Phoenix), alevlerin küllerinden ayrılarak gökyüzünün en yüksek katına doğru yükselir. Rubedo taçlanmasıdır (Ruhsal Özgürlük ve Ölümsüzlük). Bireyin tüm dünyevi bağımlılıkları aşarak saf ruhsal özgürlüğe kavuşmasıdır.",
+      "daily_use": "Sizi aşağıya çeken kısır döngülerden, eski bağımlılıklardan sıyrılın. Küllerinizden doğma vaktiniz gelmiştir; kanatlarınızı açın ve kendi gökyüzünüzde özgürce süzülün.",
+      "shadow": "Küllerin içinde oturup geçmişin yasını tutmaya devam etmek, uçma sorumluluğundan korkmak.",
+      "affirmation": "Ben küllerinden doğan altın Anka'yım. Tüm kısıtlamaları aşıyor ve özgürce yükseliyorum."
+    }
   },
   {
     "degree": 21,
@@ -1986,7 +2106,13 @@ const sabianData = [
     "hermetic": "Güneş–Tiferet",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-21"
+    "id": "aslan-21",
+    "guide": {
+      "meaning": "Kutsal figürün başındaki altın taçtan dört bir yana güneş ışınları fışkırır; bakanların gözleri kamaşır. Güneş ile Tiferet'in (Kozmik Merkez) zirve ışımasıdır. Rubedo aşamasında içsel ışığın dışarıya taşarak tüm çevreyi aydınlatan bir haleye dönüşmesidir.",
+      "daily_use": "Işığınızı saklamayın; mütevazılık adına yeteneklerinizi gizlemek sahte bir alçakgönüllülüktür. Parlayın, üretin ve varlığınızla etrafınıza canlılık saçın; evren sizin ışıldamanızı bekler.",
+      "shadow": "Işığıyla başkalarını gölgede bırakmaya çalışmak, başkalarının parlamasına tahammül edememek.",
+      "affirmation": "İçimdeki altın güneş tüm ihtişamıyla parlıyor. Varlığımla dünyaya ışık, sıcaklık ve ilham saçıyorum."
+    }
   },
   {
     "degree": 22,
@@ -1995,7 +2121,13 @@ const sabianData = [
     "hermetic": "Netzach",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-22"
+    "id": "aslan-22",
+    "guide": {
+      "meaning": "Gece karanlığında binlerce insan ellerinde tuttukları meşalelerle devasa bir ışık denizi oluşturur. Kabala'da Netzach (Kolektif Coşku, Zafer ve İlham) sefirasıdır. Tek bir kıvılcımın milyonları uyandıran kolektif bir aydınlanma hareketine dönüşmesidir.",
+      "daily_use": "Ortak ideallere sahip insanlarla kenetlenin. Tek başınıza bir meşalesiniz ama bir araya geldiğinizde karanlığı yenen bir ışık denizisiniz; toplumsal projelere ve ortak dayanışmalara katılın.",
+      "shadow": "Kolektif histeriye veya fanatik kalabalıkların kontrolsüz öfkesine kapılmak.",
+      "affirmation": "Birlik içindeki ışığımız yenilmezdir. Kolektif ilham ve sevgiyle geleceği aydınlatıyoruz."
+    }
   },
   {
     "degree": 23,
@@ -2004,7 +2136,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-23"
+    "id": "aslan-23",
+    "guide": {
+      "meaning": "Altın kubbeleri ve mermer sütunlarıyla çölde yükselen antik Güneş tapınağı, binlerce yıldır ışığın merkezidir. Tiferet (Kabala'da 6. Sefira: Ruhsal Merkez ve İlahi Güneş Mabedi) makamıdır. Sarsılmaz içsel dinginlik ve kutsal ruh merkezidir.",
+      "daily_use": "Kendi içinizde yıkılmaz bir tapınak inşa edin. Dışarıda ne olursa olsun, o tapınağa çekildiğinizde hiçbir şeyin sizi sarsamayacağını bilin; merkezinizde kalın.",
+      "shadow": "Kendini tapınağa kapatıp dünyevi hayatın sorumluluklarını tamamen terk etmek.",
+      "affirmation": "Ruhum ilahi güneşin sarsılmaz tapınağıdır. Merkezimdeyim, huzurluyum ve güçlüyüm."
+    }
   },
   {
     "degree": 24,
@@ -2013,7 +2151,13 @@ const sabianData = [
     "hermetic": "Geburah–Netzach",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-24"
+    "id": "aslan-24",
+    "guide": {
+      "meaning": "Ormanın kralı aslan ile göklerin kuşu havada ve yerde birbirine uyumla eşlik ederek dans eder. Kabala'da Geburah (Topraksı Güç ve Ağırlık) ile Netzach'ın (Göksel Hafiflik ve Uçuculuk) kusursuz dengesidir. Gücün zarafetle, kudretin esneklikle dengelenmesidir.",
+      "daily_use": "Güçlü olun ama kaba olmayın; hafif olun ama köksüz kalmayın. Hayatınızda hem aslanın kararlılığını hem de kuşun esnekliğini aynı anda taşıyın; zarafet ve kudret birleştiğinde mucizeler doğar.",
+      "shadow": "Güç ile hafifliği çatıştırmak, bir gün aşırı sert bir gün aşırı gevşek davranarak tutarsızlaşmak.",
+      "affirmation": "Kudretim zarafetimle, iradem hafifliğimle dengelidir. Zıtlıkları içimde mükemmel bir dansa dönüştürüyorum."
+    }
   },
   {
     "degree": 25,
@@ -2022,7 +2166,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-25"
+    "id": "aslan-25",
+    "guide": {
+      "meaning": "Güneş'ten fışkıran devasa plazma ışınları tüm gezegenleri aydınlatır ve ısıtır; ışık hiçbir karşılık beklemeden her yere yayılır. Tiferet'in (Kozmik Güneş) karşılıksız cömertliğidir. Rubedo aşamasında koşulsuz sevgi ve bilincin kitleleri uyandırmasıdır.",
+      "daily_use": "Yaptığınız iyilikleri, paylaştığınız bilgileri karşılık beklemeden yapın. Güneş gibi cömert olun; ışık verdikçe tükenmezsiniz, aksine kaynağınız daha da gürleşir.",
+      "shadow": "Enerjisini sınır koymadan savurarak kendi bataryalarını tüketmek ve tükenmişlik sendromuna girmek.",
+      "affirmation": "Işığımı ve sevgimi cömertçe saçıyorum. Evrenin tükenmez bolluğu beni her an besler."
+    }
   },
   {
     "degree": 26,
@@ -2031,7 +2181,13 @@ const sabianData = [
     "hermetic": "Güneş",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-26"
+    "id": "aslan-26",
+    "guide": {
+      "meaning": "Lider, başarılarının ardından halkın arasına girdiğinde binlerce insan onu sevgiyle alkışlar; bu alkış korkudan değil, adalet ve şefkatle kazanılmış hakiki bir sevgidendir. Güneş'in ruhsal otoritesidir. Rubedo aşamasında erdemle kazanılmış meşru liderliktir.",
+      "daily_use": "Saygıyı baskıyla değil, dürüstlüğünüzle, cömertliğinizle ve adil duruşunuzla kazanın. İnsanların kalbine dokunun; kalplerde taht kurmak unvanlardan çok daha kalıcıdır.",
+      "shadow": "Alkış kesildiğinde derin bir depresyona ve öfkeye kapılmak, dış onaya bağımlı olmak.",
+      "affirmation": "Liderliğim adalet, sevgi ve hizmetten doğar. Kalplerde güven ve saygıyla var oluyorum."
+    }
   },
   {
     "degree": 27,
@@ -2040,7 +2196,13 @@ const sabianData = [
     "hermetic": "Binah–Tiferet",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-27"
+    "id": "aslan-27",
+    "guide": {
+      "meaning": "Göklerde süzülen, som altından kuleleri ve saf kristal caddeleri olan kusursuz bir şehir vardır. Kabala'da Binah (Kutsal Form ve Düzen) ile Tiferet'in (Güneş Güzelliği) birleşimidir. İdeal bir ruhsal düzenin ve aydınlanmış medeniyetin arketipidir.",
+      "daily_use": "Hayatınızda, işinizde ve evinizde altın bir düzen kurun. Kaosu, dağınıklığı ve belirsizliği ortadan kaldırın; netlik, estetik ve asil bir nizam hayat kalitenizi zirveye taşır.",
+      "shadow": "Aşırı mükemmeliyetçi kurallarla yaşamı boğmak, insani kusurlara sıfır tolerans göstermek.",
+      "affirmation": "Hayatımda ilahi bir altın düzen kuruyorum. Düzenim, huzurum ve güzelliğim sarsılmazdır."
+    }
   },
   {
     "degree": 28,
@@ -2049,7 +2211,13 @@ const sabianData = [
     "hermetic": "Netzach",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-28"
+    "id": "aslan-28",
+    "guide": {
+      "meaning": "Saf altından işlenmiş yapraklarıyla açan altın gül, etrafına gözle görülmeyen ama hissedilen güçlü bir manyetik enerji alanı saçar. Kabala'da Netzach (İlahi Güzellik ve Sonsuz Aşk) sefirasıdır. Rubedo aşamasında sevginin ve kalbin ulaştığı en yüksek simyasal frekanstır.",
+      "daily_use": "Manyetik alanınızı sevgiyle doldurun. Pozitif, sevgi dolu ve asil düşündüğünüzde çevrenizdeki tüm negatif enerjilerin kendiliğinden dağıldığını göreceksiniz; sevgi en yüksek koruyucu kalkandır.",
+      "shadow": "Güzelliğe tapınmak, kibirli bir manevi üstünlük duygusuyla insanları dışlamak.",
+      "affirmation": "Kalbim altın bir gül gibi açıyor. Varlığımın manyetik alanı sevgi, şifa ve huzur saçar."
+    }
   },
   {
     "degree": 29,
@@ -2058,7 +2226,13 @@ const sabianData = [
     "hermetic": "Tiferet–Keter",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-29"
+    "id": "aslan-29",
+    "guide": {
+      "meaning": "Güneş tutulması anında karanlığın etrafında beliren alevden taç (Korona), evrenin kozmik merkezinin ihtişamını sergiler. Kabala'da Tiferet (Güneş Kalbi) ile Keter (İlahi Taç) arasındaki kutsal bağlantıdır. En karanlık anlarda bile sönmeyen kozmik tacın parlayışıdır.",
+      "daily_use": "Hayatınızda bir 'tutulma' veya kriz yaşandığında bile özünüzün sönmediğini bilin. Karanlığın arkasındaki ilahi tacı fark edin; zor zamanlar sizin gerçek büyüklüğünüzü ortaya çıkarır.",
+      "shadow": "Karanlıktan korkup tacını terk etmek veya kriz anında paniğe kapılarak her şeyi yıkmak.",
+      "affirmation": "En karanlık gecede bile ilahi tacım parıldar. Ben kozmik merkezin sarsılmaz bilinciyim."
+    }
   },
   {
     "degree": 30,
@@ -2067,7 +2241,13 @@ const sabianData = [
     "hermetic": "Keter",
     "stage": "Rubedo",
     "sign": "Aslan",
-    "id": "aslan-30"
+    "id": "aslan-30",
+    "guide": {
+      "meaning": "Aslan burcunun mutlak zirvesi ve taçlanmasıdır. Göklerin en yüksek katından inen saf güneş huzmesi, bireyin tüm varlığını altın bir nurla yıkar. Kabala'da Keter (1. Sefira: Mutlak Taç ve Birlik Kaynağı) makamıdır. Ham benliğin 30 derecelik yolculuk sonunda saf altına dönüşmesi ve Felsefe Taşı ile birleşmesidir.",
+      "daily_use": "Kendinizle, hayatınızla ve evrenle tam bir barış ve bütünlük içindesiniz. Işığınızı hiçbir kibre kapılmadan, sadece var olarak dünyaya armağan edin; siz evrenin taçlandırdığı asil bir ruhsunuz.",
+      "shadow": "Ruhsal egoizmin son tuzağı: Kendini 'Tanrı' sanarak dünyevi sorumlulukları küçümsemek.",
+      "affirmation": "İlahi güneşin kutsal huzmesiyle taçlandım. Işığım, sevgim ve varlığım evrenle ebediyen birdir."
+    }
   },
   {
     "degree": 1,
