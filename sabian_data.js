@@ -456,7 +456,13 @@ const sabianData = [
     "hermetic": "Venüs–Dünya uyumu",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-1"
+    "id": "boga-1",
+    "guide": {
+      "meaning": "Uçsuz bucaksız kırlar ilkbahar çiçekleriyle donanmıştır. Venüs–Dünya uyumu devrededir; göksel güzellik yeryüzünün toprağında somut bir cennete dönüşür. Albedo (Beyaz Aşama: arınma ve berraklaşma) evresidir; kışın soğuk tortularından arınan doğa, saf yaşamsal zenginliğini hiçbir çaba göstermeden cömertçe sergiler.",
+      "daily_use": "Hayatınızın doğal akışındaki berekete güvenin. Sürekli didinmek ve kaygılanmak yerine, sahip olduğunuz doğal yeteneklerin ve imkanların çiçek açmasına izin verin. Doğada vakit geçirin ve duyularınızı tazeleyin.",
+      "shadow": "Tembellik, aşırı rehavet ve sahip olduklarını kanıksayarak şükran duymayı unutmak; her şeyin kendiliğinden önüne gelmesini beklemek.",
+      "affirmation": "Bedenim ve ruhum doğanın tükenmez bereketiyle uyum içindedir. Bolluk bana zahmetsizce ve güzellikle akar."
+    }
   },
   {
     "degree": 2,
@@ -465,7 +471,13 @@ const sabianData = [
     "hermetic": "Uranüs–Venüs arınması",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-2"
+    "id": "boga-2",
+    "guide": {
+      "meaning": "Şiddetli fırtına dinmiş, gökyüzünde Uranüs ile Venüs'ün arındırıcı birleşimi olan rengarenk bir gökkuşağı belirmiştir. Rubedo (Kızıl Aşama: bütünleşme ve ruhsal ustalık) enerjisidir. Krizlerin ve kaosun ardından gelen ilahi barışı, yenilenmeyi ve varoluşun yeni bir anlaşmasını simgeler.",
+      "daily_use": "Zorlu bir tartışmanın, krizin veya fırtınalı bir dönemin ardından gelen dinginliği kucaklayın. Fırtınanın havadaki tüm tozu ve ağırlığı temizlediğini fark edin; şimdi yeni ve umut dolu başlangıçlar yapma zamanıdır.",
+      "shadow": "Fırtınanın yarattığı korkuyu zihinde devam ettirerek gökkuşağını görememek veya fırtına olmadan sahte bir iyimserliğe kaçmak.",
+      "affirmation": "Tüm fırtınalar geçer ve geriye ilahi ışığın renkleri kalır. Yenilenen ruhumla geleceğe güvenle bakıyorum."
+    }
   },
   {
     "degree": 3,
@@ -474,7 +486,13 @@ const sabianData = [
     "hermetic": "Tiferet–Geburah dengesi",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-3"
+    "id": "boga-3",
+    "guide": {
+      "meaning": "Dağ, yüksek ruhsal farkındalığı simgeler. Rahip, yalnız başına ulaştığı ilahi bilgelikle dağda kalmaz; onu insanlarla paylaşmak için ovaya (halka) iner. Kabala'da Tiferet (Kalp / Öz Benlik ve Denge Merkezi) ile Geburah (Kudret, Disiplin ve Adalet) dengesidir. Ruhsal bilginin dünyevi sorumlulukla birleşmesidir.",
+      "daily_use": "Öğrendiğiniz, deneyimlediğiniz ve içselleştirdiğiniz bilgileri fildişi kulelerde saklamayın. Çevrenize, ailenize ve işinize fayda sağlayacak pratik adımlara dökün; gerçek bilgelik hayatın içinde yaşanandır.",
+      "shadow": "Ruhsal kibre kapılmak, insanları 'cahil' veya 'aşağıda' görerek tepeden bakmak ya da tam tersine dünyaya inmekten korkup yalnızlığa kaçmak.",
+      "affirmation": "Ruhsal bilgeliğimi tevazuyla dünyaya taşıyorum. Kalbimin ışığı yürüdüğüm her yolu aydınlatır."
+    }
   },
   {
     "degree": 4,
@@ -483,7 +501,13 @@ const sabianData = [
     "hermetic": "Satürn–Toprak kararlılığı",
     "stage": "Nigredo",
     "sign": "Boğa",
-    "id": "boga-4"
+    "id": "boga-4",
+    "guide": {
+      "meaning": "Boğa, yeryüzünün kadim kurucu gücünü; yontulmuş taş ise Satürn'ün (Zaman, Sabır ve Sınır Gezegeni) sabırla şekillendirdiği kalıcı temelleri simgeler. Nigredo (Kara Aşama: tohumun toprağın karanlığında kök salması) evresidir. Fırtınalar kopsa bile yerinden kıpırdamayan sarsılmaz direnç ve istikrardır.",
+      "daily_use": "Hızlı ve gelip geçici heveslerin peşinden koşmak yerine, yıllarca dimdik ayakta kalacak sağlam temeller atın. Sabrınızı ve azminizi koruyun; kalıcı zaferler sabırla yontulan taşlar gibi ağır ağır inşa edilir.",
+      "shadow": "Aşırı inatçılık, değişime körü körüne direnmek, katılaşmak ve zamana ayak uyduramayıp fosilleşmek.",
+      "affirmation": "Ben sarsılmaz bir temel üzerindeyim. Sabrım, kararlılığım ve köklerim beni her koşulda güçlü kılar."
+    }
   },
   {
     "degree": 5,
@@ -492,7 +516,13 @@ const sabianData = [
     "hermetic": "Venüs bilinci",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-5"
+    "id": "boga-5",
+    "guide": {
+      "meaning": "Kadın, atalarından miras kalan kadim mücevherleri üzerinde taşır. Bu sadece maddi zenginlik değil, nesiller boyu damıtılmış 'özdeğer ve estetik bilinci'dir (Venüs aklı). Albedo aşamasında kişi, hem maddi hem manevi mirasının kıymetini idrak eder.",
+      "daily_use": "Kendi değerinizi başkalarının geçici takdirlerine bağlamayın. Köklerinizden, ailenizden ve geçmiş tecrübelerinizden getirdiğiniz zenginliklerin farkına varın; kendinize layık gördüğünüz değer, dünyanın size sunacağı değeri belirler.",
+      "shadow": "Maddi gösterişe kapılmak, eşyalara ve statüye bağımlı hale gelerek içsel boşluğu dışsal lüksle örtmeye çalışmak.",
+      "affirmation": "Ben evrenin paha biçilmez bir cevheriyim. Kendi özdeğerimin farkındayım ve onu zarafetle taşıyorum."
+    }
   },
   {
     "degree": 6,
@@ -501,7 +531,13 @@ const sabianData = [
     "hermetic": "Güneş–Venüs birliği",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-6"
+    "id": "boga-6",
+    "guide": {
+      "meaning": "Gecenin karanlığında tek başına parlayan altın yıldız, Güneş (Bilinç Işığı) ile Venüs'ün (İlahi Uyum) kutsal izdivacıdır. Rubedo aşamasında ruh, karanlık madde dünyasının içinde ilahi bir pusula gibi parlar. İlhamın ve kutsal kılavuzluğun göksel işaretidir.",
+      "daily_use": "Hayatınızda yönünüzü kaybettiğinizi hissettiğinizde kalbinizin parlayan yıldızına (yüksek ideallerinize) odaklanın. Çevrenizdeki karamsarlığa kapılmayın; siz başkalarına da yol gösteren bir ışık kaynağı olun.",
+      "shadow": "Yıldızlara bakarken ayağının altındaki taşları görmemek, gerçeklikten kopuk bir hayalperestliğe kapılmak.",
+      "affirmation": "Karanlıkların ortasında parlayan ilahi bir yıldızım. İçimdeki altın ışık yolumu ve çevremi aydınlatır."
+    }
   },
   {
     "degree": 7,
@@ -510,7 +546,13 @@ const sabianData = [
     "hermetic": "Binah–Malkut bağlantısı",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-7"
+    "id": "boga-7",
+    "guide": {
+      "meaning": "Tapınak inşaatı devam etmektedir; taşlar üst üste konulur, harç karılır. Kabala'da Binah (Kutsal Anlayış / Form Veren Ana İlke) ile Malkut (Maddi Alem / Somut Yeryüzü) arasındaki bağdır. Soyut bir kutsal fikrin dünyada fiziksel bir ibadethaneye ve kalıcı bir esere dönüşmesidir.",
+      "daily_use": "Büyük ideallerinizi havada bırakmayın; onları somut projelere, işlere ve eserlere dönüştürün. Her gün üst üste tek bir taş koyarak bile olsa sabırla inşa etmeye devam edin.",
+      "shadow": "İnşaat bitmediği için sürekli yetersizlik hissetmek veya detaylarda boğulup tapınağın kutsal amacını unutmak.",
+      "affirmation": "Hayatımı kutsal bir tapınak gibi özenle inşa ediyorum. Her adımım kalıcı ve anlamlı bir bütüne hizmet eder."
+    }
   },
   {
     "degree": 8,
@@ -519,7 +561,13 @@ const sabianData = [
     "hermetic": "Venüs doğası",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-8"
+    "id": "boga-8",
+    "guide": {
+      "meaning": "Gül, ezoterizmde kalbin uyanışını ve kusursuz ilahi geometriyi temsil eder. Açan gül bahçesi, Venüs'ün saf sevgi ve uyum enerjisinin tüm duyuları mest eden bir ziyafete dönüşmesidir. Albedo aşamasında ruh, tüm kabalıklarından arınarak saf zarafete bürünür.",
+      "daily_use": "Çevrenize güzellik, zarafet ve nezaket saçın. Kırıcı tartışmalardan, sert dilden uzak durun. Hayatınıza estetik dokunuşlar ekleyin; güzellik ruhun en güçlü şifacısıdır.",
+      "shadow": "Güllerin dikenlerini yok sayıp aşırı naif davranmak, gerçek tehlikelere karşı savunmasız kalmak.",
+      "affirmation": "Varlığım açan bir gül gibi etrafına sevgi ve huzur saçar. Hayatımdaki her şey ilahi bir uyum içindedir."
+    }
   },
   {
     "degree": 9,
@@ -528,7 +576,13 @@ const sabianData = [
     "hermetic": "Netzach–Yesod dengesi",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-9"
+    "id": "boga-9",
+    "guide": {
+      "meaning": "Bir kadın ve bir erkek omuz omuza vererek toprağı işler. Kabala'da Netzach (Doğal Coşku ve Sevgi) ile Yesod (Bilinçdışı Temel ve Üretken Enerji) dengesidir. Eril ve dişil ilkelerin ortak bir hedef için uyumla çalışması, bereketi ikiye katlar.",
+      "daily_use": "İlişkilerinizde ve ortaklıklarınızda dayanışmayı, eşit işbölümünü ve karşılıklı saygıyı esas alın. 'Ben' değil 'Biz' diyerek hareket edin; paylaşılan emek bereketi doğurur.",
+      "shadow": "Ortaklıkta güç savaşlarına girmek, emeği sahiplenip karşı tarafın katkısını küçümsemek.",
+      "affirmation": "Birlikte ürettiğimde gücüm katlanır. Sevgim ve emeğim uyum içinde bereketli meyveler verir."
+    }
   },
   {
     "degree": 10,
@@ -537,7 +591,13 @@ const sabianData = [
     "hermetic": "Jüpiter düzeni",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-10"
+    "id": "boga-10",
+    "guide": {
+      "meaning": "Çoban, elindeki asasıyla koyunlarını yemyeşil vadilere ve güvenli sulara götürür. Jüpiter'in koruyucu, kapsayıcı ve adil düzenini simgeler. Rubedo aşamasında güç; tahakküm kurmak değil, emanet edilenleri şefkatle korumak ve yönetmektir.",
+      "daily_use": "Liderlik pozisyonundaysanız veya bir aileyi/ekibi yönetiyorsanız, baskı yerine şefkatle ve öngörüyle yol gösterin. Zayıf olanı kollayın; gerçek lider arkasındakilere güven veren kişidir.",
+      "shadow": "Aşırı korumacı davranarak başkalarının bireyselleşmesini engellemek ya da sürüyü kendi bencil çıkarları için gütmek.",
+      "affirmation": "Yolumu ve çevremi bilgelikle yönlendiriyorum. Koruyucu, şefkatli ve adil bir rehberim."
+    }
   },
   {
     "degree": 11,
@@ -546,7 +606,13 @@ const sabianData = [
     "hermetic": "Venüs–Jüpiter",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-11"
+    "id": "boga-11",
+    "guide": {
+      "meaning": "Zengin yemeklerle, meyvelerle donatılmış büyük bir masa etrafında toplanan insanlar vardır. Venüs'ün tat alma lezzeti ile Jüpiter'in cömertliği bir aradadır. Albedo evresinde maddi zenginlik tecrit edilmez; dostlukla, paylaşımla kutlanır.",
+      "daily_use": "Elinizdekileri sevdiklerinizle paylaşın; sofralar kurun, cömert olun. Paylaşılmayan zenginliğin bereketi kaçar; şükran dolu bir paylaşımla hayatın nimetlerini kutlayın.",
+      "shadow": "Aşırı yeme-içme, duyusal zevklerin kölesi olma (oburluk) ve sadece varlıklı olanları sofraya kabul eden seçkincilik.",
+      "affirmation": "Evrenin sofrası sonsuz bollukla donatılmıştır. Nimetleri şükranla kabul ediyor ve sevgiyle paylaşıyorum."
+    }
   },
   {
     "degree": 12,
@@ -555,7 +621,13 @@ const sabianData = [
     "hermetic": "Tiferet–Venüs",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-12"
+    "id": "boga-12",
+    "guide": {
+      "meaning": "Kömürün binlerce yıllık basınç ve ateş altında saflaşmasıyla oluşan elmas, kırılmaz ve ışığı tüm renklere böler. Tiferet (Öz Benlik Güneşi) ile Venüs'ün saflığıdır. Rubedo evresinde ruh, hiçbir dış etkiyle bozulmayacak kristalize bir özdeğere ulaşır.",
+      "daily_use": "Zorlukların ve baskıların sizi ezmesine izin vermeyin; onların sizi elmas gibi parlatan süreçler olduğunu bilin. Taviz vermeyen bir dürüstlük ve içsel asaletle duruşunuzu koruyun.",
+      "shadow": "Aşırı soğuk, kibirli ve ulaşılamaz olmak; başkalarını 'kusurlu' görüp dışlamak.",
+      "affirmation": "Ben baskılar altında parlayan kırılmaz bir elmasım. İçimdeki saf ışık her türlü karanlığı aydınlatır."
+    }
   },
   {
     "degree": 13,
@@ -564,7 +636,13 @@ const sabianData = [
     "hermetic": "Malkut",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-13"
+    "id": "boga-13",
+    "guide": {
+      "meaning": "Çiftçi sabahın erken saatlerinde tarlayı sürer ve tohumları atar. Kabala'da Malkut (Yeryüzü Krallığı / Fiziksel Eylem Dünyası) sefirasıdır. Albedo aşamasında insan, mucizeyi gökten beklemek yerine kendi alın terini toprağa akıtır.",
+      "daily_use": "Hayallerinizin gerçekleşmesini istiyorsanız pratik adımlar atın ve emek verin. Kısa yoldan zenginlik veya başarı aramak yerine disiplinli çalışmanın onuruna sarılın.",
+      "shadow": "Aşırı bedensel yorgunluk, dünyevi işlere gömülüp ruhsal boyutunu tamamen unutmak.",
+      "affirmation": "Emeğimi sevgiyle ekiyorum. Biliyorum ki toprağa atılan her samimi tohum berekete dönüşür."
+    }
   },
   {
     "degree": 14,
@@ -573,7 +651,13 @@ const sabianData = [
     "hermetic": "Ay–Venüs",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-14"
+    "id": "boga-14",
+    "guide": {
+      "meaning": "Kışın kuru ve ölü gibi görünen ağaç dalı, ilkbahar güneşiyle pembe-beyaz çiçeklerle bezenmiştir. Ay'ın doğurgan döngüsü ile Venüs'ün hayat veren neşesidir. Hayatın yenilenme gücünün ölümden her zaman daha kudretli olduğunun kanıtıdır.",
+      "daily_use": "Umutsuzluğa kapıldığınız bir dönemdeyseniz mevsimlerin döngüsünü hatırlayın. Her kışın ardında bir bahar vardır; içinizdeki yaratıcı güç yeniden uyanmak üzerinedir, sabredin ve neşeye yer açın.",
+      "shadow": "Çiçeklerin geçiciliğine saplanıp melankoliye düşmek veya gençlik/güzellik takıntısıyla yaşlanmayı reddetmek.",
+      "affirmation": "Ruhum her mevsim yeniden çiçek açar. Hayatın yenileyici ve tazeleyici gücüne teslim oluyorum."
+    }
   },
   {
     "degree": 15,
@@ -582,7 +666,13 @@ const sabianData = [
     "hermetic": "Geburah–Chesed",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-15"
+    "id": "boga-15",
+    "guide": {
+      "meaning": "İki grup çocuk bir halatın iki ucundan asılır; ne biri diğerini ezer ne de oyun bozulur. Kabala'da Geburah (Sertlik / Güç) ile Chesed (Merhamet / Genişleme) arasındaki dinamik gerilimdir. Rubedo'da zıt güçler düşman değil, oyunu canlı tutan ortaklardır.",
+      "daily_use": "İlişkilerinizdeki veya işinizdeki rekabeti bir düşmanlık olarak değil, sizi geliştiren dinamik bir oyun olarak görün. Gücünüzü test edin ama sınırları aşmadan, oyunun neşesini kaybetmeden dengeyi bulun.",
+      "shadow": "Kazanma hırsıyla karşı tarafı ezmeye çalışmak, küskünlük yaratmak veya gücünü kontrol edememek.",
+      "affirmation": "Gücüm zarafetimle, iradem esnekliğimle dengelidir. Zıtlıkların dansında merkezimi koruyorum."
+    }
   },
   {
     "degree": 16,
@@ -591,7 +681,13 @@ const sabianData = [
     "hermetic": "Netzach–Malkut",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-16"
+    "id": "boga-16",
+    "guide": {
+      "meaning": "Kadın ellerini çıplak toprağa koyar ve huşuyla dua eder. Kabala'da Netzach (Doğal Coşku ve Sezgi) ile Malkut'un (Yeryüzü Bedeni) kutsal temas noktasıdır. Ruh ve madde birbirinden ayrı değildir; madde, ruhun yoğunlaşmış halidir.",
+      "daily_use": "Bedeninizi ve dünyayı kutsal bir emanet olarak görün. Tüketim çılgınlığından uzaklaşın; doğaya teşekkür edin, ekolojik bilincinizi yükseltin ve toprağa hürmet gösterin.",
+      "shadow": "Aşırı batıl inançlara kapılmak ya da doğayı romantize ederken günlük hayatın gereklerinden kaçmak.",
+      "affirmation": "Toprak Ana ile bir ve bütünüm. Bedenim kutsaldır, bastığım her yer ilahi bir mucizedir."
+    }
   },
   {
     "degree": 17,
@@ -600,7 +696,13 @@ const sabianData = [
     "hermetic": "Venüs ışıması",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-17"
+    "id": "boga-17",
+    "guide": {
+      "meaning": "İstiridyenin içine kaçan bir kum tanesi, acı ve tahriş yaratır; ancak istiridye onu sedefle sararak paha biçilmez bir inciye dönüştürür. Venüs ışıması devrededir; Rubedo evresinde hayatın yaraları ve acıları en yüksek estetiğe ve bilgeliğe dönüştürülür.",
+      "daily_use": "Geçmişte yaşadığınız kalp kırıklıklarını veya hayal kırıklıklarını birer lanet gibi görmeyin. Onları olgunluğunuzu, merhametinizi ve içsel güzelliğinizi parlatan birer 'inci'ye dönüştürün.",
+      "shadow": "Dışsal takılara, süse ve yapay güzelliğe aşırı odaklanıp içsel acıyı bastırmaya çalışmak.",
+      "affirmation": "Hayatın her deneyimi içimde paha biçilmez bir inciye dönüşür. Ben ruhsal zarafetin kendisiyim."
+    }
   },
   {
     "degree": 18,
@@ -609,7 +711,13 @@ const sabianData = [
     "hermetic": "Binah süreci",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-18"
+    "id": "boga-18",
+    "guide": {
+      "meaning": "Un, su ve maya bir araya gelir; yoğrulur, bekletilir ve sıcak fırında sabırla pişirilir. Kabala'da Binah (Kutsal Anlayış / Pişirme ve Olgunlaşma Süreci) sefirasıdır. Albedo aşamasında ham maddelerin dönüşmesi için zamanın ve ateşin şaşmaz yasasına uyulması gerekir.",
+      "daily_use": "İşlerinizin, projelerinizin ve içsel dönüşümünüzün bir 'pişme süresi' olduğunu unutmayın. Fırının kapağını erkenden açmayın; sabırla bekleyin ki sonuç doyurucu ve besleyici olsun.",
+      "shadow": "Sabırsızlıkla ham olanı tüketmeye kalkışmak veya tam tersine aşırı bekletip ekmeği fırında yakmak.",
+      "affirmation": "Emeklerim sabrın fırınında mükemmel şekilde pişiyor. Doğru zaman geldiğinde bereketimle doyuracağım."
+    }
   },
   {
     "degree": 19,
@@ -618,7 +726,13 @@ const sabianData = [
     "hermetic": "Satürn enerjisi",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-19"
+    "id": "boga-19",
+    "guide": {
+      "meaning": "Taşlar harçla örülür, sağlam ve aşılmaz bir duvar yükselir. Satürn'ün (Sınır, Koruma ve Kalıcılık) arketipidir. Albedo evresinde bilinç, kendini kaostan ve zararlı dış etkilerden korumak için net sınırlar çizer.",
+      "daily_use": "Hayatınızda sınır koymayı öğrenin. Enerjinizi tüketen insanlara, projelere ve dağınıklığa karşı 'hayır' demesini bilin. Sağlıklı sınırlar sizi hapsetmez, içsel mabedinizi korur.",
+      "shadow": "Aşırı katılaşmak, kalbinin etrafına kimsenin giremeyeceği kalın duvarlar örüp yalnızlaşmak.",
+      "affirmation": "Sağlıklı ve güçlü sınırlar çiziyorum. Enerjimi koruyor, güvenli ve huzurlu bir alan yaratıyorum."
+    }
   },
   {
     "degree": 20,
@@ -627,7 +741,13 @@ const sabianData = [
     "hermetic": "Yesod yansıması",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-20"
+    "id": "boga-20",
+    "guide": {
+      "meaning": "Rüzgarsız bir gecede Ay'ın gümüşi ışığı durgun gölün yüzeyine kusursuzca yansır. Kabala'da Yesod (Temel / Ay / Bilinçdışının Yansıma Aynası) sefirasıdır. Rubedo aşamasında zihnin suları tamamen durulmuştur; ilahi gerçeklik olduğu gibi yansır.",
+      "daily_use": "Zihninizi gereksiz vesveselerden, endişelerden arındırın. Su durulmadan dibi göremezsiniz; sakinleştiğinizde en karmaşık soruların bile berrak cevapları kendiliğinden belirecektir.",
+      "shadow": "Pasifleşmek, derin duygusal melankoliye ve illüzyonlara kapılıp eylemsizliğe gömülmek.",
+      "affirmation": "Zihnim durgun bir göl gibi berraktır. İlahi huzuru ve hakikati kusursuzca yansıtıyorum."
+    }
   },
   {
     "degree": 21,
@@ -636,7 +756,13 @@ const sabianData = [
     "hermetic": "Malkut",
     "stage": "Albedo",
     "sign": "Boğa",
-    "id": "boga-21"
+    "id": "boga-21",
+    "guide": {
+      "meaning": "Tohum toprağın zifiri karanlığına gömülür ve kendini toprağa teslim eder. Kabala'da Malkut (Fiziksel Madde / Yeryüzü) sefirasıdır. Albedo evresinde kontrolü bırakma dersidir; tohum ölmeden ağaç doğamaz.",
+      "daily_use": "Her şeyi kontrol etmeye çalışmaktan vazgeçin. Niyetinizi belirleyin, elinizden geleni yapın ve sonrasını evrenin görünmeyen bereketli akışına teslim edin; teslimiyet yenilgi değil, en büyük güçtür.",
+      "shadow": "Umutsuzluğa kapılmak, karanlığı bir son sanarak depresyona ve çaresizlik hissine yenik düşmek.",
+      "affirmation": "Niyetlerimi güvenle evrenin toprağına bırakıyorum. Biliyorum ki karanlığın bağrında yeni bir hayat filizleniyor."
+    }
   },
   {
     "degree": 22,
@@ -645,7 +771,13 @@ const sabianData = [
     "hermetic": "Ay–Venüs",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-22"
+    "id": "boga-22",
+    "guide": {
+      "meaning": "Toprağın karanlığını yaran taze yeşil sürgün gün ışığına uzanır. Ay'ın büyütücü gücü ile Venüs'ün yaşam sevinci birleşir. Rubedo aşamasında görünmeyen potansiyelin somut bir gerçekliğe dönüşünün ilk zaferidir.",
+      "daily_use": "Fikirlerinizin ve projelerinizin ilk küçük başarılarını görün ve kutlayın. Kırılgan görünse bile o filizde devasa bir meşenin kudreti saklıdır; onu inançla sulamaya devam edin.",
+      "shadow": "Yeni başlayan işleri henüz küçük diye küçümsemek veya sabırsızlıkla hemen büyük meyveler beklemek.",
+      "affirmation": "Hayatım her an taze bir filiz gibi yenileniyor. İçimdeki güç engelleri delip ışığa ulaşıyor."
+    }
   },
   {
     "degree": 23,
@@ -654,7 +786,13 @@ const sabianData = [
     "hermetic": "Netzach",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-23"
+    "id": "boga-23",
+    "guide": {
+      "meaning": "Güneşin ilk sabah ışığı narin bir çiçeğin taç yapraklarına değer ve onu uyandırır. Kabala'da Netzach (Doğal Coşku, İlham ve İlahi Aşk) sefirasıdır. İlahi temas gerçekleşmiştir; ruh göksel lütufla beslenir.",
+      "daily_use": "Güne ilahi olanla bağ kurarak, şükranla başlayın. Hayatınızdaki güzellikleri fark edin; sevgiye, şefkate ve aşka kalbinizi açın; ilahi lütuf açık kalplere akar.",
+      "shadow": "Aşırı duyarlılık yüzünden çabuk kırılmak, dış koşulların en ufak sertliğinde küsmek.",
+      "affirmation": "İlahi sevginin ışığı kalbime dokunuyor. Hayatın mucizelerine ve bereketine tamamen açığım."
+    }
   },
   {
     "degree": 24,
@@ -663,7 +801,13 @@ const sabianData = [
     "hermetic": "Chesed",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-24"
+    "id": "boga-24",
+    "guide": {
+      "meaning": "Kutsal tapınakta toplanan cemaat, pişirilen tek bir ekmeği eşit parçalara bölerek paylaşır. Kabala'da Chesed (İlahi Merhamet, İhsan ve Sonsuz Cömertlik) sefirasıdır. Rubedo aşamasında bolluk, saklandıkça değil paylaşıldıkça çoğalır.",
+      "daily_use": "Elinizdeki maddi ve manevi kaynakları başkalarıyla bölüşün. Cimrilikten ve kıtlık bilincinden arının; paylaşmak evrensel bolluk akımına katılmanın en garantili yoludur.",
+      "shadow": "Bencilce biriktirmek, kaynakların tükeneceği korkusuyla cimrileşmek veya gösteriş için vermek.",
+      "affirmation": "Evrenin cömertliğini yüreğimde taşıyorum. Paylaştıkça çoğalan ilahi bir bereketin parçasıyım."
+    }
   },
   {
     "degree": 25,
@@ -672,7 +816,13 @@ const sabianData = [
     "hermetic": "Yesod–Tiferet",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-25"
+    "id": "boga-25",
+    "guide": {
+      "meaning": "Okyanusun en derin ve karanlık çukurlarındaki inci, suyun yüzeyine çıkar ve güneşle buluşur. Kabala'da Yesod (Bilinçdışının Derinlikleri) ile Tiferet (Bilinç Işığı ve Kalp) arasındaki yükseliştir. Saklı kalan bir hakikatin veya yeteneğin açığa çıkışıdır.",
+      "daily_use": "İçinizde yıllardır sakladığınız, utandığınız veya bastırdığınız bir yeteneği, duyguyu veya gerçeği artık gün ışığına çıkarın. Saklı cevherinizin dünyayla buluşma vakti gelmiştir.",
+      "shadow": "Derinliklerden yüzeye çıkarken vurgun yemek (ani gelen şöhret veya ilgi karşısında dengesini yitirmek).",
+      "affirmation": "İçimdeki saklı cevher gün ışığına çıkıyor. Değerimi, ışığımı ve bilgeliğimi dünyayla paylaşıyorum."
+    }
   },
   {
     "degree": 26,
@@ -681,7 +831,13 @@ const sabianData = [
     "hermetic": "Venüs",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-26"
+    "id": "boga-26",
+    "guide": {
+      "meaning": "Elinde bereket boynuzu (Cornucopia) tutan tanrıça; etrafına buğday başakları, meyveler ve altınlar saçar. Venüs'ün arketipsel anne ve yaratıcı doğurganlık gücüdür. Rubedo evresinde kıtlık bilinci tamamen yok edilmiştir.",
+      "daily_use": "Hayatınızdaki zenginlikleri kutlayın. Kendinizi 'yokluk' veya 'yetersizlik' düşünceleriyle kısıtlamayın; zihninizi zenginliğe ve refaha açın. Siz varoluşun cömert evladısınız.",
+      "shadow": "Doyumsuzluk, sınır tanımayan bir tüketim çılgınlığı ve manevi değerleri tamamen unutmak.",
+      "affirmation": "Ben evrenin sonsuz bolluğuna layığım. Zihnim, kalbim ve hayatım zenginlik ve şükranla dolu."
+    }
   },
   {
     "degree": 27,
@@ -690,7 +846,13 @@ const sabianData = [
     "hermetic": "Netzach–Chesed",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-27"
+    "id": "boga-27",
+    "guide": {
+      "meaning": "Köy halkı ilkbaharın gelişini müzikle, dansla ve çiçekli taçlarla kutlar. Kabala'da Netzach (Duygusal Coşku) ile Chesed (İlahi Cömertlik) birleşimidir. İnsanın doğayla ve toplulukla kusursuz bir ritim içinde bayram etmesidir.",
+      "daily_use": "Hayatı sürekli bir mücadele olarak görmeyin; neşelenmeye, kutlamaya ve dostlarla bir arada olmaya vakit ayırın. Ruhunuzu şarkılarla, sanatla ve dansla tazeleyin.",
+      "shadow": "Sürekli eğlence arayışıyla ciddiyetten ve sorumluluklardan kaçmak.",
+      "affirmation": "Hayat bir kutlamadır. Varlığımın neşesini ve doğanın bayramını coşkuyla yaşıyorum."
+    }
   },
   {
     "degree": 28,
@@ -699,7 +861,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-28"
+    "id": "boga-28",
+    "guide": {
+      "meaning": "Kusursuz bir ustalıkla işlenmiş som altından bir vazo, saf nektarla doludur. Kabala'da Tiferet (Kalp ve Ruhsal Denge) sefirasıdır. Rubedo aşamasında insan bedeni ve bilinci, ilahi ruhun içine döküldüğü paha biçilmez bir altın kadehe dönüşmüştür.",
+      "daily_use": "Bedeninizi ve zihninizi kaba şeylerden koruyun; siz ilahi olanın taşıyıcısısınız. Kendinize saygı duyun, beslenmenize, düşüncelerinize ve etrafınızdaki ortamlara özen gösterin.",
+      "shadow": "Dış görünüşü kusursuzlaştırıp vazonun içini boş bırakmak; biçime tapıp özü unutmak.",
+      "affirmation": "Ben ilahi ışığın ve sevginin altın vazosuyum. Varlığım asalet, saflık ve derinlikle doludur."
+    }
   },
   {
     "degree": 29,
@@ -708,7 +876,13 @@ const sabianData = [
     "hermetic": "Venüs",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-29"
+    "id": "boga-29",
+    "guide": {
+      "meaning": "Gül bahçesi, dünyevi alemde cennetin bir yansımasıdır (Hortus Conclusus). Venüs'ün en yüksek ezoterik ifadesidir. Dikenlerin ve güllerin kusursuz dengesinde, zıtlıkların barıştığı ve saf huzurun hüküm sürdüğü kutsal mekandır.",
+      "daily_use": "Kendi iç huzurunuzu inşa edin. Dış dünyada kaos olsa bile kalbinizde kimsenin bozamayacağı bir 'gül bahçesi' yaratın; huzur dışarıda değil, içeridedir.",
+      "shadow": "Gerçek dünyadaki kötülükleri tamamen inkar ederek kör bir hüsnükuruntu dünyasında yaşamak.",
+      "affirmation": "Kalbim huzurun ve aşkın gül bahçesidir. Dışarıdaki hiçbir fırtına içimdeki dinginliği bozamaz."
+    }
   },
   {
     "degree": 30,
@@ -717,7 +891,13 @@ const sabianData = [
     "hermetic": "Keter",
     "stage": "Rubedo",
     "sign": "Boğa",
-    "id": "boga-30"
+    "id": "boga-30",
+    "guide": {
+      "meaning": "Boğa burcunun son ve taçlanma derecesidir. Gökyüzünden inen kutsal ışık tüm toprağı, taşları, ağaçları ve bedenleri altın bir örtü gibi sarar. Kabala'da Keter (Taç / Saf İlahi Birlik Kaynağı) sefirasıdır. Maddenin ruhla, yeryüzünün gökyüzüyle tam birleşimidir; cennet yeryüzüne inmiştir.",
+      "daily_use": "Maddi ve manevi hayatınızı birbirinden ayırmayın. Çalışırken, yerken, yaşarken her şeyin kutsal olduğunu hissedin. Maddeye ruh, ruha madde katın; hayatı kutsayın.",
+      "shadow": "Maddiyatı mutlaklaştırıp ilahi kaynağı unutmak veya tam tersi maddeyi aşağılayarak göksel ışığı bedenden koparmak.",
+      "affirmation": "Yeryüzü ve gökyüzü içimde birdir. Kutsal ışık her hücremi sarıyor; ben evrenle tam bir bütünüm."
+    }
   },
   {
     "degree": 1,
