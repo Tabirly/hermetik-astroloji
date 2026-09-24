@@ -3606,7 +3606,13 @@ const sabianData = [
     "hermetic": "Jüpiter iradesi",
     "stage": "Albedo",
     "sign": "Yay",
-    "id": "yay-1"
+    "id": "yay-1",
+    "guide": {
+      "meaning": "Fırtınalı okyanusta dev dalgalarla boğuşan geminin kaptanı, pusulaya ve gökyüzündeki kutup yıldızına bakarak dümeni sıkıca tutar; gemiyi güvenli rotaya sokar. Jüpiter'in inanç ve vizyon gücüdür. Simyada Citrinitas (Sarı Aşama: bilincin uyanışı ve yön bulma) evresidir. Kabala'da Chesed (Genişleme ve Yüce Lütuf) ile Geburah'ın (İrade ve Dümen Hâkimiyeti) kusursuz birleşimidir.",
+      "daily_use": "Kendi hayatınızın kaptanı olun. Başkalarının fikirlerinin veya dış dünyanın krizlerinin sizi oradan oraya savurmasına izin vermeyin; hedefinizi belirleyin ve rotanızda kararlılıkla ilerleyin.",
+      "shadow": "Aşırı özgüvenle tehlikeli fırtınalara gözü kapalı dalmak, tayfayı (çevresindekileri) dinlemeyip diktatörce davranmak.",
+      "affirmation": "Hayatımın dümencisiyim. İçsel pusulama ve ilahi rehberliğe güvenerek rotamda emin adımlarla ilerliyorum."
+    }
   },
   {
     "degree": 2,
@@ -3615,7 +3621,13 @@ const sabianData = [
     "hermetic": "Jüpiter–Merkür",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-2"
+    "id": "yay-2",
+    "guide": {
+      "meaning": "Kutsal tapınak bahçesinde beyaz tüylü bir papağan, rahiplerin dualarını ve mantralarını insan sesiyle kusursuzca tekrarlar; göksel mesajı yankılar. Jüpiter (Kozmik Anlam) ile Merkür'ün (İletişim ve Dil) kutsal sentezidir. Yüksek felsefi hakikatlerin basit ve anlaşılır sözcüklere dökülmesidir.",
+      "daily_use": "Duyduğunuz derin felsefi veya manevi bilgileri sadece kendinize saklamayın; onları çevrenizdekilerin anlayabileceği tatlı ve net bir dille paylaşın. Sözlerinizin yapıcı ve umut verici olmasına özen gösterin.",
+      "shadow": "Anlamını bilmediği süslü lafları papağan gibi tekrarlamak, içi boş entelektüel gösterişe kapılmak.",
+      "affirmation": "Kelimelerim sevgi, bilgelik ve umut taşır. Hakikatin berrak ve ilham dolu bir elçisiyim."
+    }
   },
   {
     "degree": 3,
@@ -3624,7 +3636,13 @@ const sabianData = [
     "hermetic": "Chokmah–Tiferet",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-3"
+    "id": "yay-3",
+    "guide": {
+      "meaning": "Açık hava dersliğinde bir ağacın gölgesinde toplanan meraklı çocuklara, yaşlı bilge doğanın döngülerini ve yıldızların hikayesini masallarla anlatır. Kabala'da Chokmah (Yaratıcı Hikmet ve Kadim Bilgi) ile Tiferet'in (Şefkatli Kalp ve Anlayış) buluşmasıdır. Bilginin nesilden nesle sevgiyle aktarılmasıdır.",
+      "daily_use": "Öğrendiğiniz hayat tecrübelerini gençlere veya öğrenmeye hevesli insanlara sabırla aktarın. En büyük bilgelik, karmaşık konuları bir çocuğun bile anlayabileceği sadelikte anlatabilmektir.",
+      "shadow": "Öğretmenlik taslayarak insanları sürekli ders verir gibi küçümsemek, dogmatik olmak.",
+      "affirmation": "Bilgimi sevgiyle, alçakgönüllülükle ve cömertçe paylaşıyorum. Hem ebedi bir öğrenci hem şefkatli bir rehberim."
+    }
   },
   {
     "degree": 4,
@@ -3633,7 +3651,13 @@ const sabianData = [
     "hermetic": "Jüpiter–Uranüs",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-4"
+    "id": "yay-4",
+    "guide": {
+      "meaning": "Omzunda küçük bir heybe ve elinde bastonuyla tozlu yollara düşen seyyah, arkasında bıraktığı şehre dönüp bakmadan ufuktaki bilinmeyen diyarlara doğru gülümseyerek yürür. Jüpiter ve Uranüs'ün maceracı, sınır tanımayan ruhudur. Hermetik 'Arayış' (Peregrinatio) aşamasıdır; ruhun konfor alanından çıkıp hakikatin peşine düşmesidir.",
+      "daily_use": "Hayatınızdaki rutinlerden, ezberlenmiş alışkanlıklardan ve sizi kısıtlayan sınırların dışına çıkın. Yeni yerler görün, yeni felsefeler tanıyın; bilinmeyene cesaretle adım atın.",
+      "shadow": "Sorumluluklardan kaçmak için sürekli kaçış yolları aramak, hiçbir yerde kök salamamak.",
+      "affirmation": "Bilinmeyene doğru cesaretle ve güvenle adım atıyorum. Evren benim evim, yolculuğun kendisi ise mabedimdir."
+    }
   },
   {
     "degree": 5,
@@ -3642,7 +3666,13 @@ const sabianData = [
     "hermetic": "Keter bağlantısı",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-5"
+    "id": "yay-5",
+    "guide": {
+      "meaning": "Karlı ve sarp dağın en sivri doruğunun tam tepesinde, gündüz bile parlayan kutup yıldızı görünür; dağın zirvesi ile gök tek bir noktada temas eder. Kabala'da Keter (Saf Birlik ve İlahi Taç) sefirasının insan bilincinde parlamasıdır. Hermetik 'Hedeflerin En Yücesi'ni simgeler.",
+      "daily_use": "Gündelik küçük hesapların ötesine geçip kendinize yüksek ve onurlu bir hayat gayesi belirleyin. Karşılaştığınız engeller ne olursa olsun, o doruktaki yıldıza odaklanın; vizyonunuz sizi taşıyacaktır.",
+      "shadow": "Ulaşılamaz hayallere takılıp yeryüzünün gerçekliğini ve tırmanışın zahmetini unutmak.",
+      "affirmation": "Gözlerim en yüce hakikate ve ilahi vizyona odaklıdır. Dağın zirvesindeki ışık yolumu aydınlatır."
+    }
   },
   {
     "degree": 6,
@@ -3651,7 +3681,13 @@ const sabianData = [
     "hermetic": "Tiferet–Netzach",
     "stage": "Albedo",
     "sign": "Yay",
-    "id": "yay-6"
+    "id": "yay-6",
+    "guide": {
+      "meaning": "Meydanda toplanan binlerce insana yüksek bir basamaktan seslenen hatip, öyle içten ve coşkulu konuşur ki kalabalığın kalpleri tek bir yürek gibi çarpmaya başlar. Kabala'da Tiferet (Güneş / Karizma ve Kalp Merkezi) ile Netzach'ın (Duygusal Coşku ve İlham) birleşimidir. Kitlelere ruhsal vizyon aşılama gücüdür.",
+      "daily_use": "Topluluk önünde konuşmaktan, düşüncelerinizi savunmaktan çekinmeyin. Konuşurken sadece mantığa değil, insanların kalbine seslenin; samimiyet ve inanç en güçlü ikna aracıdır.",
+      "shadow": "Halkı manipüle etmek, retorik yeteneğini demagoji ve kendi bencil çıkarları için kullanmak.",
+      "affirmation": "Sesim hakikatin ve umudun yankısıdır. İnsanların kalbine ilham, cesaret ve birlik aşılıyorum."
+    }
   },
   {
     "degree": 7,
@@ -3660,7 +3696,13 @@ const sabianData = [
     "hermetic": "Geburah–Jüpiter",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-7"
+    "id": "yay-7",
+    "guide": {
+      "meaning": "Gövdesi at, bedeni insan olan bilge Centaur (Kiron), yayını gerip hedefine kilitlenir; hayvanın içgüdüsel gücü ile insanın odaklanmış aklı tek bir okta birleşir. Geburah (Disiplin ve Odak) ile Jüpiter'in (Yüce Vizyon) sentezidir. Hayvansal doğanın ruhsal amaçlar uğruna ehlileştirilmesidir.",
+      "daily_use": "İçgüdülerinizi, tutkularınızı ve enerjinizi dağıtmayın. Onları tek bir odak noktasına, yüce bir hedefe kanalize edin; dikkat dağıtıcı unsurları hayatınızdan çıkarın.",
+      "shadow": "Öfkeye ve vahşi dürtülere yenik düşüp oku rastgele savurmak, kendine ve başkalarına zarar vermek.",
+      "affirmation": "Bedenimin gücünü zihnimin odaklanmış iradesiyle birleştiriyorum. Hedefime şaşmaz bir inançla ulaşıyorum."
+    }
   },
   {
     "degree": 8,
@@ -3669,7 +3711,13 @@ const sabianData = [
     "hermetic": "Yesod–Tiferet",
     "stage": "Albedo",
     "sign": "Yay",
-    "id": "yay-8"
+    "id": "yay-8",
+    "guide": {
+      "meaning": "Yüzünü doğan Güneş'in ilk altın ışıklarına dönen hacı, ellerini semaya açarak gözyaşları içinde secdeye varır; tüm yolculuğun yorgunluğu tek bir anda silinir. Kabala'da Yesod'dan (Arzular ve Yollar) Tiferet'e (İlahi Kalp ve Güneş) varıştır. İnancın ve teslimiyetin getirdiği mutlak huzurdur.",
+      "daily_use": "Hayatınızın koşturmacası içinde durun ve var oluşunuza, aldığınız nefese şükredin. Her sabahı yeni bir lütuf ve kutsanma olarak karşılayın; şükran bilinci mucizeleri hayatınıza çeker.",
+      "shadow": "Dışsal ibadetleri ve ritüelleri şekilcilik için yapmak, kalpsiz bir sofuluğa kapılmak.",
+      "affirmation": "Her yeni gün ilahi bir lütuftur. Kalbimi minnetle, inançla ve ışıkla evrene açıyorum."
+    }
   },
   {
     "degree": 9,
@@ -3678,7 +3726,13 @@ const sabianData = [
     "hermetic": "Hod–Jüpiter",
     "stage": "Albedo",
     "sign": "Yay",
-    "id": "yay-9"
+    "id": "yay-9",
+    "guide": {
+      "meaning": "Tavanı arşa kadar uzanan devasa bir kadim kütüphanenin koridorunda, vitray pencerelerden süzülen altın bir ışık demeti tozlu rafları ve açık bir kitabı aydınlatır. Kabala'da Hod (Zihinsel Yapı, Kütüphaneler ve Bilgi) ile Jüpiter'in (Kozmik Anlam ve Felsefe) evliliğidir. Hakikat arayışının ödülüdür.",
+      "daily_use": "Merakınızı besleyin; okuyun, araştırın ve geçmişin büyük düşünürlerinin izinden gidin. Aradığınız bir sorunun cevabı, beklemediğiniz bir kitapta veya bilgide karşınıza çıkacaktır.",
+      "shadow": "Kitapların arasında kaybolup bilgiyi hayata geçirememek, pratikten yoksun bir kitap kurduna dönüşmek.",
+      "affirmation": "Zihnim evrensel bilgiye açıktır. Bilgiyi hayatımda bilgeliğe ve erdeme dönüştürüyorum."
+    }
   },
   {
     "degree": 10,
@@ -3687,7 +3741,13 @@ const sabianData = [
     "hermetic": "Netzach–Chesed",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-10"
+    "id": "yay-10",
+    "guide": {
+      "meaning": "Mermer sütunlu antik bir tapınakta toplanan binlerce insan, tek bir ağızdan aynı ilahiyi söyler; ses dalgaları kubbede birleşerek göğe yükselir. Kolektif bilincin ve ortak ruhsal rezonansın gücüdür. Kabala'da Netzach (Duygusal Birlik) ile Chesed'in (Kozmik Merhamet ve Kardeşlik) sinerjisidir.",
+      "daily_use": "Yalnız olmadığınızı hatırlayın. Aynı idealleri, aynı hayalleri paylaştığınız insanlarla bir araya gelin; ortak bir niyetle yapılan dualar ve atılan adımlar bireysel çabalardan bin kat daha güçlüdür.",
+      "shadow": "Kendi bireysel aklını topluluk histerisine kaptırmak, sürü psikolojisiyle hareket etmek.",
+      "affirmation": "Bütünün ve evrensel kardeşliğin bir parçasıyım. Ortak niyetimiz dünyaya ışık, barış ve şifa saçar."
+    }
   },
   {
     "degree": 11,
@@ -3696,7 +3756,13 @@ const sabianData = [
     "hermetic": "Jüpiter",
     "stage": "Albedo",
     "sign": "Yay",
-    "id": "yay-11"
+    "id": "yay-11",
+    "guide": {
+      "meaning": "Uçsuz bucaksız sıra dağların üzerinde duran kâşif, rüzgara karşı durarak ufukta henüz haritalandırılmamış bakir vadileri seyreder. Jüpiter'in engin vizyonu ve ufuk genişliğidir. Geleceği bugünden görme ve büyük imkanları sezme kapasitesidir.",
+      "daily_use": "Küçük problemlerle boğulmayın. Başınızı kaldırın ve hayatınızın önündeki devasa ufka bakın; şu an içinde bulunduğunuz kriz, gelecekteki büyük fetihlerin sadece küçük bir basamağıdır.",
+      "shadow": "Sürekli geleceğe bakarken bugünün sorumluluklarını ve altındaki zemini unutmak.",
+      "affirmation": "Vizyonum sınırsız ve berraktır. Ufuktaki yeni fırsatları ve güzellikleri cesaretle kucaklıyorum."
+    }
   },
   {
     "degree": 12,
@@ -3705,7 +3771,13 @@ const sabianData = [
     "hermetic": "Geburah–Jüpiter",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-12"
+    "id": "yay-12",
+    "guide": {
+      "meaning": "Okçu nefesini tutar, rüzgarın hızını tartar ve yayını bırakır; ıslık çalan ok yüzlerce metre uzaktaki hedef tahtasının tam merkezindeki kırmızı noktayı delip geçer. Odaklanmış zihnin ve iradenin mutlak zaferidir. Kabala'da Geburah'ın (Kusursuz İsabet ve Disiplin) Jüpiter vizyonuyla birleşimidir.",
+      "daily_use": "Kararsızlığı bir kenara bırakın. Yapmak istediğiniz işe tüm dikkatinizi verin; enerjinizi sağa sola dağıtmadan tek bir hedefe kilitlendiğinizde başarı kaçınılmazdır.",
+      "shadow": "Hedefe o kadar kilitlenmek ki çevredeki güzellikleri ve sevdiklerinin duygularını çiğnemek.",
+      "affirmation": "Niyetim saf, kararlılığım tamdır. Eylemlerim hedefi tam merkezinden vurur."
+    }
   },
   {
     "degree": 13,
@@ -3714,7 +3786,13 @@ const sabianData = [
     "hermetic": "Hod–Jüpiter",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-13"
+    "id": "yay-13",
+    "guide": {
+      "meaning": "Tapınağın kürsüsünde duran ak sakallı bilge, kainatın matematiksel kanunlarını ve ruhun yolculuğunu dinleyicilere derin bir vecd içinde açıklar. Kabala'da Hod (Hermetik Mantık ve Açıklama) ile Jüpiter'in (Yüce Yasa) ahengidir. Hakikati sistemleştirip insanlığa sunma erdemidir.",
+      "daily_use": "Fikirlerinizi karmaşadan arındırın; mantıklı, anlaşılır ve tutarlı bir yapı kurun. İnsanlara ilham verirken kanıtlara, ilkelere ve evrensel yasalara dayanın.",
+      "shadow": "Kendi teorisini tek mutlak doğru ilan edip karşıt fikirleri dinlemeye tahammül edememek.",
+      "affirmation": "Düşüncelerim evrensel kanunlarla uyum içindedir. Bilgeliği düzen, berraklık ve şefkatle paylaşıyorum."
+    }
   },
   {
     "degree": 14,
@@ -3723,7 +3801,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-14"
+    "id": "yay-14",
+    "guide": {
+      "meaning": "Geniş bir denizin dalgaları üzerine vuran öğle güneşi, suyu altın bir aynaya çevirir; her bir dalga köpüğü parlayan birer elmas gibi ışıltı saçar. Simyada Citrinitas'tan Rubedo'ya geçiştir. Kabala'da Tiferet'in (Güneş / İlahi Işık) bilinçdışı suları (Yesod) aydınlatıp coşkuyla doldurmasıdır.",
+      "daily_use": "Hayatın karmaşık dalgaları arasında neşenizi ve yaratıcı ilhamınızı kaybetmeyin. Her olumsuzluğun içinde parıldayan bir fırsat ve güzellik bulun; iyimserliğinizi etrafınıza bulaştırın.",
+      "shadow": "Yüzeysel bir neşeyle gerçek sorunları görmezden gelmek, 'her şey harika' maskesi takmak.",
+      "affirmation": "Ruhum ilahi sevinç ve yaratıcı ilhamla doludur. Her koşulda hayatın ışıltısını ve bereketini görürüm."
+    }
   },
   {
     "degree": 15,
@@ -3732,7 +3816,13 @@ const sabianData = [
     "hermetic": "Binah",
     "stage": "Albedo",
     "sign": "Yay",
-    "id": "yay-15"
+    "id": "yay-15",
+    "guide": {
+      "meaning": "Taş manastırın serin hücresinde oturan genç rahip, kandil ışığında ceylan derisine yazılmış kadim hermetik metinleri okuyup derin düşüncelere dalar. Kabala'da Binah (Derin Anlayış, Tefekkür ve Kök Bilgi) sefirasının olgunluğudur. Yüzeysel bilgiden derin tefekküre geçiştir.",
+      "daily_use": "Hızlı tüketilen, yüzeysel sosyal medya bilgilerini bir kenara bırakın. Gerçekten derinleşmek istediğiniz bir konuyu seçin ve günlerce onun üzerine yoğunlaşarak esas özü yakalayın.",
+      "shadow": "Aşırı zihinsel izolasyon, pratik hayattan koparak teorik labirentlerde kaybolmak.",
+      "affirmation": "Sabırla ve derinlikle öğreniyorum. Zihnim kadim bilgeliğin köklerine kök salar ve olgunlaşır."
+    }
   },
   {
     "degree": 16,
@@ -3741,7 +3831,13 @@ const sabianData = [
     "hermetic": "Keter–Tiferet",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-16"
+    "id": "yay-16",
+    "guide": {
+      "meaning": "Gece yarısı gökyüzünden yavaşça süzülen parlak bir yıldız, bir vadinin ortasına iner ve toprağa göksel bir ışık tohumu eker. Kabala'da Keter'den (En Yüksek Kozmik Kaynak) Tiferet'e (İnsan Kalbi) inen ilahi vahiy ve ani aydınlanmadır. Hermetik 'Yukarıdan İnen Lütuf'tur.",
+      "daily_use": "Aniden içinize doğan sezgilere, 'eureka' anlarına ve rüyalarınıza dikkat edin. Bazen yıllarca aradığınız cevap, gökten inen bir kıvılcım gibi aniden zihninize düşer; o ilhama güvenin.",
+      "shadow": "Gelen ilhamları tembellikle heba etmek, aydınlanmayı sadece mistik bir eğlence sanmak.",
+      "affirmation": "Göksel ilhama ve ilahi yönlendirmelere kalbimi açıyorum. İçime doğan ışık hayatımı aydınlatır."
+    }
   },
   {
     "degree": 17,
@@ -3750,7 +3846,13 @@ const sabianData = [
     "hermetic": "Netzach–Chokmah",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-17"
+    "id": "yay-17",
+    "guide": {
+      "meaning": "Geniş bir boğazın iki yakasında yükselen iki farklı medeniyet arasına devasa bir mermer köprü kurulur; tüccarlar, sanatçılar ve filozoflar köprüde buluşup kucaklaşır. Netzach (Duygusal Yakınlaşma) ile Chokmah'ın (Kozmik Kapsayıcılık) sentezidir. Kültürler, inançlar ve insanlar arası birliktir.",
+      "daily_use": "Önyargıları yıkın. Sizin gibi düşünmeyen, farklı inanç veya kültürden insanlarla ortak paydalar bulun. İnsanları ayrıştıran duvarlar değil, birleştiren köprüler inşa edin.",
+      "shadow": "Her iki tarafa da yaranmaya çalışarak kendi öz kimliğini ve omurgasını kaybetmek.",
+      "affirmation": "Farklılıklar arasında sevgi ve anlayış köprüsüyüm. Herkesle kalpten kalbe bağ kurabilirim."
+    }
   },
   {
     "degree": 18,
@@ -3759,7 +3861,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-18"
+    "id": "yay-18",
+    "guide": {
+      "meaning": "Karanlık bir labirentin girişinde elinde sönmeyen bir meşale tutan kadın, korkudan titreyen yolculara cesaret vererek yolu aydınlatır. Kabala'da Tiferet'in (Kılavuz Işık ve Cesaret Merkezi) rehberliğidir. Hermetik Aydınlatma prensibidir; cehalet karanlığını bilgi ateşiyle kovmaktır.",
+      "daily_use": "Zor durumlarda etrafınızdakilere liderlik ve rehberlik edin. Korkuyu değil, güveni ve çözümü temsil edin. Sizin taşıdığınız inanç meşalesi, birçok insanın yolunu bulmasını sağlayacaktır.",
+      "shadow": "Başkalarını kurtarıcı rolüne soyunup onların kendi güçlerini keşfetmelerine engel olmak.",
+      "affirmation": "Karanlık yollarda cesaretin ve rehberliğin meşalesini taşıyorum. Varlığım güven ve netlik saçar."
+    }
   },
   {
     "degree": 19,
@@ -3768,7 +3876,13 @@ const sabianData = [
     "hermetic": "Binah–Yesod",
     "stage": "Nigredo",
     "sign": "Yay",
-    "id": "yay-19"
+    "id": "yay-19",
+    "guide": {
+      "meaning": "Yosun tutmuş devasa yekpare taşlardan yapılmış kadim bir tapınak kapısı; kapının üzerinde hiyerogliflerle yazılmış 'Kendini Bil' yazısı parlar. Kabala'da Binah (Kadim Hafıza) ile Yesod'un (Bilinçdışının Eşiği) kapısıdır. Ezoterik eşiği aşma sınavıdır.",
+      "daily_use": "Hayatınızda yeni bir döneme girerken kendi niyetinizi ve kimliğinizi sorgulayın. Kim olduğunuzu, neden bu dünyada olduğunuzu bilmeden attığınız hiçbir adım kalıcı başarı getirmez.",
+      "shadow": "Eşikte korkup geri dönmek veya kapının sırlarını layık olmadan zorlamaya çalışmak.",
+      "affirmation": "Kendimi tüm derinliğimle tanıyor ve kabul ediyorum. Kutsal eşikten bilgelikle geçiyorum."
+    }
   },
   {
     "degree": 20,
@@ -3777,7 +3891,13 @@ const sabianData = [
     "hermetic": "Chesed",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-20"
+    "id": "yay-20",
+    "guide": {
+      "meaning": "Mavi gökyüzüne doğru aynı anda kanat çırpan yüzlerce bembeyaz güvercin, yeryüzünün tüm ağırlığını geride bırakıp sonsuz göğe yükselir. Simyada Sublimatio (Uçuculaştırma / Hafifletme) işlemidir. Kabala'da Chesed'in (Sonsuz Merhamet ve Ruhsal Özgürlük) sınırsız coşkusudur.",
+      "daily_use": "Maddi kaygılardan, suçluluk duygularından ve sizi yere çeken ağırlıklardan özgürleşin. Affedin, serbest bırakın ve ruhunuzun hafiflemesine izin verin; hafifleyen ruh kolayca yükselir.",
+      "shadow": "Dünya sorumluluklarını tamamen boş verip havai ve sorumsuz bir yaşama kaçmak.",
+      "affirmation": "Beni aşağı çeken tüm yükleri sevgiyle bırakıyorum. Ruhum özgürce, hafiflikle ve sevinçle yükselir."
+    }
   },
   {
     "degree": 21,
@@ -3786,7 +3906,13 @@ const sabianData = [
     "hermetic": "Jüpiter",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-21"
+    "id": "yay-21",
+    "guide": {
+      "meaning": "Uçurumun kenarında duran okçu, yayını yere değil doğrudan Samanyolu'nun parlayan yıldızlarına doğru gerer; oku göğün sonsuzluğuna fırlatır. İnsan bilincinin kozmik hedeflere yönelmesidir. Jüpiter'in sınır tanımaz aşkınlığıdır.",
+      "daily_use": "Hayallerinizi ve hedeflerinizi küçük tutmayın. 'İmkânsız' denilen şeylere odaklanın; yıldızları hedefleyin, hedefe tam ulaşamasanız bile gökyüzünde çok yukarılara tırmanmış olacaksınız.",
+      "shadow": "Gerçeklikten tamamen kopuk, ayakları yere basmayan fantezilerin peşinde ömür tüketmek.",
+      "affirmation": "Hedeflerimi yıldızlara dikiyorum. İnancım ve vizyonum beni en yüksek potansiyelime taşır."
+    }
   },
   {
     "degree": 22,
@@ -3795,7 +3921,13 @@ const sabianData = [
     "hermetic": "Netzach–Hod",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-22"
+    "id": "yay-22",
+    "guide": {
+      "meaning": "Tapınak bahçesinde omzuna konan beyaz güvercinle fısıldaşan rahibe, kuşun getirdiği ilahi mesajı dinler ve gülümser. Kabala'da Netzach (Sezgisel Algı) ile Hod'un (Mesajı Çözme Yeteneği) ilahi uyumudur. Doğa ve evrenle doğrudan telepatik haberleşmedir.",
+      "daily_use": "Doğanın ve hayvanların işaretlerine dikkat edin. Bazen bir kuşun ötüşü, esen bir rüzgar veya tesadüfen kulağınıza gelen bir cümle hayatınızın en önemli mesajını taşır; işaretleri okuyun.",
+      "shadow": "Her olayda gerçek dışı kehanetler arayıp aşırı batıl inançlara saplanmak.",
+      "affirmation": "Evrenin nazik işaretlerine ve ilahi fısıltılarına açığım. Hayat benimle her an sevgiyle konuşur."
+    }
   },
   {
     "degree": 23,
@@ -3804,7 +3936,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-23"
+    "id": "yay-23",
+    "guide": {
+      "meaning": "Güneşin tam tepede olduğu saatte saf altından yapılmış görkemli bir tapınak parıldar; duvarları ışığı yutmaz, tüm vadiye altın bir parlaklık yayar. Simyasal Rubedo ve Felsefe Taşının nihai tezahürüdür. Kabala'da Tiferet'in (Güneş / İnsandaki Tanrısal Benlik) tam uyanışıdır.",
+      "daily_use": "Değerinizi ve yeteneklerinizi saklamaktan vazgeçin. İçinizdeki ışığı, cömertliği ve sevgiyi tüm dünyaya cömertçe saçın; siz parladıkça çevrenizdeki herkes aydınlanacaktır.",
+      "shadow": "Göz kamaştırıcı bir kibir, başkalarını küçümseyen bir zenginlik veya gösteriş budalalığı.",
+      "affirmation": "Ben ilahi ışığın ve bilgeliğin yaşayan mabediyim. Varlığım dünyaya neşe, bereket ve asalet saçar."
+    }
   },
   {
     "degree": 24,
@@ -3813,7 +3951,13 @@ const sabianData = [
     "hermetic": "Uranüs–Chokmah",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-24"
+    "id": "yay-24",
+    "guide": {
+      "meaning": "Gece gökyüzünden yeryüzüne binlerce kayan yıldız yağar; her bir yıldız toprağa düştüğünde parlayan bir bilgi kristaline dönüşür. Uranüs ve Chokmah'ın (Kozmik Yaratıcı Akıl) ani ilham sağanağıdır. İnsanlığa bahşedilen kolektif inovasyon ve dahi fikirlerdir.",
+      "daily_use": "Yeni fikirlerin, ilhamların üzerinize yağdığı bir dönemdesiniz. Aklınıza gelen vizyoner fikirleri hemen not edin, ertelemeyin; bu fikirler geleceğinizi inşa edecek tohumlardır.",
+      "shadow": "Aynı anda yüz farklı fikre kapılıp hiçbirini somut bir projeye dökememek.",
+      "affirmation": "Kozmik bilgelik ve yaratıcı fikirler zihnime kesintisiz akar. Fikirlerimi hayata geçiriyorum."
+    }
   },
   {
     "degree": 25,
@@ -3822,7 +3966,13 @@ const sabianData = [
     "hermetic": "Keter bağlantısı",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-25"
+    "id": "yay-25",
+    "guide": {
+      "meaning": "Karanlık bir tapınağın ortasında hiç sönmeden yüzyıllardır yanan kutsal meşale; rahipler nöbetleşe yağı tazeler ve ateşi korur. Keter bağlantısı ve kesintisiz manevi sürekliliktir. Hermetik Geleneğin (Traditio Hermetica) asırlardır aktarılan sönmez ışığıdır.",
+      "daily_use": "Hayatınızdaki temel değerleri ve etik ilkeleri ne pahasına olursa olsun koruyun. Günlük hevesler gelip geçer, ancak içinizdeki dürüstlük ve inanç meşalesi asla sönmemelidir.",
+      "shadow": "Gelenekleri putlaştırıp çağa ayak uyduramamak, değişime karşı körü körüne direnmek.",
+      "affirmation": "İçimdeki hakikat ve erdem ateşi ebedidir. Değerlerimi sadakatle koruyor ve geleceğe taşıyorum."
+    }
   },
   {
     "degree": 26,
@@ -3831,7 +3981,13 @@ const sabianData = [
     "hermetic": "Chesed",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-26"
+    "id": "yay-26",
+    "guide": {
+      "meaning": "Geniş bir çayırda el ele tutuşarak devasa bir daire oluşturan farklı ırklardan, inançlardan insanlar; merkezdeki ilahi ışık hepsinin yüzünü aynı sevgiyle aydınlatır. Kabala'da Chesed'in (Kozmik Kardeşlik ve Sınırsız Sevgi) yeryüzündeki yansımasıdır. İnsanlığın nihai birliğidir.",
+      "daily_use": "Ayrımcılığı, kutuplaşmayı ve ötekileştirmeyi tamamen reddedin. Her insanda aynı ilahi özün nefes aldığını görün; birleştirici, sevgi dolu ve kucaklayıcı bir tutum sergileyin.",
+      "shadow": "Herkesi memnun etme çabasıyla kendi sınırlarını ve kişisel güvenliğini yok saymak.",
+      "affirmation": "Tüm insanlıkla kalpten birim. Sevgi, hoşgörü ve evrensel kardeşliğin ışığında yürüyorum."
+    }
   },
   {
     "degree": 27,
@@ -3840,7 +3996,13 @@ const sabianData = [
     "hermetic": "Hod",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-27"
+    "id": "yay-27",
+    "guide": {
+      "meaning": "Antik bir tapınak sütunundaki karmaşık geometrik sembolleri ve kutsal yazıları inceleyen bilgin, aniden şifreyi çözer; harfler parlayarak zihninde canlanır. Kabala'da Hod (Kutsal Yazıların Mantığı ve Şifre Çözümü) sefirasının aydınlanmasıdır. Hermetik ezoterizmin anahtarıdır.",
+      "daily_use": "Karşınıza çıkan karmaşık durumların ardındaki mantığı ve gizli sebebi arayın. Olayları sadece yüzeyden değerlendirmeyin; hayatın size gönderdiği mesajların şifresini bilgelikle çözün.",
+      "shadow": "Her şeyde gizli bir komplo veya şifre arayarak paranoyakça kuruntulara kapılmak.",
+      "affirmation": "Zihnim hakikatin gizli şifrelerini çözebilecek berraklıktadır. Hayatın derin anlamını anlıyorum."
+    }
   },
   {
     "degree": 28,
@@ -3849,7 +4011,13 @@ const sabianData = [
     "hermetic": "Keter",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-28"
+    "id": "yay-28",
+    "guide": {
+      "meaning": "Bir insanın sırtından açılan devasa saf ışık kanatları göğe uzanır; yerçekimi kaybolur, varlık tüm evrenin boyutları arasında serbestçe seyahat eder. Keter seviyesinde kozmik vizyon ve yüksek benlik uyanışıdır. Ruhun maddesel sınırlardan tamamen sıyrılmasıdır.",
+      "daily_use": "Kendinizi bedenden ve maddi sınırlardan ibaret görmeyin. Düşüncelerinizin ve ruhunuzun sınırları yoktur; zihninizi genişletin ve sınırsız potansiyelinizi hayal edin.",
+      "shadow": "Dünyayı ve bedensel yaşamı küçümsemek, kibre kapılarak 'ben ermişim' yanılgısına düşmek.",
+      "affirmation": "Ruhum sınırsız ve ebedidir. Işığın kanatlarıyla korkuları aşıyor, yüksek potansiyelime uçuyorum."
+    }
   },
   {
     "degree": 29,
@@ -3858,7 +4026,13 @@ const sabianData = [
     "hermetic": "Binah–Tiferet",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-29"
+    "id": "yay-29",
+    "guide": {
+      "meaning": "Sarp bir dağ patikasında yolunu kaybetmiş genç yolcunun karşısına çıkan pelerinli bilge rehber, asasıyla patikayı gösterir ve kulağına hayatını değiştirecek sırrı fısıldar. Kabala'da Binah (Büyük Rehber) ile Tiferet'in (Yolcu / Arayıcı) inisiyasyon buluşmasıdır.",
+      "daily_use": "Hayatınızda karşınıza çıkan ustalara, kitaplara ve rehberlere saygı gösterin ve onları dinleyin. Alçakgönüllülükle yardım istemekten ve doğru insanlardan akıl almaktan çekinmeyin.",
+      "shadow": "Kör bir sahte gururla kimseden akıl almamak veya sahte gurulara sorgusuz sualsiz biat etmek.",
+      "affirmation": "Ruhsal rehberliğe ve bilgeliğe alçakgönüllülükle açığım. Doğru zamanda doğru rehberler yoluma çıkar."
+    }
   },
   {
     "degree": 30,
@@ -3867,7 +4041,13 @@ const sabianData = [
     "hermetic": "Keter",
     "stage": "Rubedo",
     "sign": "Yay",
-    "id": "yay-30"
+    "id": "yay-30",
+    "guide": {
+      "meaning": "Gökyüzünde dönen kusursuz, göz kamaştırıcı bembeyaz bir ışık halkası; tüm zıtlıkların eridiği, zamanın durduğu ve evrenin mutlak huzurla nefes aldığı nokta. Kabala'da Keter'in (Mutlak İlahi Kaynak) ve Ain Soph Aur'un (Sonsuz Sınırsız Işık) tam tecellisidir. Yay burcunun nihai aydınlanma zirvesidir.",
+      "daily_use": "Hayatınızdaki ikilikleri, çatışmaları ve 'biz ve onlar' kavgalarını aşın. Her şeyin tek bir ilahi kaynaktan çıktığını ve oraya döneceğini bilerek derin bir içsel huzur içinde yaşayın.",
+      "shadow": "Nihai ışığa ulaştığını sanarak dünya hayatının sorumluluklarını tamamen terk etmek.",
+      "affirmation": "Bütünle ve sonsuz ışıkla birim. İçimdeki huzur ve birlik bilinci tüm evreni kucaklar."
+    }
   },
   {
     "degree": 1,
