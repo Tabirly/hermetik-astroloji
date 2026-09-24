@@ -339,6 +339,97 @@ html_template = """<!DOCTYPE html>
             }
         }
         
+
+        /* Guide Accordion Styles */
+        .s-guide-container {
+            margin-top: 18px;
+            width: 100%;
+            text-align: left;
+        }
+        .guide-toggle-btn {
+            width: 100%;
+            background: linear-gradient(135deg, rgba(0, 255, 232, 0.08), rgba(75, 92, 255, 0.12));
+            border: 1px solid rgba(0, 255, 232, 0.3);
+            border-radius: 12px;
+            color: var(--candy-1);
+            padding: 12px 16px;
+            font-size: 13px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            font-family: inherit;
+        }
+        .guide-toggle-btn:hover, .guide-toggle-btn.active {
+            background: linear-gradient(135deg, rgba(0, 255, 232, 0.16), rgba(75, 92, 255, 0.22));
+            border-color: rgba(0, 255, 232, 0.6);
+            box-shadow: 0 4px 20px rgba(0, 255, 232, 0.2);
+        }
+        .guide-btn-title {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .guide-icon {
+            font-size: 16px;
+        }
+        .guide-chevron {
+            font-size: 11px;
+            transition: transform 0.3s ease;
+            color: rgba(255, 255, 255, 0.7);
+        }
+        .guide-content {
+            margin-top: 10px;
+            background: rgba(6, 10, 24, 0.92);
+            border: 1px solid rgba(0, 255, 232, 0.2);
+            border-radius: 14px;
+            padding: 18px;
+            backdrop-filter: blur(10px);
+            animation: fadeInGuide 0.3s ease;
+        }
+        @keyframes fadeInGuide {
+            from { opacity: 0; transform: translateY(-6px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .guide-block {
+            margin-bottom: 14px;
+        }
+        .guide-block:last-child {
+            margin-bottom: 0;
+        }
+        .guide-block-title {
+            font-size: 12px;
+            font-weight: 700;
+            color: var(--candy-2);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 5px;
+        }
+        .guide-block-desc {
+            font-size: 13.5px;
+            line-height: 1.6;
+            color: #d1d5db;
+        }
+        .guide-block-desc strong {
+            color: #fff;
+        }
+        .guide-affirmation-block {
+            background: linear-gradient(135deg, rgba(75, 92, 255, 0.18), rgba(0, 255, 232, 0.1));
+            border-left: 3px solid var(--candy-1);
+            padding: 12px 14px;
+            border-radius: 8px;
+        }
+        .guide-affirmation-block .guide-block-title {
+            color: var(--candy-1);
+        }
+        .affirmation-text {
+            font-style: italic;
+            color: #f0f6fc;
+            font-weight: 500;
+        }
     </style>
 </head>
 <body>
@@ -424,6 +515,20 @@ html_template = """<!DOCTYPE html>
 <!-- VERI DOSYASI -->
 <script>
 {sabian_data}
+
+    function toggleGuide(btn) {
+        const content = btn.nextElementSibling;
+        const chevron = btn.querySelector('.guide-chevron');
+        if (content.style.display === 'none' || !content.style.display) {
+            content.style.display = 'block';
+            chevron.style.transform = 'rotate(180deg)';
+            btn.classList.add('active');
+        } else {
+            content.style.display = 'none';
+            chevron.style.transform = 'rotate(0deg)';
+            btn.classList.remove('active');
+        }
+    }
 </script>
 
 <script>
@@ -959,6 +1064,70 @@ html_template = """<!DOCTYPE html>
             imageHtml = `<img src="${imageLinks[symbol.id]}" class="symbol-image-active" alt="${altText}" title="${altText}" loading="lazy" />`;
         }
         
+        let guideHtml = '';
+        if (symbol.guide) {
+            guideHtml = `
+                <div class="s-guide-container">
+                    <button type="button" class="guide-toggle-btn" onclick="toggleGuide(this)">
+                        <span class="guide-btn-title"><span class="guide-icon">🔮</span> Sembolün Derin Anlamı & Yaşam Rehberi</span>
+                        <span class="guide-chevron">▼</span>
+                    </button>
+                    <div class="guide-content" style="display: none;">
+                        <div class="guide-block">
+                            <div class="guide-block-title">✨ Ezoterik & Sembolik Anlam</div>
+                            <div class="guide-block-desc">${symbol.guide.meaning}</div>
+                        </div>
+                        <div class="guide-block">
+                            <div class="guide-block-title">🧭 Günlük Hayatta Nasıl Kullanabiliriz?</div>
+                            <div class="guide-block-desc">${symbol.guide.daily_use}</div>
+                        </div>
+                        <div class="guide-block">
+                            <div class="guide-block-title">⚖️ Gölge Yönü & Dikkat Edilmesi Gerekenler</div>
+                            <div class="guide-block-desc">${symbol.guide.shadow}</div>
+                        </div>
+                        <div class="guide-block guide-affirmation-block">
+                            <div class="guide-block-title">🧘 Hermetik Olumlama & Meditasyon</div>
+                            <div class="guide-block-desc affirmation-text">"${symbol.guide.affirmation}"</div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        } else {
+            const stageDesc = {
+                "Nigredo": "Çürüme ve ego ölümü evresi; tohumun toprağın karanlığında kabuğunu çatlatıp yeni bir bilinç kıvılcımına hazırlandığı başlangıç anıdır.",
+                "Albedo": "Arınma ve Ay bilinci evresi; duygusal berraklık, sezgisel netlik ve zihinsel tortuların temizlendiği aydınlanma sürecidir.",
+                "Citrinitas": "Güneş bilinci ve altın ışık evresi; felsefi uyanış, bilgelik ve hakikatin doğrudan kavrandığı zihinsel aydınlanmadır.",
+                "Rubedo": "Bütünleşme ve Felsefe Taşı evresi; ruhun dünyevi bedende ustalıkla tezahür etmesi, saf ruhsal altının açığa çıkışıdır."
+            }[symbol.stage] || "Ruhsal dönüşüm evresi.";
+
+            guideHtml = `
+                <div class="s-guide-container">
+                    <button type="button" class="guide-toggle-btn" onclick="toggleGuide(this)">
+                        <span class="guide-btn-title"><span class="guide-icon">🔮</span> Sembolün Derin Anlamı & Yaşam Rehberi</span>
+                        <span class="guide-chevron">▼</span>
+                    </button>
+                    <div class="guide-content" style="display: none;">
+                        <div class="guide-block">
+                            <div class="guide-block-title">✨ Ezoterik & Sembolik Anlam</div>
+                            <div class="guide-block-desc">"${symbol.symbol}" vizyonu; ruhun ${symbol.sign} burcundaki ${symbol.degree}. derecesinde <strong>${symbol.theme}</strong> ilkesini açığa çıkarır. Bu sembol, bilincin derin katmanlarındaki saklı potansiyeli uyandırmak için bir anahtardır.</div>
+                        </div>
+                        <div class="guide-block">
+                            <div class="guide-block-title">🧭 Günlük Hayatta Nasıl Kullanabiliriz?</div>
+                            <div class="guide-block-desc">Bu derece gündeminizdeyken, hayatınızdaki <strong>${symbol.theme}</strong> alanına odaklanın. Kararlarınızı aceleye getirmeden, içsel bilgeliğinizin ve <strong>${symbol.hermetic}</strong> kozmik ilkesinin size rehberlik etmesine izin verin.</div>
+                        </div>
+                        <div class="guide-block">
+                            <div class="guide-block-title">⚗️ Simyasal Süreç: ${symbol.stage}</div>
+                            <div class="guide-block-desc">${stageDesc}</div>
+                        </div>
+                        <div class="guide-block guide-affirmation-block">
+                            <div class="guide-block-title">🧘 Hermetik Olumlama</div>
+                            <div class="guide-block-desc affirmation-text">"Evrenin kusursuz ritmiyle uyum içindeyim; ${symbol.theme.toLowerCase()} bilincimle varlığımı onurlandırıyorum."</div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
         const html = `
             <div class="symbol-card ${stageClass}" style="margin-top: 20px;">
                 <div class="symbol-image-container">
@@ -981,6 +1150,7 @@ html_template = """<!DOCTYPE html>
                         <div class="meta-val stage-val">${symbol.stage}</div>
                     </div>
                 </div>
+                ${guideHtml}
             </div>
         `;
         
@@ -992,6 +1162,20 @@ html_template = """<!DOCTYPE html>
             container.lastElementChild.scrollIntoView({behavior: "smooth", block: "start"});
         } else {
             container.innerHTML = html;
+        }
+    }
+
+    function toggleGuide(btn) {
+        const content = btn.nextElementSibling;
+        const chevron = btn.querySelector('.guide-chevron');
+        if (content.style.display === 'none' || !content.style.display) {
+            content.style.display = 'block';
+            chevron.style.transform = 'rotate(180deg)';
+            btn.classList.add('active');
+        } else {
+            content.style.display = 'none';
+            chevron.style.transform = 'rotate(0deg)';
+            btn.classList.remove('active');
         }
     }
 </script>

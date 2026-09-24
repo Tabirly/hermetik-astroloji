@@ -6,7 +6,13 @@ const sabianData = [
     "hermetic": "Prima Materia’dan çıkış",
     "stage": "Nigredo",
     "sign": "Koç",
-    "id": "koc-1"
+    "id": "koc-1",
+    "guide": {
+      "meaning": "Deniz; sınırsız, zamansız ve şekilsiz kolektif bilinçdışını (Prima Materia) temsil eder. Buradan çıkan kadın, bireysel bilincin evrendeki ilk doğuşunu simgeler. Yanındaki fok (deniz memelisi), hem suya (bilinçdışına) ait hem de akciğerleriyle nefes alan (dünyevi) bir köprü varlıktır. Kadını sarması; ruhun doğum anındaki ürkekliğini içgüdüsel bir koruma, sıcaklık ve şefkatle sarmaladığını gösterir.",
+      "daily_use": "Bir işe, projeye veya hayat evresine sıfırdan başlarken henüz hiçbir şey net değilken bile adım atma cesaretidir. Mükemmel olmayı beklemeyin; doğuş anının kırılganlığını kabul edin. Zihninizin henüz yolu bilmediği anlarda içgüdülerinizin ve bedeninizin koruyucu bilgeliğine güvenin.",
+      "shadow": "Dünyanın soğukluğundan veya savunmasız kalmaktan korkup güvenli bilinçdışına (sorumluluktan kaçış, bağımlılıklar, eylemsizlik) geri çekilme arzusu veya belirsizlik yüzünden panikle aşırı saldırganlaşmak.",
+      "affirmation": "Ben şekilsiz okyanustan doğan taze bilincim. Kırılganlığım zayıflık değil, saf potansiyelimin ilk nefesidir. İçgüdülerim beni korur ve ileriye taşır."
+    }
   },
   {
     "degree": 2,
