@@ -2706,7 +2706,13 @@ const sabianData = [
     "hermetic": "Venüs–Hava uyumu",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-1"
+    "id": "terazi-1",
+    "guide": {
+      "meaning": "Sanatçı, üfleme çubuğunun ucundaki akkor haldeki erimiş camı tek bir nefesle ve döner hareketlerle dengeler; ne çok hızlı ne çok yavaş döner. Venüs (Güzellik ve Form) ile Hava elementinin (Zihin ve Nefes) kusursuz dansıdır. Albedo (Beyaz Aşama: zihinsel berraklık) evresinde kırılgan dengelerin ustalıkla kurulmasıdır.",
+      "daily_use": "Hayatınızdaki hassas ilişkileri ve ortaklıkları bir cam ustası gibi yönetin. Aşırı baskı kurarsanız kırılır, boş bırakırsanız şekilsizleşir; nazik, dengeli ve özenli bir üslupla ilişkilerinizi şekillendirin.",
+      "shadow": "Dengeyi kaybetme korkusuyla aşırı tedirgin olmak, en ufak bir fikir ayrılığında her şeyin yıkılacağını sanmak.",
+      "affirmation": "İlişkilerimde ve hayatımda zarafetle denge kuruyorum. Nefesim, sözlerim ve eylemlerim uyum saçar."
+    }
   },
   {
     "degree": 2,
@@ -2715,7 +2721,13 @@ const sabianData = [
     "hermetic": "Venüs–Jüpiter",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-2"
+    "id": "terazi-2",
+    "guide": {
+      "meaning": "İki hasım ordunun elçileri yuvarlak bir masada bir araya gelir; zırhlar çıkarılmış, kılıçlar kınına sokulmuştur. Venüs (Uyum ve Barış) ile Jüpiter'in (Adalet, Hoşgörü ve Hakkaniyet) birleşimidir. Albedo aşamasında savaşın yıkımını durdurup diyaloğun onurunu yüceltme bilgeliğidir.",
+      "daily_use": "Çatışmalarda haklı çıkma hırsını bırakın ve barışı arayın. Karşı tarafın endişelerini dinleyin; ortak bir paydada buluşmak zaferden çok daha kalıcı bir huzur ve bereket getirir.",
+      "shadow": "Yüzeysel bir barış uğruna adaletsizlikleri halının altına süpürmek, sahte bir diplomatik nezaketle sorunu ertelemek.",
+      "affirmation": "Barışın ve uzlaşmanın kutsal elçisiyim. Farklılıkları anlayışla dinliyor, adaleti sevgiyle inşa ediyorum."
+    }
   },
   {
     "degree": 3,
@@ -2724,7 +2736,13 @@ const sabianData = [
     "hermetic": "Netzach–Yesod",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-3"
+    "id": "terazi-3",
+    "guide": {
+      "meaning": "Gümüşi Ay ışığının aydınlattığı terasta bir kadın ve bir erkek müziğin ritmiyle döner; iki beden tek bir hareket haline gelmiştir. Kabala'da Netzach (7. Sefira: Duygusal Aşk ve Coşku) ile Yesod'un (9. Sefira: Bilinçdışı Temel ve Ruhsal Çekim) kutsal kavuşumudur. Rubedo (Kızıl Aşama: zıtlıkların ruhsal birleşimi) evresidir.",
+      "daily_use": "İlişkilerinizde sadece zihinsel anlaşmaya değil, duygusal ve ruhsal uyuma da odaklanın. Karşınızdakini değiştirmeye çalışmak yerine onunla ritim tutun; gerçek sevgi iki kişinin birbirini tamamlayan dansıdır.",
+      "shadow": "Aşırı romantize ederek partnerine bağımlı hale gelmek, kendi bireysel kimliğini ilişkide tamamen yok etmek.",
+      "affirmation": "Ruhsal birleşimlerin kutsal ahengine açığım. Sevgim özgürleştirir, dengeler ve bütünleştirir."
+    }
   },
   {
     "degree": 4,
@@ -2733,7 +2751,13 @@ const sabianData = [
     "hermetic": "Hod–Venüs dengesi",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-4"
+    "id": "terazi-4",
+    "guide": {
+      "meaning": "Kütüphanenin serin loşluğunda oturan bilge, sararmış kadim el yazmalarını inceler; felsefe, sanat ve geometri kitaplarını yan yana koyar. Kabala'da Hod (Zihinsel Analiz ve Mantık) ile Venüs'ün (Estetik Uyum ve Denge) dengesidir. Albedo aşamasında aklın zarafetle eğitilmesidir.",
+      "daily_use": "Fikirlerinizi yüzeysel duygularla değil, derin araştırmalar ve felsefi bir bakış açısıyla tartın. Estetik ve kültürel bilginizi artırın; bilgili ve zarif bir zihin hayatın en büyük süsüdür.",
+      "shadow": "Kuru bir entelektüalizme saplanıp duyguları hor görmek, sürekli kitap okuyup hayatı yaşamayı unutmak.",
+      "affirmation": "Aklımı güzellikle, ruhumu bilgelikle süslüyorum. Öğrendiğim her hakikat hayatıma denge ve zarafet katar."
+    }
   },
   {
     "degree": 5,
@@ -2742,7 +2766,13 @@ const sabianData = [
     "hermetic": "Venüs doğası",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-5"
+    "id": "terazi-5",
+    "guide": {
+      "meaning": "Süt beyazı kusursuz bir kuğu, durgun göletin üzerinde tek bir dalga bile yaratmadan zarafetle süzülür. Venüs'ün (Saf Güzellik, Saflık ve Asalet) en yüksek doğasıdır. Rubedo aşamasında kaba dünyevi çekişmelerin ortasında bile dokunulmaz bir zarafetle var olabilme kudretidir.",
+      "daily_use": "Kaba, gürültülü ve hoyrat ortamlarda bile kendi içsel asillik ve nezaketinizi koruyun. Sesinizi yükseltmek yerine varlığınızın sükunetiyle saygı uyandırın; zarafet en sessiz ama en etkili güçtür.",
+      "shadow": "Dış görünüşü ve zarafeti bir kibir zırhı yaparak insanlara tepeden bakmak, kırılmaktan aşırı korkmak.",
+      "affirmation": "Ben zarafetin ve saf güzelliğin yeryüzündeki yansımasıyım. Varlığımla çevreme huzur ve asalet saçıyorum."
+    }
   },
   {
     "degree": 6,
@@ -2751,7 +2781,13 @@ const sabianData = [
     "hermetic": "Geburah–Chesed dengesi",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-6"
+    "id": "terazi-6",
+    "guide": {
+      "meaning": "Gözleri bağlı kadın elinde tuttuğu altın terazinin iki kefesini dengeler; arkasında ilahi Ma'at kanunu (Hakikat ve Kozmik Adalet) parıldar. Kabala'da Geburah (5. Sefira: Sert Adalet ve Keskin Hüküm) ile Chesed'in (4. Sefira: Sonsuz Merhamet ve İhsan) tam dengesidir. Rubedo aşamasında adaletin merhametle birleştiği ilahi ölçüdür.",
+      "daily_use": "Hüküm verirken önyargılarınızı, kişisel sempatilerinizi veya öfkelerinizi bir kenara bırakın. Objektif olun; haklının hakkını teslim edin. Ancak adaleti sağlarken merhameti, merhamet gösterirken de adaleti elden bırakmayın.",
+      "shadow": "Sürekli kararsızlık içinde kıvranmak, iki tarafı da memnun etmeye çalışırken adaletsizliğe ortak olmak.",
+      "affirmation": "Vicdanımın terazisi daima haktan ve hakikatten yanadır. Kararlarımı adalet, şefkat ve bilgelikle alıyorum."
+    }
   },
   {
     "degree": 7,
@@ -2760,7 +2796,13 @@ const sabianData = [
     "hermetic": "Tiferet yaratımı",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-7"
+    "id": "terazi-7",
+    "guide": {
+      "meaning": "Ressam bembeyaz boş tuvalin karşısına geçer ve elindeki fırçayla ilk renk darbesini vurur; yokluktan varlığa, boşluktan güzelliğe geçiş anıdır. Tiferet (Kabala'da 6. Sefira: Kalp, Öz Benlik ve Sanatsal Yaratım) merkezindedir. Albedo aşamasında ilahi ilhamın somut bir sanat eserine dönüşmesidir.",
+      "daily_use": "Hayatınızın boş tuvaline hangi renkleri katmak istediğinize karar verin. Yeni bir projeye başlarken ilk adımı atmaktan korkmayın; beyaz sayfa bir engel değil, sonsuz olasılıkların davetiyesidir.",
+      "shadow": "Mükemmel olmama korkusuyla tuvali hep boş bırakmak, yaratıcı cesareti gösteremeyip ertelemek.",
+      "affirmation": "Hayatımın baş ressamıyım. Boş tuvallere cesaretle, sevgiyle ve ilahi renklerle dokunuyorum."
+    }
   },
   {
     "degree": 8,
@@ -2769,7 +2811,13 @@ const sabianData = [
     "hermetic": "Güneş–Venüs uyumu",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-8"
+    "id": "terazi-8",
+    "guide": {
+      "meaning": "Güneşin altın ışıkları altında çimenlerde yuvarlanan çocuk neşeyle kahkaha atar; kahkahası tüm köyün içini ısıtır. Güneş (Bilinç Işığı) ile Venüs'ün (Saf Yaşam Sevinci) tam uyumudur. Rubedo aşamasında hayatın ağırlığının saf bir neşeyle hafifletilmesidir.",
+      "daily_use": "İçinizdeki çocuğu serbest bırakın. Hayatı sürekli ağır bir görev ve mücadele gibi yaşamayın; gülümseyin, sevdiklerinizle şakalaşın. Kahkaha ve neşe kalbin en hızlı şifa kapısıdır.",
+      "shadow": "Ciddiyet gerektiren durumlarda laubalileşmek, sorunları çözmek yerine hafife alarak kaçmak.",
+      "affirmation": "İçimdeki neşe güneşi tüm kasveti dağıtır. Hayatın sevincini ve hafifliğini coşkuyla yaşıyorum."
+    }
   },
   {
     "degree": 9,
@@ -2778,7 +2826,13 @@ const sabianData = [
     "hermetic": "Ay–Merkür köprüsü",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-9"
+    "id": "terazi-9",
+    "guide": {
+      "meaning": "Göz kamaştırıcı mavi bir kelebek, pencere camının üzerine konar ve kanatlarını yavaşça açıp kapatır; camın arkasındaki dünyayla içerideki dünya arasında köprüdür. Ay (Hassas Sezgi) ile Merkür'ün (Zihinsel Algı) köprüsüdür. Albedo aşamasında en ince detayları ve mikro işaretleri fark etme zarafetidir.",
+      "daily_use": "Hayatın ince detaylarına, küçük tesadüflerine ve zarif işaretlerine dikkat edin. Bazen bir bakış, bazen duvardaki bir kelebek zihninize ihtiyacınız olan cevabı fısıldar; hassas algınızı kapatmayın.",
+      "shadow": "Aşırı alınganlaşmak, her küçük şeyden kişisel bir alınganlık veya negatif bir anlam çıkarmak.",
+      "affirmation": "Algılarım berrak ve hassastır. Evrenin en ince ve zarif mesajlarını farkındalıkla okuyorum."
+    }
   },
   {
     "degree": 10,
@@ -2787,7 +2841,13 @@ const sabianData = [
     "hermetic": "Hod–Netzach hattı",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-10"
+    "id": "terazi-10",
+    "guide": {
+      "meaning": "Üniversitenin güneşli avlusunda oturan öğrenciler farklı felsefi tezleri hararetle ama birbirlerine saygıyla tartışır. Kabala'da Hod (Mantık ve Fikirler) ile Netzach (Sosyal Coşku ve İletişim) hattıdır. Albedo aşamasında zihinsel fikirlerin karşıt görüşlerle zenginleşip dengelenmesidir.",
+      "daily_use": "Farklı görüşlere sahip insanlarla medeni bir şekilde tartışmaktan korkmayın. Karşıt fikirleri bir düşmanlık değil, zihninizi bileyecek birer fırsat olarak görün; diyalog kurmak düşünceyi olgunlaştırır.",
+      "shadow": "Haklı çıkmak için sofistce laf oyunları yapmak, sırf tartışmış olmak için her şeye muhalefet etmek.",
+      "affirmation": "Zihnim farklı fikirlere açıktır. Saygılı ve yapıcı diyaloglarla zihnimi ve algımı genişletiyorum."
+    }
   },
   {
     "degree": 11,
@@ -2796,7 +2856,13 @@ const sabianData = [
     "hermetic": "Venüs–Merkür",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-11"
+    "id": "terazi-11",
+    "guide": {
+      "meaning": "Kadın gümüş çerçeveli aynanın karşısına geçer; yüzündeki çizgileri, gözlerinin derinliğini ve ifadesini hiçbir yargı gütmeden inceler. Venüs (Güzellik) ile Merkür'ün (Objektif Zihin) birleşimidir. Albedo aşamasında insanın dış görünüşünün ardındaki gerçek özbenliğiyle dürüstçe yüzleşmesidir.",
+      "daily_use": "Kendinize dürüst ve şefkatli bir gözle bakın. Eksiklerinizi de güzelliklerinizi de olduğu gibi kabul edin; sahte filtrelerin arkasına saklanmayı bırakın. Gerçek çekicilik samimi bir öz-kabulden doğar.",
+      "shadow": "Aynadaki görüntüsüne takıntılı olmak, yaşlanma korkusuyla veya estetik kusurlarla kendini hırpalamak.",
+      "affirmation": "Kendimi tüm varlığımla görüyor ve seviyorum. İçsel güzelliğim dışıma doğal bir zarafetle yansır."
+    }
   },
   {
     "degree": 12,
@@ -2805,7 +2871,13 @@ const sabianData = [
     "hermetic": "Ay–Venüs",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-12"
+    "id": "terazi-12",
+    "guide": {
+      "meaning": "Kuş sürüleri sonbahar rüzgarında gökyüzünde zarif spiral çizgiler çizerek güneye doğru süzülür. Ay–Venüs uyumudur. Albedo aşamasında değişen çevre koşullarına karşı direnç göstermeden, dengeyi bozmadan zarafetle yön değiştirebilme yeteneğidir.",
+      "daily_use": "Koşullar değiştiğinde inat etmeyin; esnek olun. Hayat sizi başka bir yöne çağırıyorsa, o yöne doğru zarafetle süzülün; esnek kalabilenler fırtınalarda asla kırılmazlar.",
+      "shadow": "Yönsüzce rüzgarın önünde savrulmak, kendi içsel pusulasını kaybetmek.",
+      "affirmation": "Hayatın rüzgarlarıyla dengede kalıyorum. Değişime zarafetle ve kolaylıkla uyum sağlıyorum."
+    }
   },
   {
     "degree": 13,
@@ -2814,7 +2886,13 @@ const sabianData = [
     "hermetic": "Netzach",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-13"
+    "id": "terazi-13",
+    "guide": {
+      "meaning": "Dans salonunun ortasında iki dansçı gözlerini birbirlerinden ayırmadan vals yapar; adım adım, nefes nefese tek bir ritimde dönerler. Kabala'da Netzach (Doğal Coşku, Aşk ve İlahi Ritim) sefirasıdır. Rubedo aşamasında ilişkide mükemmel uyumun ve senkronizasyonun zirvesidir.",
+      "daily_use": "İlişkilerinizde partnerinizin adımlarına dikkat edin. Sürekli kendi bildiğinizi okumak yerine karşılıklı geri bildirimlerle ritmi yakalayın; gerçek ortaklık iki kişinin tek bir ahenk oluşturmasıdır.",
+      "shadow": "Partnerin ayağına basınca panikleyip dansı terk etmek, mükemmeliyetçilikle anın büyüsünü bozmak.",
+      "affirmation": "İlişkilerimde mükemmel bir ritim ve uyum yakalıyorum. Sevgim karşımdakine alan açar ve yükseltir."
+    }
   },
   {
     "degree": 14,
@@ -2823,7 +2901,13 @@ const sabianData = [
     "hermetic": "Tiferet ışıması",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-14"
+    "id": "terazi-14",
+    "guide": {
+      "meaning": "Yağmurun ardından gökyüzünü saran devasa gökkuşağının altında duran kadın, ellerini göğe açarak içsel barış için dua eder. Tiferet (6. Sefira: Kalp ve İlahi Işık) ışımasıdır. Rubedo aşamasında tüm zıt duyguların (fırtına ve güneş) kalpte barışmasıdır.",
+      "daily_use": "İçinizdeki çatışmaları sona erdirin. Öfkenizle şefkatinizi, mantığınızla arzularınızı barıştırın; gökkuşağı gibi tüm renklerinizi kabul ettiğinizde ruhsal barışa ulaşırsınız.",
+      "shadow": "Yüzeysel bir dinginlik maskesi takıp içteki derin bastırılmış çatışmaları inkar etmek.",
+      "affirmation": "Ruhum ilahi barışın gökkuşağıyla aydınlanıyor. Tüm zıtlıklarım kalbimde mükemmel bir huzura eriyor."
+    }
   },
   {
     "degree": 15,
@@ -2832,7 +2916,13 @@ const sabianData = [
     "hermetic": "Hod–Netzach",
     "stage": "Albedo",
     "sign": "Terazi",
-    "id": "terazi-15"
+    "id": "terazi-15",
+    "guide": {
+      "meaning": "Zorlu bir davanın ardından iki tecrübeli hukukçu kütüphanenin koridorunda gülümseyerek el sıkışır; dava her iki tarafın da onurunu koruyan adil bir protokolle sonuçlanmıştır. Kabala'da Hod (Hukuk ve Akıl) ile Netzach'ın (Adalet ve Barış) dengesidir. Albedo aşamasında anlaşmazlıkların akılcı diplomasiyle çözülmesidir.",
+      "daily_use": "Hukuki, ticari veya kişisel anlaşmazlıklarınızı inatlaşarak mahkemelere dökmek yerine sulh yoluyla çözmeye çalışın. Her iki tarafın da onurunu gözeten adil sözleşmeler yapın.",
+      "shadow": "Hukuki hilelerle karşı tarafı kandırmaya çalışmak veya adaleti sadece kendi menfaati için eğip bükmek.",
+      "affirmation": "İletişimimde dürüstlük ve hakkaniyet esastır. Her türlü anlaşmazlığı adalet ve barışla çözüyorum."
+    }
   },
   {
     "degree": 16,
@@ -2841,7 +2931,13 @@ const sabianData = [
     "hermetic": "Uranüs–Venüs",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-16"
+    "id": "terazi-16",
+    "guide": {
+      "meaning": "Antik tapınağın mermer revakları arasından esen ılık rüzgar, tütsü kokularını ve fısıltıları dört bir yana dağıtır. Uranüs (Ani Uyanış) ile Venüs'ün (Estetik Uyum) birleşimidir. Rubedo aşamasında ilahi düzenin rüzgar gibi görünmeyen ama her şeyi tazeleyen varlığıdır.",
+      "daily_use": "Hayatınızın sıkışmış, havasız kalmış alanlarını tazeleyin. Evinizi havalandırın, rutinlerinizi değiştirin; zihninize taze esintilerin girmesine izin verin, yenilik ruhu canlandırır.",
+      "shadow": "Rüzgarın yönü değiştikçe korkuya kapılmak, aşırı tutuculukla pencereleri sımsıkı kapatmak.",
+      "affirmation": "Yenileyici ilahi rüzgarlara açığım. Hayatıma tazelik, canlılık ve özgürlük doluyor."
+    }
   },
   {
     "degree": 17,
@@ -2850,7 +2946,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-17"
+    "id": "terazi-17",
+    "guide": {
+      "meaning": "Ressam tepenin üzerinde oturur; günbatımının gökyüzündeki mor, turuncu ve altın tonlarını tuvaline aktarır; doğanın sanatını insan eliyle ölümsüzleştirir. Tiferet (Kalp ve Kozmik Güzellik) sefirasıdır. Rubedo aşamasında ilahi estetiğin dünyevi sanata dönüşmesidir.",
+      "daily_use": "Hayatınıza yaratıcılık katın. Bir resim yapın, fotoğraf çekin, yemek pişirin veya yazı yazın; çevrenizdeki güzellikleri fark edip onları kendi yaratıcı dilinizle ifade edin.",
+      "shadow": "Sanatı bir kibir ve üstünlük gösterisi haline getirmek, halktan kopuk snop bir tavra bürünmek.",
+      "affirmation": "Ben evrenin güzelliğini yansıtan yaratıcı bir kanalım. Sanatım ve sevgim dünyayı güzelleştirir."
+    }
   },
   {
     "degree": 18,
@@ -2859,7 +2961,13 @@ const sabianData = [
     "hermetic": "Netzach–Chesed",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-18"
+    "id": "terazi-18",
+    "guide": {
+      "meaning": "Bir meydanda el ele tutuşan onlarca kadın, ortak bir şarkı söyleyerek devasa bir sevgi ve koruma çemberi oluşturur. Kabala'da Netzach (Kolektif Sevgi) ile Chesed'in (İlahi Merhamet) birleşimidir. Rubedo aşamasında dayanışmanın ve şefkatin yenilmez gücüdür.",
+      "daily_use": "Yalnız kalmayın; benzer niyetleri taşıyan dostlarınızla, kadın veya erkek dayanışma gruplarıyla bir araya gelin. El ele verdiğinizde aşamayacağınız hiçbir engel yoktur; birlik sevgiyi çoğaltır.",
+      "shadow": "Grup içi klikleşmeler yaratmak, çemberin dışındakileri dışlayarak düşmanlaştırmak.",
+      "affirmation": "Birlik ve dayanışmanın gücüne inanıyorum. Kalpten kalbe kurulan bağlarla hayatı koruyor ve yüceltiyorum."
+    }
   },
   {
     "degree": 19,
@@ -2868,7 +2976,13 @@ const sabianData = [
     "hermetic": "Venüs",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-19"
+    "id": "terazi-19",
+    "guide": {
+      "meaning": "Kraliyet sarayının arkasında bin bir çeşit kokulu gülün açtığı teraslı bahçe, geometrik havuzlar ve mermer heykellerle kusursuz bir simetriye sahiptir. Venüs'ün estetik düzenidir. Rubedo aşamasında vahşi doğanın ilahi akıl ve sanatla cennete dönüştürülmesidir.",
+      "daily_use": "Yaşam alanınızı estetik bir nizama sokun. Çevrenizdeki düzensizliği toparlayın; gözünüze ve ruhunuza hitap eden zarif bir ortam yaratın; düzenli bir estetik içsel huzuru garanti eder.",
+      "shadow": "Dışsal simetriye o kadar takılmak ki canlı çiçeğin solmasına bile tahammül edememek.",
+      "affirmation": "Hayatımda zarafet ve estetik bir düzen kuruyorum. Kalbim ve çevrem huzur dolu bir gül bahçesidir."
+    }
   },
   {
     "degree": 20,
@@ -2877,7 +2991,13 @@ const sabianData = [
     "hermetic": "Keter geçidi",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-20"
+    "id": "terazi-20",
+    "guide": {
+      "meaning": "Kutsal figür gökten inen altın ve platin bir ışık halkasının (Hale / Portal) tam ortasında durur; arayan kişi bu halkadan geçtiğinde tüm dünyevi ikilikler erir. Kabala'da Keter (1. Sefira: Taç ve Mutlak Birlik) geçididir. Rubedo aşamasında zıtlıkların ilahi birlikte erimesidir.",
+      "daily_use": "Doğru ile yanlış, güzel ile çirkin çatışmasını aşın. Her şeyin daha yüksek bir ilahi planın parçası olduğunu idrak edin; yargılamayı bırakın, koşulsuz bir kabul ve birlik bilincine geçin.",
+      "shadow": "Kendini seçilmiş bir melek zannederek dünyevi sorumlulukları tamamen küçümsemek.",
+      "affirmation": "İlahi uyumun altın halkasındayım. Tüm zıtlıkları aşıyor, birlik bilincinin huzurunda dinleniyorum."
+    }
   },
   {
     "degree": 21,
@@ -2886,7 +3006,13 @@ const sabianData = [
     "hermetic": "Netzach",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-21"
+    "id": "terazi-21",
+    "guide": {
+      "meaning": "Kadın gökyüzünde parlayan yedi renkli gökkuşağının üzerinde adeta bir merdivenden çıkar gibi yürür; ayağı kaymaz, çünkü kalbi tüy kadar hafiftir. Kabala'da Netzach (İlahi Zafer ve Sezgi) sefirasıdır. Rubedo aşamasında tüm duygusal sınavları başarıyla tamamlayan ruhun göksel barışa yükselişidir.",
+      "daily_use": "Hayatın iniş çıkışlarını başarıyla atlattınız. Artık krizlerin çamurunda değil, derslerin gökkuşağında yürüyün; kalbinizin hafifliğine ve masumiyetine güvenin.",
+      "shadow": "Gerçek dünyadan kopup fanteziler aleminde yürümek, ayakları yere basmayan bir hayalperestlik.",
+      "affirmation": "Kalbim tüy kadar hafif ve huzurludur. Yaşamın renkli gökkuşağında güvenle ve neşeyle yükseliyorum."
+    }
   },
   {
     "degree": 22,
@@ -2895,7 +3021,13 @@ const sabianData = [
     "hermetic": "Hod–Netzach",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-22"
+    "id": "terazi-22",
+    "guide": {
+      "meaning": "Tapınağın kutsal sunağının önünde yazılan barış anlaşması mühürlenir; iki krallık arasındaki asırlık savaş ebediyen sona ermiştir. Kabala'da Hod (Yasal Düzen) ile Netzach'ın (Kalıcı Uyum) zaferidir. Rubedo aşamasında kalıcı barışın ve kutsal sözleşmelerin ilanıdır.",
+      "daily_use": "Geçmişin tüm kavgalarına, kırgınlıklarına ve küslüklerine son noktayı koyun. İçinizde ve dışınızda ebedi bir barış ilan edin; affetmek ve uzlaşmak en büyük ruhsal zaferdir.",
+      "shadow": "İçi boş mühürler vurup arkadan gizli intikam planları beslemek.",
+      "affirmation": "Hayatımla ve geçmişimle ebedi bir barış sözleşmesi imzalıyorum. Uyum ve esenlik benim kalıcı gerçeğimdir."
+    }
   },
   {
     "degree": 23,
@@ -2904,7 +3036,13 @@ const sabianData = [
     "hermetic": "Venüs",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-23"
+    "id": "terazi-23",
+    "guide": {
+      "meaning": "Karanlık bir odanın ortasında kristal bir vazoda duran tek bir kırmızı gül, etrafına ışık saçar; o sadece bir çiçek değil, ilahi aşkın yaşayan lambasıdır. Venüs'ün (İlahi Aşk ve Ruhsal Çekim) zirvesidir. Rubedo aşamasında sevginin dünyadaki en güçlü ışık kaynağı oluşudur.",
+      "daily_use": "Sevginizi gizlemeyin; kalbinizin ışığını korkusuzca saçın. Bir odaya girdiğinizde odayı aydınlatan şey sözleriniz değil, yaydığınız saf sevgi frekansıdır; sevgiyle yaklaşan herkesi fetheder.",
+      "shadow": "Aşkı bir pazarlığa veya sahiplenici bir kıskançlığa dönüştürmek.",
+      "affirmation": "Kalbim ilahi aşkın parlayan gülüdür. Varlığımla dünyaya saf sevgi, şefkat ve ışık saçıyorum."
+    }
   },
   {
     "degree": 24,
@@ -2913,7 +3051,13 @@ const sabianData = [
     "hermetic": "Chesed",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-24"
+    "id": "terazi-24",
+    "guide": {
+      "meaning": "Uçsuz bucaksız yıldızlı gökyüzünün altında duran bir kadın ve bir erkek el ele tutuşarak sonsuzluğa bakar; aralarındaki bağ sadece bu dünyaya değil, yıldızlara aittir. Kabala'da Chesed (4. Sefira: Sonsuz İlahi Merhamet ve Kozmik Birlik) sefirasıdır. Ruh eşlerinin kozmik birliğidir.",
+      "daily_use": "İlişkilerinizi günlük küçük tartışmaların ötesinde, ruhsal bir yol arkadaşlığı olarak görün. Birlikte göğe bakın, ortak hayaller kurun; yüksek bir vizyonu paylaşan ilişkiler sarsılmazdır.",
+      "shadow": "Yıldızlara bakarken dünyevi evin kirasını veya sorumluluklarını unutmak.",
+      "affirmation": "Ruhsal birlikteliğim evrensel bir armoniye dayanır. Sevgim sonsuzlukla ve hakikatle beslenir."
+    }
   },
   {
     "degree": 25,
@@ -2922,7 +3066,13 @@ const sabianData = [
     "hermetic": "Geburah–Chesed",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-25"
+    "id": "terazi-25",
+    "guide": {
+      "meaning": "Ak sakallı bilge elindeki terazinin kefelerine insanın kalbini ve bir kuğu tüyünü koyar; kalp tüyden hafif çıktığında ilahi kapılar açılır. Antik Mısır Ma'at kanunu ve Kabala'da Geburah–Chesed dengesidir. Rubedo aşamasında vicdanın mutlak saflığı ve adalettir.",
+      "daily_use": "Kalbinizi kin, suçluluk ve pişmanlık ağırlıklarından kurtarın. Bir tüy kadar hafif yaşayın; kimseye haksızlık etmeyin, kimsenin hakkını yemeyin; vicdan rahatlığı dünyadaki en büyük zenginliktir.",
+      "shadow": "Kendi vicdanını rahatlatmak için başkalarını haksız yere suçlamak.",
+      "affirmation": "Kalbim bir tüy kadar hafif ve temizdir. Vicdanımın ve ilahi adaletin huzurunda dimdik duruyorum."
+    }
   },
   {
     "degree": 26,
@@ -2931,7 +3081,13 @@ const sabianData = [
     "hermetic": "Netzach–Hod",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-26"
+    "id": "terazi-26",
+    "guide": {
+      "meaning": "İki dağın arasındaki derin uçurumu birleştiren saf kuvarstan kristal köprü, rüzgarda bile titremez; şeffaftır ama kırılmazdır. Kabala'da Netzach (Duygu) ile Hod'un (Mantık) kusursuz mühendislik dengesidir. Rubedo aşamasında akıl ile kalbin kalıcı birleşimidir.",
+      "daily_use": "Mantığınız ile duygularınızı asla birbirine düşman etmeyin. Kararlarınızı kalbinizle hissedin, aklınızla planlayın; kristal köprü gibi şeffaf, sağlam ve dürüst bir köprü kurun.",
+      "shadow": "Köprünün şeffaflığına aldanıp uçurumdan korkarak adım atmaktan vazgeçmek.",
+      "affirmation": "Aklım ve kalbim kristal bir köprüyle birbirine bağlıdır. Kararlarım sağlam, şeffaf ve dengelidir."
+    }
   },
   {
     "degree": 27,
@@ -2940,7 +3096,13 @@ const sabianData = [
     "hermetic": "Tiferet",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-27"
+    "id": "terazi-27",
+    "guide": {
+      "meaning": "Tapınağın en mahrem odasında (Kutsalların Kutsalı) tek bir kandil yanar; bu ışık ne rüzgarla söner ne de yakıta ihtiyaç duyar. Tiferet (Kabala'da Kalp Mabedi ve Ruhsal Merkez) merkezindedir. Rubedo aşamasında insanın içindeki sönmeyen ilahi bilgelik çırasıdır.",
+      "daily_use": "Dışarıdaki tüm ışıklar sönse bile içinizdeki umut ve bilgelik ışığının asla sönmeyeceğini bilin. Kendi iç mabedinize güvenin; en zor zamanlarda yolunuzu o ışık aydınlatacaktır.",
+      "shadow": "İçindeki ışığı unutup sürekli dışarıdan rehber ve kurtarıcı aramak.",
+      "affirmation": "İçimdeki ilahi bilgelik ışığı ebediyen parlar. Kendi mabedimde huzur, güven ve güç buluyorum."
+    }
   },
   {
     "degree": 28,
@@ -2949,7 +3111,13 @@ const sabianData = [
     "hermetic": "Netzach",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-28"
+    "id": "terazi-28",
+    "guide": {
+      "meaning": "Kusursuz bir işçilikle dövülmüş som altından bir halka (yüzük), başlangıcı ve sonu olmayan ebedi sadakati ve birliği simgeler. Kabala'da Netzach (Sonsuz Aşk ve Bağlılık) sefirasıdır. Rubedo aşamasında ruhun kendi ilahi özüne ve sevdiklerine verdiği ebedi sözdür.",
+      "daily_use": "Sözlerinize ve taahhütlerinize sadık kalın. Kendinize verdiğiniz sözleri tutun; güven ve sadakat ilişkilerin temel harcıdır. Altın bir halka gibi sarsılmaz bir dürüstlükle bağlanın.",
+      "shadow": "Bağlılığı bir prangaya ve esarete dönüştürmek, toksik ilişkileri 'sadakat' adı altında sürdürmek.",
+      "affirmation": "Sözüm ve kalbim altın bir halka gibi değerlidir. Sevgiye, hakikate ve değerlerime sadakatle bağlıyım."
+    }
   },
   {
     "degree": 29,
@@ -2958,7 +3126,13 @@ const sabianData = [
     "hermetic": "Keter",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-29"
+    "id": "terazi-29",
+    "guide": {
+      "meaning": "Gökyüzünde dönen devasa geometrik çarklar, yin-yang ve altın oran sembolleri kusursuz bir ritimle birbirine kilitlenir. Kabala'da Keter (1. Sefira: Evrensel Düzen ve Mutlak Taç) makamıdır. Evrendeki hiçbir şeyin tesadüf olmadığının, her şeyin kusursuz bir ilahi dengede işlediğinin idrakidir.",
+      "daily_use": "Hayatınızdaki olayların ardındaki ilahi adalete ve zamana güvenin. Başınıza gelen her şey sizi olgunlaştıran mükemmel bir dengenin parçasıdır; evrenle savaşmayı bırakın, ritme teslim olun.",
+      "shadow": "Kozmik düzeni anlayamadığı için evreni kaotik ve adaletsiz sanıp öfkeye kapılmak.",
+      "affirmation": "Evrenin kusursuz kozmik dengesiyle uyum içindeyim. Hayatımdaki her şey doğru zamanda, mükemmel bir nizamla akar."
+    }
   },
   {
     "degree": 30,
@@ -2967,7 +3141,13 @@ const sabianData = [
     "hermetic": "Keter",
     "stage": "Rubedo",
     "sign": "Terazi",
-    "id": "terazi-30"
+    "id": "terazi-30",
+    "guide": {
+      "meaning": "Terazi burcunun mutlak zirvesidir. İki zıt figür (eril ve dişil, ışık ve karanlık) göz kamaştırıcı bir ışık sarmalının içinde birbirine sarılır ve tek bir ilahi varlık olur. Kabala'da Keter (Mutlak Taç ve Birlik) makamıdır. Terazi'nin 30 derecelik denge yolculuğunun 'Kozmik Aşk ve Nihai Birlik' ile taçlanmasıdır.",
+      "daily_use": "Tüm ayrımları, çatışmaları ve ikilikleri sevginin simyasıyla aşın. Siz ve dünya ayrı değilsiniz; her varlıkta kendinizi görün. Koşulsuz sevgiye ve mutlak birliğe teslim olun; sevgi her şeyin nihai cevabıdır.",
+      "shadow": "Kozmik aşkı dünyevi heveslerle karıştırıp hayal kırıklığına uğramak.",
+      "affirmation": "Tüm zıtlıklar kalbimde birleşiyor. Ben kozmik aşkın saf bilinciyim; evrenle bir ve ebediyen bütünüm."
+    }
   },
   {
     "degree": 1,
