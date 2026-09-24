@@ -21,7 +21,13 @@ const sabianData = [
     "hermetic": "Mars ateşi",
     "stage": "Nigredo",
     "sign": "Koç",
-    "id": "koc-2"
+    "id": "koc-2",
+    "guide": {
+      "meaning": "İnsan artık karadadır ama önünde açılmış patika yoktur; etrafı vahşi, el değmemiş doğayla çevrilidir. Bu, iradenin ham maddeyle ilk doğrudan çatışmasıdır. Mars ateşi, dışarıdan rehber beklemeden kendi baltasıyla kendi yolunu açan öncü ruhun ateşidir.",
+      "daily_use": "Kimsenin daha önce yürümediği bir alanda tek başınıza kaldığınızda tereddüt etmeyin. Hazır reçeteler aramak yerine kendi kurallarınızı koyun ve kendi yolunuzu bizzat yürüyerek inşa edin.",
+      "shadow": "Yolunu kaybetme korkusuyla paniklemek, doğayla (çevreyle) inatlaşıp körü körüne yıkıcı bir öfkeyle hareket etmek, yardım kabul etmeyi zayıflık saymak.",
+      "affirmation": "Önümde yol olmasa bile iradem yolu yaratacak güçtedir. İçimdeki ilahi kıvılcım her engeli aşar."
+    }
   },
   {
     "degree": 3,
@@ -30,7 +36,13 @@ const sabianData = [
     "hermetic": "Hermes aklı",
     "stage": "Albedo",
     "sign": "Koç",
-    "id": "koc-3"
+    "id": "koc-3",
+    "guide": {
+      "meaning": "Hermes aklı devrededir; tecrübe ile genç heves, usta ile çırak karşılaşır. Birey tek başına savaşamayacağını anlar; kadim bilginin aktarımı başlar. Albedo aşamasında bilinç, ham dürtülerini zihinsel bir öğretiyle arındırmaya başlar.",
+      "daily_use": "Öğrenmeye, mentorluğa ve bilge tavsiyelerine açık olun. Bir konuda ne kadar hevesli olursanız olun, o yolun pirlerinden feyz almak gücünüzü katlar. Aynı zamanda bildiklerinizi paylaşmaya gönüllü olun.",
+      "shadow": "Kibir yüzünden rehberliği reddetmek, 'ben zaten her şeyi biliyorum' yanılgısına düşmek veya tam tersi kendi gücünü tamamen otoriteye teslim etmek.",
+      "affirmation": "Ruhum kadim bilgeliğe açık bir öğrencidir. Hakikati öğrenir, arınır ve bilinçle ilerlerim."
+    }
   },
   {
     "degree": 4,
@@ -39,7 +51,13 @@ const sabianData = [
     "hermetic": "Mars–Venüs doğurganlığı",
     "stage": "Albedo",
     "sign": "Koç",
-    "id": "koc-4"
+    "id": "koc-4",
+    "guide": {
+      "meaning": "Tohum karanlık toprağa ekilmiş ve ilk yeşil sürgünü vermiştir. Mars'ın tohumu eken itici gücü ile Venüs'ün toprağı besleyen şefkati birleşmiştir. Henüz hasat yoktur ama hayatın vaadi kesindir.",
+      "daily_use": "Emek verdiğiniz işlerin ilk küçük meyvelerini sabırla koruyun. Büyük sonuçlar için acele etmeyin; filiz henüz narindir, onu şüpheyle ezmeyin, şefkatle besleyin.",
+      "shadow": "Sabırsızlık yüzünden filizi erken koparmak, emeğin karşılığının hemen gelmediğini düşünüp hayal kırıklığına uğramak ve pes etmek.",
+      "affirmation": "Ektiğim niyetler kök salıyor ve filizleniyor. Doğanın ilahi zamanlamasına güveniyorum."
+    }
   },
   {
     "degree": 5,
@@ -48,7 +66,13 @@ const sabianData = [
     "hermetic": "Ruhsal bedenlenme",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-5"
+    "id": "koc-5",
+    "guide": {
+      "meaning": "Tırtılın kozadaki çürüme ve dönüşüm evresi tamamlanmış, kanatlanan ruh dünyevi ağırlıklardan sıyrılarak göğe açılmıştır. Bu, bedene inen ruhun tam bir metamorfozudur; Rubedo'nun ilk zaferidir.",
+      "daily_use": "Eski kalıplarınızı, sizi kısıtlayan inançlarınızı ve dar kozanızı arkada bırakın. Değişimden korkmayın; yeni formunuzun güzelliğini ve özgürlüğünü kucaklayın.",
+      "shadow": "Kozayı erkenden yırtmaya çalışmak veya tam tersine uçma sorumluluğundan korkup kozanın içinde çürümeyi seçmek.",
+      "affirmation": "Eski kabuğumu bırakıyorum. Ruhum kanatlarını açıyor ve özgürce kendi göğünde yükseliyor."
+    }
   },
   {
     "degree": 6,
@@ -57,7 +81,13 @@ const sabianData = [
     "hermetic": "Mars–Jüpiter keşfi",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-6"
+    "id": "koc-6",
+    "guide": {
+      "meaning": "Birey doğup büyüdüğü toprakları, konfor alanını ve tanıdık sınırları arkasında bırakır. Mars'ın cesareti Jüpiter'in ufuk genişliğiyle buluşur; yabancı bir diyarda yeni bir gelecek inşa etme kararlılığıdır.",
+      "daily_use": "Alışkanlıklarınızı, sınırlarınızı ve güvenli alanlarınızı terk etmeniz gereken anlarda bu dereceye sığının. Yeni bir sektöre, yeni bir şehre veya yeni bir hayat tarzına geçmek için gereken kutsal cüreti bulun.",
+      "shadow": "Köklerini tamamen inkar etmek, nereye giderse gitsin içsel huzursuzluğunu da yanında taşıyıp sürekli kaçış içinde yaşamak.",
+      "affirmation": "Geleceğe cesaretle adım atıyorum. Bilinmeyen beni korkutmaz; yeni dünyalar kurmaya hazırım."
+    }
   },
   {
     "degree": 7,
@@ -66,7 +96,13 @@ const sabianData = [
     "hermetic": "Ay–Mars sentezi",
     "stage": "Albedo",
     "sign": "Koç",
-    "id": "koc-7"
+    "id": "koc-7",
+    "guide": {
+      "meaning": "Su hayattır, duygudur ve ruhtur. Kadın figürü, hayatın devamlılığı için gerekli olan kutsal kaynağı taşır. Mars'ın eylemi Ay'ın besleyici, koruyucu ve şefkatli doğasıyla dengelenir; güç artık hizmete dönüşür.",
+      "daily_use": "Sadece kendiniz için değil, sevdikleriniz ve çevreniz için de duygusal bir kaynak, bir destek olun. Eylemlerinize şefkat ve duygu katın; kuru mantık yerine kalbinizin suyunu akıtın.",
+      "shadow": "Başkalarının yükünü taşırken kendi kabını tüketmek, fedakarlık kisvesi altında kurban psikolojisine bürünmek.",
+      "affirmation": "Hayat veren suyu sevgiyle taşıyorum. İçimdeki tükenmez kaynak hem beni hem çevremi besler."
+    }
   },
   {
     "degree": 8,
@@ -75,7 +111,13 @@ const sabianData = [
     "hermetic": "Merkür rezonansı",
     "stage": "Albedo",
     "sign": "Koç",
-    "id": "koc-8"
+    "id": "koc-8",
+    "guide": {
+      "meaning": "Aksiyon durur, sessizlik başlar. Kadın, doğanın saf frekansıyla rezonansa girer. Kuşun şarkısı, görünmeyen alemlerden gelen Merkürsel bir mesajdır; zihnin sustuğu yerde sezginin şarkısı duyulur.",
+      "daily_use": "Karar vermeden önce gürültüyü kesin ve doğayı/iç sesinizi dinleyin. Mantığın tıkandığı yerde sezgilerinize, eşzamanlılıklara ve küçük işaretlere kulak kabartın.",
+      "shadow": "Sürekli meşguliyet bahanesiyle iç sesi bastırmak veya tam tersine gerçeklerden kopup her şeyden mantıksız gizli anlamlar çıkarmak.",
+      "affirmation": "Zihnimi sessizliğe bırakıyorum. Evrenin ince fısıltılarını ve ruhumun şarkısını duyuyorum."
+    }
   },
   {
     "degree": 9,
@@ -84,7 +126,13 @@ const sabianData = [
     "hermetic": "Güneş–Neptün birlikteliği",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-9"
+    "id": "koc-9",
+    "guide": {
+      "meaning": "Yüksek zirvelerden aşağıya dökülen berrak kristal su, Güneş'in ışığıyla birleşerek gökkuşağı saçar. Bu, zihnin ve bedenin en saf kozmik enerjiyle yıkanması, ruhsal bir arınma şelalesidir.",
+      "daily_use": "Enerjinizi tıkayan ağırlıklardan, eski kırgınlıklardan ve negatif tortulardan arının. Ruhunuzu tazeleyin; berrak ve net kararlar almak için zihninizi durulayın.",
+      "shadow": "Aşırı mükemmeliyetçilik arayışıyla hayatın doğal pürüzlerini reddetmek, steril bir fildişi kuleye kapanmak.",
+      "affirmation": "Kozmik ışık şelalesi beni tepeden tırnağa arındırıyor. Saf enerjiyle doluyor ve ışıldıyorum."
+    }
   },
   {
     "degree": 10,
@@ -93,7 +141,13 @@ const sabianData = [
     "hermetic": "Satürn aynası",
     "stage": "Nigredo",
     "sign": "Koç",
-    "id": "koc-10"
+    "id": "koc-10",
+    "guide": {
+      "meaning": "Kişi durur ve arkasına bakar; yerde kendi gölgesini görür. Satürn aynası devrededir. Işık varsa gölge de vardır. Birey, bastırdığı korkuları, zayıflıkları ve karanlık yanıyla ilk dürüst yüzleşmesini yaşar.",
+      "daily_use": "Hatalarınızı, korkularınızı ve zayıf noktalarınızı inkar etmeyin. Onları düşman değil, henüz ışık görmemiş parçalarınız olarak kabul edin; bütünleşme ancak gölgeyi kucaklayarak mümkündür.",
+      "shadow": "Kendi kusurlarını başkalarına yansıtıp etrafı suçlamak veya kendi karanlığında boğulup yetersizlik hissine kapılmak.",
+      "affirmation": "Gölgemden korkmuyorum; onu şuurumun ışığıyla selamlıyorum. Ben bütünüm, gerçeğim ve güçlüyüm."
+    }
   },
   {
     "degree": 11,
@@ -102,7 +156,13 @@ const sabianData = [
     "hermetic": "Tiferet farkındalığı",
     "stage": "Albedo",
     "sign": "Koç",
-    "id": "koc-11"
+    "id": "koc-11",
+    "guide": {
+      "meaning": "Sosyal roller, takılan maskeler erir ve gerçek insanın yüzü açığa çıkar. Tiferet (Güzellik ve Öz Benlik) merkezindedir. Toplumun biçtiği kalıpların ötesinde, 'Ben kimim?' sorusunun samimi cevabıdır.",
+      "daily_use": "Başkalarını memnun etmek için taktığınız yapay maskeleri çıkarın. Kendiniz olmaktan korkmayın; özgünlüğünüz ve samimiyetiniz en büyük çekim gücünüzdür.",
+      "shadow": "Sahte kimliklere sığınarak yaşamak, dış onay bağımlılığı yüzünden kendi özünü tamamen unutmak.",
+      "affirmation": "Tüm maskelerimi indiriyorum. Kendi özgün yüzümle, hakiki benliğimle var oluyorum."
+    }
   },
   {
     "degree": 12,
@@ -111,7 +171,13 @@ const sabianData = [
     "hermetic": "Geburah disiplini",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-12"
+    "id": "koc-12",
+    "guide": {
+      "meaning": "Vahşi at, kontrolsüz ham tutkuları, öfkeyi ve dizginsiz içgüdüleri simgeler. Adam onu öldürmez, ehlileştirir. Geburah'ın disiplini sayesinde güç yok edilmez; yüksek bir amaca hizmet edecek şekilde yönlendirilir.",
+      "daily_use": "Öfkenizi, hırsınızı veya dürtülerinizi bastırmayın; onları odaklanmış bir disipline dönüştürün. Enerjinizi dağıtmak yerine tek bir hedefe kanalize edin.",
+      "shadow": "Dürtülerin esiri olup yıkıcı davranmak ya da aşırı baskıcı kontrolle içindeki yaşam enerjisini tamamen söndürmek.",
+      "affirmation": "Dürtülerim benim efendim değil, gücümün kaynağıdır. Tutkularımı bilgelikle yönetiyorum."
+    }
   },
   {
     "degree": 13,
@@ -120,7 +186,13 @@ const sabianData = [
     "hermetic": "Güneş–Mars birleşimi",
     "stage": "Albedo",
     "sign": "Koç",
-    "id": "koc-13"
+    "id": "koc-13",
+    "guide": {
+      "meaning": "Çocuklar, saf ve masum yaşam sevincidir. Güneş'in hayat veren ışığı altında hiçbir kaygı gütmeden var olurlar. Mars'ın ateşi ile Güneş'in ışığı birleşerek ruha neşe, tazelik ve yaşama sevinci pompalar.",
+      "daily_use": "İçinizdeki çocuğu hatırlayın. Hayatı sürekli ağır bir sorumluluk gibi taşımak yerine oyunun, kahkahanın ve anın tadını çıkarın. Basit mutluluklara yer açın.",
+      "shadow": "Aşırı sorumsuzluk, çocuksu kaprisler ve gerçek dünyadan koparak sorumluluklardan kaçmak.",
+      "affirmation": "Hayatın saf neşesini kalbime çekiyorum. Yaşam enerjim güneş gibi pırıl pırıl parlıyor."
+    }
   },
   {
     "degree": 14,
@@ -129,7 +201,13 @@ const sabianData = [
     "hermetic": "Mars–Jüpiter",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-14"
+    "id": "koc-14",
+    "guide": {
+      "meaning": "Zorlu tırmanış tamamlanmış, kaşif dağın en yüksek zirvesine kendi sancağını dikmiştir. Mars'ın iradesi Jüpiter'in zaferiyle taçlanmıştır. Bireysel hedefe ulaşmanın ve kendini kanıtlamanın zirve noktasıdır.",
+      "daily_use": "Hedefinize doğru sonuna kadar gidin ve başarınızı kutlayın. Kendi alanınızda otoritenizi kurun; emeğinizin hakkını teslim etmekten çekinmeyin.",
+      "shadow": "Zafer sarhoşluğuyla kibre kapılmak, zirvede yalnız kalıp etrafındaki herkesi küçümsemek.",
+      "affirmation": "Zirveye olan inancımı korudum ve başardım. Gücümü alçakgönüllülükle ve onurla taşıyorum."
+    }
   },
   {
     "degree": 15,
@@ -138,7 +216,13 @@ const sabianData = [
     "hermetic": "Netzach–Hod",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-15"
+    "id": "koc-15",
+    "guide": {
+      "meaning": "Tek bir alevden yüzlerce mum yakılabilir ama ana ışık eksilmez. Karanlık bir odada mumun etrafında toplanan insanlar, ortak bir manevi amaca kenetlenmiş ruh birliğini simgeler. Netzach ve Hod dengesidir.",
+      "daily_use": "Yalnız savaşçı rolünü bırakıp ortak ideallere sahip insanlarla bir araya gelin. Işığınızı paylaşın; birlikte üretmenin ve kalben kenetlenmenin sinerjisinden güç alın.",
+      "shadow": "Grup baskısına boyun eğerek bireysel aklını kaybetmek veya ışığı sadece kendine saklamaya çalışmak.",
+      "affirmation": "Ruhsal ailemle bir aradayım. Birlikte yaktığımız ışık tüm karanlıkları aydınlatır."
+    }
   },
   {
     "degree": 16,
@@ -147,7 +231,13 @@ const sabianData = [
     "hermetic": "Tiferet–Malkut",
     "stage": "Albedo",
     "sign": "Koç",
-    "id": "koc-16"
+    "id": "koc-16",
+    "guide": {
+      "meaning": "Birey sessizce oturur ve ormanın, rüzgarın, toprağın sesini dinler. Tiferet (güneş kalbi) ile Malkut (somut dünya) arasında köprü kurulur. İnsan doğanın efendisi değil, onun canlı bir parçası olduğunu anlar.",
+      "daily_use": "Hızlı yaşamın hengamesinden çıkıp doğayla temas kurun. Ayaklarınızı toprağa basın, ağaçları dinleyin. Bedeninizin doğal biyolojik ritmine saygı gösterin.",
+      "shadow": "Doğadan ve bedenden tamamen kopup sadece zihinde ve sanal dünyada yaşamak.",
+      "affirmation": "Toprak Ana'nın ritmini dinliyorum. Doğanın bilgeliği hücrelerimde yankılanıyor."
+    }
   },
   {
     "degree": 17,
@@ -156,7 +246,13 @@ const sabianData = [
     "hermetic": "Venüs–Uranüs",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-17"
+    "id": "koc-17",
+    "guide": {
+      "meaning": "Rüzgar görünmez ama kudretlidir; kadın ona direnmez, onunla birlikte dans eder. Venüs'ün zarafeti Uranüs'ün ani esintileriyle uyumlanır. Hayatın beklenmedik değişimlerine direnmek yerine akışa uyum sağlama sanatıdır.",
+      "daily_use": "Planlarınız bozulduğunda direnmeyin; rüzgarın sizi nereye götürmek istediğine bakın. Değişime esneklikle karşılık verin; uyum sağlamak pes etmek değil, dans etmektir.",
+      "shadow": "Rüzgarın önüne kapılıp tamamen köksüz savrulmak, sınırlarını koruyamayıp yönünü kaybetmek.",
+      "affirmation": "Hayatın rüzgarlarıyla dans ediyorum. Esnekliğim benim en büyük gücümdür; akışa güveniyorum."
+    }
   },
   {
     "degree": 18,
@@ -165,7 +261,13 @@ const sabianData = [
     "hermetic": "Mars–Plüton",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-18"
+    "id": "koc-18",
+    "guide": {
+      "meaning": "Simyasal fırının (Athanor) en sıcak yeridir. Savaşçı alevlerin içine adım atar; çünkü ancak yanan şey cürufundan arınır. Mars ve Plüton birleşimidir; küllerinden yeniden doğacak Phoenix'in arınma ateşidir.",
+      "daily_use": "Zorlu krizleri, acıları veya kayıpları birer son olarak değil, ruhunuzu saflaştıran simyasal bir ateş olarak görün. Size hizmet etmeyen her şeyi bu ateşte yakın ve yenilenin.",
+      "shadow": "Aşırı öfke, yıkıcılık veya kendini cezalandırma eğilimi; ateşi dönüştürmek yerine yakıp kül etmek.",
+      "affirmation": "Zorlukların ateşi beni tüketmez, arındırır. Küllerimden çok daha güçlü ve saf doğuyorum."
+    }
   },
   {
     "degree": 19,
@@ -174,7 +276,13 @@ const sabianData = [
     "hermetic": "Binah–Yesod",
     "stage": "Albedo",
     "sign": "Koç",
-    "id": "koc-19"
+    "id": "koc-19",
+    "guide": {
+      "meaning": "Görünüşte kurak bir arazide adam toprağı kazar ve taze bir su kaynağı fışkırır. Binah'ın derin kavrayışı Yesod'un temel enerjisiyle birleşir. Kıtlık zannedilen yerde saklı zenginliği keşfetme dehasıdır.",
+      "daily_use": "Tükendiğinizi düşündüğünüz anlarda içinizdeki derin rezervlere bakın. Çözümsüz gibi görünen durumlarda biraz daha derine inin; aradığınız kaynak burnunuzun ucunda saklıdır.",
+      "shadow": "Sığ bakış açısı yüzünden çabuk vazgeçmek, içsel zenginliği görmeyip sürekli dışarıdan yardım dilenmek.",
+      "affirmation": "İçimdeki kaynaklar tükenmezdir. Ruhumun derinliklerindeki saklı bereketi açığa çıkarıyorum."
+    }
   },
   {
     "degree": 20,
@@ -183,7 +291,13 @@ const sabianData = [
     "hermetic": "Jüpiter–Merkür rehberliği",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-20"
+    "id": "koc-20",
+    "guide": {
+      "meaning": "Gece karanlığında tek bir kişi değil, ellerinde meşalelerle ilerleyen bir topluluk vardır. Jüpiter'in yüksek vizyonu Merkür'ün ortak aklıyla birleşmiştir. İnsanlığın cehalet karanlığını birlikte aşma yürüyüşüdür.",
+      "daily_use": "Toplumsal veya mesleki projelerde öncülük edin, insanlara umut ve yön verin. Kolektif bir amaç için meşalenizi kaldırın; dayanışma en karanlık geceleri gündüze çevirir.",
+      "shadow": "Kör bir inançla liderin arkasından sorgulamadan sürüklenmek veya sürü psikolojisine yenik düşmek.",
+      "affirmation": "Karanlık yollarda meşalemi yüksekte tutuyorum. Birlikte yürüdüğümüz yol aydınlıktır."
+    }
   },
   {
     "degree": 21,
@@ -192,7 +306,13 @@ const sabianData = [
     "hermetic": "Tiferet–Keter",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-21"
+    "id": "koc-21",
+    "guide": {
+      "meaning": "Yerden göğe yükselen devasa bir ışık sütunu, yeryüzü ile gökyüzünü birbirine bağlar. Tiferet'ten Keter'e uzanan kutsal omurgadır (Sushumna / Yakup'un Merdiveni). Bireyin ilahi kaynağa doğrudan bağlanışıdır.",
+      "daily_use": "Dünyevi dertlerin içinde boğulmak yerine bilincinizi yüksek boyutlara kaldırın. Meditasyon, dua veya derin niyetlerle ilahi merkezle hizalanın; dik durun ve ışığınızı saçın.",
+      "shadow": "Dünyevi gerçekleri ve bedeni küçümseyip aşırı mistik bir kaçışa saplanmak (ruhsal bypass).",
+      "affirmation": "Ben yer ile gök arasında sarsılmaz bir ışık sütunuyum. İlahi olanla doğrudan bağlantıdayım."
+    }
   },
   {
     "degree": 22,
@@ -201,7 +321,13 @@ const sabianData = [
     "hermetic": "Mars–Güneş",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-22"
+    "id": "koc-22",
+    "guide": {
+      "meaning": "Önde yürüyen adam elinde tek bir meşale tutar; arkasındakilere yolu gösterir. Mars'ın öncü cesareti Güneş'in asil liderliğiyle birleşmiştir. Korkusuz, sorumlu ve örnek olan gerçek lider arketipidir.",
+      "daily_use": "Bir kriz veya belirsizlik anında inisiyatif alın. Başkalarının cesaret edemediği yerde öne çıkın ve yolu aydınlatın; liderlik emir vermek değil, yolu bizzat yürüyerek göstermektir.",
+      "shadow": "Tiranlaşmak, tek adam kibrine kapılmak veya takipçilerinin bağımlı kalmasını isteyerek ışığı tekeline almak.",
+      "affirmation": "Cesaretle öne çıkıyor ve yolu aydınlatıyorum. Liderliğim sevgi, adalet ve hakikatten beslenir."
+    }
   },
   {
     "degree": 23,
@@ -210,7 +336,13 @@ const sabianData = [
     "hermetic": "Uranüs–Jüpiter",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-23"
+    "id": "koc-23",
+    "guide": {
+      "meaning": "Kartal kanatlarını açmış, ovanın metrelerce üzerinde süzülmektedir. Aşağıdaki en küçük ayrıntıyı bile görür ama hiçbirine saplanıp kalmaz. Uranüs'ün yüksek perspektifi ile Jüpiter'in geniş görüşüdür.",
+      "daily_use": "Olaylara kuşbakışı bakın. Küçük tartışmaların ve geçici krizlerin içine gömülmeyin; resmin bütününü görün ve stratejik, yüksek bir vizyonla hareket edin.",
+      "shadow": "Aşırı soğuk, duygusuz ve kibirli bir mesafeyle insanlara tepeden bakmak, empatiyi yitirmek.",
+      "affirmation": "Gökyüzünün kartalı gibi olaylara yüksekten ve berrak bakıyorum. Büyük resmi görüyorum."
+    }
   },
   {
     "degree": 24,
@@ -219,7 +351,13 @@ const sabianData = [
     "hermetic": "Venüs–Mars",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-24"
+    "id": "koc-24",
+    "guide": {
+      "meaning": "Kadın göğsünde kırmızı bir gül tutar. Gül; hem tutkuyu hem de simyadaki ruhsal bilgeliği, kalbin uyanışını simgeler. Dikenler hayatın acılarını, kırmızı taç yapraklar ise o acılardan doğan kusursuz sevgiyi temsil eder.",
+      "daily_use": "Tutkunuzu kalbinizin bilgeliğiyle birleştirin. Sevginizi göstermekten, tutkulu olmaktan ve hayatı derin duygularla yaşamaktan çekinmeyin; kalp zekası zihinden çok daha güçlüdür.",
+      "shadow": "Aşırı şehvet, kıskançlık ve tutkuların esiri olmak veya dikenden korkup kalbini tamamen kapatmak.",
+      "affirmation": "Kalbimi sevgiye ve tutkuya açıyorum. Hayatın acılarını kalbimin simyasıyla bilgeliğe dönüştürüyorum."
+    }
   },
   {
     "degree": 25,
@@ -228,7 +366,13 @@ const sabianData = [
     "hermetic": "Plüton",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-25"
+    "id": "koc-25",
+    "guide": {
+      "meaning": "Bir topluluk el ele tutuşarak yanan kömürlerin / ateşin üzerinden geçer ve hiçbiri yanmaz. Bu, korkunun aşılması ve kolektif inancın mucizeye dönüşmesidir. Plütonik bir arınma ve yeniden doğuş ritüelidir.",
+      "daily_use": "Korkularınızın üzerine cesaretle gidin. İmkansız gibi görünen engellerin aslında birer zihinsel yanılsama olduğunu fark edin; inancınız sizi her ateşten sağ çıkarır.",
+      "shadow": "Gereksiz yere kendini tehlikeye atmak, fanatizme kapılmak ve tehlikeyi mantıksızca kışkırtmak.",
+      "affirmation": "Korku ateşinden güvenle geçiyorum. Hiçbir zorluk benim ruhsal kudretime zarar veremez."
+    }
   },
   {
     "degree": 26,
@@ -237,7 +381,13 @@ const sabianData = [
     "hermetic": "Geburah–Tiferet",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-26"
+    "id": "koc-26",
+    "guide": {
+      "meaning": "Savaşçı artık ham bir savaşçı değildir; mücadelesi kraliyet tacıyla taçlandırılmıştır. Geburah'ın gücü Tiferet'in hükümdarlığına dönüşmüştür. Kendi nefsiyle savaşını kazanan kişinin içsel krallığıdır.",
+      "daily_use": "Kendi hayatınızın hükümdarı olun. Gücünüzü kanıtlamak için kavga etmenize gerek kalmadığını bilin; asil, adil ve kararlı duruşunuz zaten gereken saygıyı sağlayacaktır.",
+      "shadow": "Kibir, mağrurluk ve başkalarına hükmetme arzusu; tahtını kaybetme korkusuyla zalimleşmek.",
+      "affirmation": "Ben kendi bilincimin ve hayatımın egemeniyim. Gücümü bilgelik ve adaletle taşıyorum."
+    }
   },
   {
     "degree": 27,
@@ -246,7 +396,13 @@ const sabianData = [
     "hermetic": "Neptün",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-27"
+    "id": "koc-27",
+    "guide": {
+      "meaning": "Yelkenli gemi denizden ayrılmış, bulutların arasında göğe doğru yelken açmıştır. Neptün'ün mistik suları artık göksel boyuttadır. Dünyevi sınırların aşıldığı, ruhun kozmik boyutlara açıldığı seyrüseferdir.",
+      "daily_use": "Maddi dünyanın ağırlıklarını hafifletin; hayal gücünüze, vizyonlarınıza ve ruhsal ideallerinize yelken açın. İmkansız denilen hedeflere inanma cüretini gösterin.",
+      "shadow": "Gerçeklikten tamamen kopup hayal aleminde kaybolmak, dünyevi sorumlulukları tamamen terk etmek.",
+      "affirmation": "Ruhumun gemisi göksel rüzgarlarla ilerliyor. Maddenin ötesindeki sonsuz olasılıklara açılıyorum."
+    }
   },
   {
     "degree": 28,
@@ -255,7 +411,13 @@ const sabianData = [
     "hermetic": "Binah–Keter",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-28"
+    "id": "koc-28",
+    "guide": {
+      "meaning": "Büyük tapınağın ağır taş kapıları sessizce iki yana açılır; içeriden ilahi bir parıltı yayılır. Binah ile Keter arasındaki eşiktir. Gizli hakikatlerin layık olana görünür olduğu inisiyasyon anıdır.",
+      "daily_use": "Hayatınızda kutsal bir eşikte olduğunuzu bilin. Yeni bir anlayışa, derin bir idrake adım atıyorsunuz; bu dönemi hürmetle, farkındalıkla ve saygıyla karşılayın.",
+      "shadow": "Hazır olmadan sırları zorlamaya çalışmak veya kutsala karşı saygısız, yüzeysel bir merak gütmek.",
+      "affirmation": "Tapınağın kapısı önümde açılıyor. İlahi gizemleri saygıyla, saf bir kalple karşılamaya hazırım."
+    }
   },
   {
     "degree": 29,
@@ -264,7 +426,13 @@ const sabianData = [
     "hermetic": "Chokmah",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-29"
+    "id": "koc-29",
+    "guide": {
+      "meaning": "Ak sakallı bilge, kadim dillerde yazılmış parşömenleri huşuyla okur. Chokmah (İlahi Hikmet) mertebesidir. Evrenin varoluş kanunlarını, kutsal geometriyi ve zamanın ötesindeki hakikati kavrayış halidir.",
+      "daily_use": "Yüzeysel bilgilerle yetinmeyin; hayatın, olayların ve varoluşun derin felsefesini öğrenmeye yönelin. Tecrübelerinizden kalıcı dersler ve bilgelik damıtın.",
+      "shadow": "Bilgiyi pratik hayattan kopuk kuru bir entelektüalizme dönüştürmek, öğrendiklerini yaşamamak.",
+      "affirmation": "Evrenin kadim hafızasına bağlanıyorum. Okuduğum her satır ve yaşadığım her an bilincimi aydınlatıyor."
+    }
   },
   {
     "degree": 30,
@@ -273,7 +441,13 @@ const sabianData = [
     "hermetic": "Keter",
     "stage": "Rubedo",
     "sign": "Koç",
-    "id": "koc-30"
+    "id": "koc-30",
+    "guide": {
+      "meaning": "Koç döngüsünün mutlak zirvesidir. Birey başının üzerinde saf altından bir ışık halesi taşır. Keter (Taç) sefirasıdır. Ham benlikten başlayan 30 derecelik simyasal yolculuğun Felsefe Taşı ile tamamlanması ve aydınlanışıdır.",
+      "daily_use": "Tüm potansiyelinizin birleştiği, ustalık mertebesine ulaştığınız bir evredesiniz. Kendinize tam güvenin; ışığınızı etrafınıza saçarak başkalarına da ilham olun.",
+      "shadow": "Ruhsal narsisizm, kendini seçilmiş veya kusursuz sanarak tevazuyu tamamen yitirmek.",
+      "affirmation": "Ben ilahi ışığın taçlandırdığı saf bilincim. Yolculuğumu tamamladım; ışığım evrenle bir."
+    }
   },
   {
     "degree": 1,
